@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-04T03:49:32.433317+00:00",
-    "menuHash": "50a4da2a28e2164615109bb6a11aa32ac9cc1270fff6b4c68c921abccad56965",
+    "lastUpdated": "2025-12-05T03:47:43.480890+00:00",
+    "menuHash": "b5505b7241dd3781bf0437447d0d6ce00ef60c4af2471c48446bb29047f9b196",
     "menu": [
-        {
-            "date": "2025-12-03",
-            "calories": 781,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Kre Mantar Çorba"
-                    },
-                    {
-                        "name": "Etli Taze Fasulye"
-                    },
-                    {
-                        "name": "İstanbul Pilavı"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-04",
             "calories": 998,
@@ -101,6 +76,9 @@
                     },
                     {
                         "name": "Keşkül"
+                    },
+                    {
+                        "name": "Beytepe Revani"
                     },
                     {
                         "name": "* Etsiz Nohut"
