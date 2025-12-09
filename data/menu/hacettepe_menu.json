@@ -3,115 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-08T03:52:44.990292+00:00",
-    "menuHash": "b5505b7241dd3781bf0437447d0d6ce00ef60c4af2471c48446bb29047f9b196",
+    "lastUpdated": "2025-12-09T03:47:21.699365+00:00",
+    "menuHash": "98e45d73a8f6f8526acc546addc53fc78a80575adb5594bebb3220e73d3b8aec",
     "menu": [
-        {
-            "date": "2025-12-04",
-            "calories": 998,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Kafkas Çorba"
-                    },
-                    {
-                        "name": "Hindi Fileto (Brokoli Graten)"
-                    },
-                    {
-                        "name": "Kırmızı Lahana Havuç Salata"
-                    },
-                    {
-                        "name": "Kazandibi"
-                    },
-                    {
-                        "name": "* Etsiz Türlü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2025-12-05",
-            "calories": 1140,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorba"
-                    },
-                    {
-                        "name": "Mantarlı Et Sote"
-                    },
-                    {
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "name": "Cacık"
-                    },
-                    {
-                        "name": "* Etsiz Mantar Sote"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2025-12-06",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Şehriye Çorba"
-                    },
-                    {
-                        "name": "Hamburger Köfte (parmak patates garni)"
-                    },
-                    {
-                        "name": "Kısır"
-                    },
-                    {
-                        "name": "Beytepe Soslu Patlıcan Biber Tava"
-                    },
-                    {
-                        "name": "Keşkül"
-                    },
-                    {
-                        "name": "Beytepe Revani"
-                    },
-                    {
-                        "name": "* Etsiz Nohut"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2025-12-07",
-            "calories": 1079,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Toyga Çorbası"
-                    },
-                    {
-                        "name": "Kıymalı Kapuska"
-                    },
-                    {
-                        "name": "Cevizli Erişte"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Kapuska"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-08",
             "calories": 871,
@@ -164,7 +58,7 @@
         },
         {
             "date": "2025-12-10",
-            "calories": 1476,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -179,6 +73,9 @@
                     },
                     {
                         "name": "Brownie"
+                    },
+                    {
+                        "name": "Beytepe Lokma Tatlısı"
                     },
                     {
                         "name": "* Etsiz Taze Fasulye"
