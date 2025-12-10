@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-09T03:47:21.699365+00:00",
-    "menuHash": "98e45d73a8f6f8526acc546addc53fc78a80575adb5594bebb3220e73d3b8aec",
+    "lastUpdated": "2025-12-10T03:52:58.743502+00:00",
+    "menuHash": "03e00efcaeb2fc14914f78fffbea2dfa84e55a7f3a0d3b5ce568ff0d9a5289c3",
     "menu": [
-        {
-            "date": "2025-12-08",
-            "calories": 871,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Domates Çorba"
-                    },
-                    {
-                        "name": "Terbiyeli Köfte"
-                    },
-                    {
-                        "name": "Karışık Lahana Salata"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Patates"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-09",
             "calories": 0,
@@ -211,12 +186,15 @@
         },
         {
             "date": "2025-12-16",
-            "calories": 1402,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
                         "name": "Domates Çorba"
+                    },
+                    {
+                        "name": "Beytepe Tarhana Çorbası"
                     },
                     {
                         "name": "Dana Tandır (pilav garni)"
@@ -226,6 +204,9 @@
                     },
                     {
                         "name": "Supangle"
+                    },
+                    {
+                        "name": "Beytepe Brownie"
                     },
                     {
                         "name": "* Etsiz Taze Fasulye"
