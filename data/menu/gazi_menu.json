@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-10T03:52:52.742336+00:00",
-    "menuHash": "fe3090972bb7cd4840d0a009a38d2c15362023ff6bc20bcc8715a7dee460b9a6",
+    "lastUpdated": "2025-12-11T03:54:32.569574+00:00",
+    "menuHash": "345eff6983b7d57ddf0ff556f05ca0a745dcd24f96be0563f8ff9c82636149ed",
     "menu": [
         {
             "date": "2025-12-01",
@@ -288,7 +288,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Kafkas Çorba"
+                        "name": "Ispanak Çorba"
                     },
                     {
                         "name": "Pilav Üstü Et Kav."
