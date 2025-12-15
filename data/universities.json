@@ -1,6 +1,7 @@
 [
   {
     "name": "Gazi Üniversitesi",
+    "id": "gazi",
     "campuses": [
       {
         "name": "Merkez (Teknoloji)",
@@ -12,20 +13,55 @@
       },
       {
         "name": "Beşevler (Eğitim)",
-        "departments": ["Gazi Eğitim Fakültesi", "Eczacılık Fakültesi"]
+        "departments": ["Gazi Eğitim Fakültesi", "Eczacılık Fakültesi", "İİBF"]
+      },
+      {
+        "name": "Emek",
+        "departments": ["Tıp Fakültesi", "Diş Hekimliği"]
+      },
+      {
+        "name": "Gölbaşı",
+        "departments": ["Yabancı Diller Yüksekokulu"]
       }
     ]
   },
   {
     "name": "Hacettepe Üniversitesi",
+    "id": "hacettepe",
     "campuses": [
       {
         "name": "Beytepe",
-        "departments": ["Mühendislik Fakültesi", "Edebiyat Fakültesi", "İİBF"]
+        "departments": ["Mühendislik Fakültesi", "Edebiyat Fakültesi", "İİBF", "Hukuk Fakültesi", "Eğitim Fakültesi"]
       },
       {
         "name": "Sıhhiye",
-        "departments": ["Tıp Fakültesi", "Diş Hekimliği", "Eczacılık"]
+        "departments": ["Tıp Fakültesi", "Diş Hekimliği", "Eczacılık", "Hemşirelik"]
+      }
+    ]
+  },
+  {
+    "name": "Ankara Üniversitesi",
+    "id": "ankara",
+    "campuses": [
+      {
+        "name": "Tandoğan Yerleşkesi",
+        "departments": ["Fen Fakültesi", "Mühendislik Fakültesi", "Eczacılık Fakültesi"]
+      },
+      {
+        "name": "Cebeci Yerleşkesi",
+        "departments": ["Siyasal Bilgiler (Mülkiye)", "Hukuk Fakültesi", "Eğitim Bilimleri", "İletişim Fakültesi"]
+      },
+      {
+        "name": "Sıhhiye Yerleşkesi",
+        "departments": ["Tıp Fakültesi", "Diş Hekimliği Fakültesi", "Sağlık Bilimleri"]
+      },
+      {
+        "name": "Dışkapı Yerleşkesi",
+        "departments": ["Ziraat Fakültesi", "Veteriner Fakültesi"]
+      },
+      {
+        "name": "Gölbaşı Yerleşkesi",
+        "departments": ["Yabancı Diller Yüksekokulu", "Spor Bilimleri"]
       }
     ]
   }
