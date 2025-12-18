@@ -3,37 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-17T03:51:25.672713+00:00",
-    "menuHash": "8cf116db837d9a378fc45006e52d126c33a1fd63ba037501bf15bdc071f9307c",
+    "lastUpdated": "2025-12-18T03:52:48.276626+00:00",
+    "menuHash": "6a6e6b27550ab16ca43d4e1289b7ef49610451d5dc64695c5942e6c720133643",
     "menu": [
-        {
-            "date": "2025-12-16",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Tarhana Çorbası"
-                    },
-                    {
-                        "name": "Dana Tandır (pilav garni)"
-                    },
-                    {
-                        "name": "Fesleğenli Lahana Salata"
-                    },
-                    {
-                        "name": "Supangle"
-                    },
-                    {
-                        "name": "Beytepe Brownie"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-17",
             "calories": 1002,
@@ -600,7 +572,7 @@
                         "name": "Yoğ. Kereviz Salata"
                     },
                     {
-                        "name": "Lokam Tatlısı"
+                        "name": "Lokma Tatlısı"
                     },
                     {
                         "name": "* Mantarlı Et Sote"
@@ -625,7 +597,7 @@
                         "name": "Ezogelin Pilavı"
                     },
                     {
-                        "name": "Turşu20"
+                        "name": "Turşu"
                     },
                     {
                         "name": "* Etsiz Nohut"
@@ -666,13 +638,13 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Alaca Çorbası (a)"
+                        "name": "Alaca Çorbası"
                     },
                     {
                         "name": "Kıymalı Kapuska"
                     },
                     {
-                        "name": "Soslu Makarna8A"
+                        "name": "Soslu Makarna"
                     },
                     {
                         "name": "Ayran"
@@ -829,31 +801,6 @@
                     },
                     {
                         "name": "* Etsiz Türlü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-18",
-            "calories": 1176,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Toyga Çorbası"
-                    },
-                    {
-                        "name": "Sebzeli Et Kavurma"
-                    },
-                    {
-                        "name": "Spagetti Napoliten"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye"
                     }
                 ],
                 "aksam": null
