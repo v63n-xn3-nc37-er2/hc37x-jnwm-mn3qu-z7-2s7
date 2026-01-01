@@ -3,59 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2025-12-31T03:57:33.528451+00:00",
-    "menuHash": "14a39b4aa72daedf0893a9077db874361ca1b796e1f622c367b5b8267d149da5",
+    "lastUpdated": "2026-01-01T04:06:33.387699+00:00",
+    "menuHash": "69edd3573438e40ce6d25b11867b63e923e31bdd5bdf9bd954e751f816c32137",
     "menu": [
-        {
-            "date": "2025-12-29",
-            "calories": 902,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Sebze Çorba"
-                    },
-                    {
-                        "name": "Etli Kuru Fasulye"
-                    },
-                    {
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "name": "Turşu"
-                    },
-                    {
-                        "name": "* Etsiz Kuru Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2025-12-30",
-            "calories": 950,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Yayla Çorba"
-                    },
-                    {
-                        "name": "Rosto Köfte Püreli"
-                    },
-                    {
-                        "name": "Mısırlı Havuç Salata"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Yeşil Mercimek"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2025-12-31",
             "calories": 1395,
@@ -201,6 +151,9 @@
                     },
                     {
                         "name": "* Etsiz Karnabahar"
+                    },
+                    {
+                        "name": "* Beytepe Etsiz Taze Fasulye"
                     }
                 ],
                 "aksam": null
@@ -261,7 +214,7 @@
         },
         {
             "date": "2026-01-08",
-            "calories": 1155,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -281,7 +234,7 @@
                         "name": "Lokma Tatlısı"
                     },
                     {
-                        "name": "* Mantarlı Et Sote"
+                        "name": "Beytepe Meyve * Mantarlı Et Sote"
                     }
                 ],
                 "aksam": null
@@ -314,7 +267,7 @@
         },
         {
             "date": "2026-01-10",
-            "calories": 1614,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -326,6 +279,9 @@
                     },
                     {
                         "name": "Zyt. Pırasa"
+                    },
+                    {
+                        "name": "Beytepe Havuç Salata"
                     },
                     {
                         "name": "Çikolatalı İrmik Tatlısı"
