@@ -3,134 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-05T04:12:57.366956+00:00",
-    "menuHash": "69edd3573438e40ce6d25b11867b63e923e31bdd5bdf9bd954e751f816c32137",
+    "lastUpdated": "2026-01-06T03:59:30.022740+00:00",
+    "menuHash": "292efb0a9b68d1d522259da61868adaf4b7fb9a2c3d0fb8dc7e9daf9d8a84cd5",
     "menu": [
-        {
-            "date": "2025-12-31",
-            "calories": 1395,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "name": "Hindi Fileto (kestane pilav gar.)"
-                    },
-                    {
-                        "name": "Mor Dünya Salata"
-                    },
-                    {
-                        "name": "Ayva Tatlısı"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-01",
-            "calories": 1178,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Bulgur Çorbası"
-                    },
-                    {
-                        "name": "Kaş. Yumurtalı Ispanak"
-                    },
-                    {
-                        "name": "Soslu Makarna"
-                    },
-                    {
-                        "name": "Hoşaf"
-                    },
-                    {
-                        "name": "* Etsiz Ispanak"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-02",
-            "calories": 1221,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Şehriye Çorbası"
-                    },
-                    {
-                        "name": "Julyen Kebap (parmak patates garni)"
-                    },
-                    {
-                        "name": "Gökçesu Pilavı"
-                    },
-                    {
-                        "name": "Ayran"
-                    },
-                    {
-                        "name": "* Etsiz Mantar Sote"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-03",
-            "calories": 1088,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Maraş Çorba"
-                    },
-                    {
-                        "name": "Etli Taze Fasulye"
-                    },
-                    {
-                        "name": "Cevizli Erişte"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-04",
-            "calories": 1554,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Rumeli Çorba A*D*C"
-                    },
-                    {
-                        "name": "Çiftlik Köfte A*C"
-                    },
-                    {
-                        "name": "Nohut Salata"
-                    },
-                    {
-                        "name": "Revani"
-                    },
-                    {
-                        "name": "* Etsiz Kapya Dolma"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-01-05",
             "calories": 1121,
@@ -234,7 +109,7 @@
                         "name": "Lokma Tatlısı"
                     },
                     {
-                        "name": "Beytepe Meyve * Mantarlı Et Sote"
+                        "name": "Beytepe Tulumba Tatlısı * Mantarlı Et Sote"
                     }
                 ],
                 "aksam": null
