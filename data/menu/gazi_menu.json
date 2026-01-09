@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-08T03:59:11.137597+00:00",
-    "menuHash": "2b43cdda651621b14ed369920e341dc0e9fe9b9fbb6605342e2f3c9fe3b4c52f",
+    "lastUpdated": "2026-01-09T03:59:40.048367+00:00",
+    "menuHash": "635b455b575b905df87dad557dd1d2fde574a8c4016c88e9896252691336e754",
     "menu": [
         {
             "date": "2026-01-05",
@@ -241,7 +241,7 @@
                         "name": "Domates Çorba"
                     },
                     {
-                        "name": "Püreli Tavuk Kavurma/Pat. Salatası"
+                        "name": "Püreli Tavuk Kavurma"
                     },
                     {
                         "name": "Fırın Makarna"
