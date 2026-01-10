@@ -3,65 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-09T03:59:46.967159+00:00",
-    "menuHash": "9e0231cf745ee91df77fb22f89b029d8b1b13904bbf9eeb08f93c382d48ea87d",
+    "lastUpdated": "2026-01-10T03:54:22.555735+00:00",
+    "menuHash": "cdf916fdeafd241dd3d22e47c050a117267eb814115b832dc68bf4716d2092d0",
     "menu": [
-        {
-            "date": "2026-01-07",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Hanımağa Çorbası"
-                    },
-                    {
-                        "name": "Etli Bezelye"
-                    },
-                    {
-                        "name": "Peynirli Kol Böreği veya Peynirli Tepsi Böreği"
-                    },
-                    {
-                        "name": "SIHHİYE Peynirli Makarna"
-                    },
-                    {
-                        "name": "Hoşaf"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-08",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Cezayir Çorba232"
-                    },
-                    {
-                        "name": "Tavuk Fileto (karnabahar brokoli garni)"
-                    },
-                    {
-                        "name": "SIHHİYE Tavuk Şinitzel"
-                    },
-                    {
-                        "name": "Yoğ. Kereviz Salata"
-                    },
-                    {
-                        "name": "Lokma Tatlısı"
-                    },
-                    {
-                        "name": "Beytepe Tulumba Tatlısı * Mantarlı Et Sote"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-01-09",
             "calories": 905,
@@ -182,6 +126,9 @@
                     },
                     {
                         "name": "Cevizli Erişte"
+                    },
+                    {
+                        "name": "SIHHİYE Soslu Makarna"
                     },
                     {
                         "name": "Hoşaf"
