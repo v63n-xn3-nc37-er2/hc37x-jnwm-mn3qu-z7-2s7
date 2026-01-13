@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-12T04:07:03.271941+00:00",
-    "menuHash": "635b455b575b905df87dad557dd1d2fde574a8c4016c88e9896252691336e754",
+    "lastUpdated": "2026-01-13T03:59:51.809503+00:00",
+    "menuHash": "d9052f76cf4eb0412d3e31366b5ba51634afdcdf34458098bdee60cb214c267f",
     "menu": [
         {
             "date": "2026-01-05",
@@ -244,7 +244,7 @@
                         "name": "Püreli Tavuk Kavurma"
                     },
                     {
-                        "name": "Fırın Makarna"
+                        "name": "Soslu Makarna"
                     },
                     {
                         "name": "Meyve"
