@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-20T04:03:51.051211+00:00",
-    "menuHash": "f709b613c9a235483f71b77bb851ef27be1dfa3c653d4b7904898a136374e1c3",
+    "lastUpdated": "2026-01-21T04:03:01.668839+00:00",
+    "menuHash": "a414a5790bdc4b855a3a3b746aee869acdd4a98066178c5a6d60c7addba48057",
     "menu": [
-        {
-            "date": "2026-01-19",
-            "calories": 1199,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Hanımağa Çorba"
-                    },
-                    {
-                        "name": "Sebze Öğreten"
-                    },
-                    {
-                        "name": "Spagetti Napolitien"
-                    },
-                    {
-                        "name": "Hoşaf"
-                    },
-                    {
-                        "name": "* Etsiz Türlü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-01-20",
             "calories": 905,
