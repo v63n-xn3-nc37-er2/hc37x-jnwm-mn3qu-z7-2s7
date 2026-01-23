@@ -3,59 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-22T04:05:41.799467+00:00",
-    "menuHash": "a414a5790bdc4b855a3a3b746aee869acdd4a98066178c5a6d60c7addba48057",
+    "lastUpdated": "2026-01-23T04:01:59.077839+00:00",
+    "menuHash": "8c68189310a3a49b9ac5816f51adae3a7b4cdbf57f7dc0621b50e21ad10a75ca",
     "menu": [
-        {
-            "date": "2026-01-20",
-            "calories": 905,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Brokoli Çorba"
-                    },
-                    {
-                        "name": "Dana Tandır (pilav garni)"
-                    },
-                    {
-                        "name": "Mısırlı Havuç Salata"
-                    },
-                    {
-                        "name": "Ayran"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-01-21",
-            "calories": 1049,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Bulgur Çorba"
-                    },
-                    {
-                        "name": "Antep Usulü Patates"
-                    },
-                    {
-                        "name": "Zyt. Pırasa"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Patates"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-01-22",
             "calories": 1065,
@@ -83,7 +33,7 @@
         },
         {
             "date": "2026-01-23",
-            "calories": 1159,
+            "calories": 1158,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -91,7 +41,7 @@
                         "name": "Şehriye Çorbası"
                     },
                     {
-                        "name": "Kaş. Yumurtalı Ispanak"
+                        "name": "Yoğ. Ispanak"
                     },
                     {
                         "name": "Soslu Makarna"
