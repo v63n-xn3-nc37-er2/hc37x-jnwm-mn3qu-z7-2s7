@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-01-23T04:01:51.965824+00:00",
-    "menuHash": "d9052f76cf4eb0412d3e31366b5ba51634afdcdf34458098bdee60cb214c267f",
+    "lastUpdated": "2026-01-24T03:56:59.754491+00:00",
+    "menuHash": "ec40aa5255864b229fb82e07837201911ca6fbf1c58d13acab01b56703156f10",
     "menu": [
         {
             "date": "2026-01-05",
@@ -391,16 +391,16 @@
                         "name": "Domates Çorba"
                     },
                     {
-                        "name": "Etli Bezelye"
+                        "name": "Etsiz Bezelye"
                     },
                     {
-                        "name": "Su böreği"
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "name": "Kıymalı Kol Böreği"
                     },
                     {
                         "name": "Ayran"
-                    },
-                    {
-                        "name": "*Etsiz Bezelye"
                     }
                 ],
                 "aksam": null
@@ -466,7 +466,7 @@
                         "name": "Anadolu Çorba"
                     },
                     {
-                        "name": "Püreli Rosto Köfte"
+                        "name": "Patlıcan Musakka"
                     },
                     {
                         "name": "Peynirli Makarna"
@@ -491,7 +491,7 @@
                         "name": "Köylü Çorba"
                     },
                     {
-                        "name": "Pilavüstü Et Kavurma"
+                        "name": "Püreli Rosto Köfte"
                     },
                     {
                         "name": "Yoğurtlu Kereviz"
