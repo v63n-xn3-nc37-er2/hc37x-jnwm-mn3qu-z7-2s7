@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-02T04:52:21.938033+00:00",
-    "menuHash": "677fb34fb8c3f49e32ea6d115dd237570f971fcd7087eb73cb7fa72053810cdb",
+    "lastUpdated": "2026-02-03T04:42:34.159387+00:00",
+    "menuHash": "8d4e3295418762f77ae97394e909e321a0535a1ed6cdfe6da283668e11a1de85",
     "menu": [
         {
             "date": "2026-02-02",
@@ -94,13 +94,13 @@
                         "name": "Dalyan Köfte"
                     },
                     {
-                        "name": "Erişte"
+                        "name": "Fırın Makarna"
                     },
                     {
                         "name": "Meyve"
                     },
                     {
-                        "name": "*Etsiz nohut"
+                        "name": "*Etsiz Bamya"
                     }
                 ],
                 "aksam": null
@@ -172,7 +172,7 @@
                         "name": "Yoğ.lu Kereviz"
                     },
                     {
-                        "name": "Meyve"
+                        "name": "Trileçe"
                     },
                     {
                         "name": "*Sebzeli Pirinç Pilavı"
@@ -194,10 +194,10 @@
                         "name": "Kıymalı Karnabahar"
                     },
                     {
-                        "name": "Fırın Makarna"
+                        "name": "Erişte"
                     },
                     {
-                        "name": "Trileçe"
+                        "name": "Meyve"
                     },
                     {
                         "name": "*Etsiz Karnabahar"
