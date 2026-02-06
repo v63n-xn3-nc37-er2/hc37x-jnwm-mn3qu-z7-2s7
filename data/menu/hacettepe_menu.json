@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-05T04:43:23.439531+00:00",
-    "menuHash": "545a51a2e41ae62756afe7bd696848a5cf2357fc5b35695c1e267d1fcfc0548e",
+    "lastUpdated": "2026-02-06T04:43:14.989773+00:00",
+    "menuHash": "b4d113c9248a8691c3e77208fe0b603288c22d9dd9f3a7417f7d69ad909ea426",
     "menu": [
-        {
-            "date": "2026-02-04",
-            "calories": 1298,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Köylü Çorbası"
-                    },
-                    {
-                        "name": "Yoğ. Kıy. Ispanak"
-                    },
-                    {
-                        "name": "Spagetti Napolitien"
-                    },
-                    {
-                        "name": "Meyve"
-                    },
-                    {
-                        "name": "* Etsiz Ispanak"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-02-05",
             "calories": 1338,
@@ -278,6 +253,9 @@
                         "name": "Sakızlı Muhallebi"
                     },
                     {
+                        "name": "Sıhhiye Meyve"
+                    },
+                    {
                         "name": "* Etsiz Taze Fasulye"
                     }
                 ],
@@ -301,6 +279,9 @@
                     },
                     {
                         "name": "Meyve"
+                    },
+                    {
+                        "name": "Sıhhiye Sakızlı Muhallebi"
                     },
                     {
                         "name": "* Etsiz Kış Türlüsü"
