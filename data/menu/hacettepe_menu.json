@@ -3,34 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-06T04:43:14.989773+00:00",
-    "menuHash": "b4d113c9248a8691c3e77208fe0b603288c22d9dd9f3a7417f7d69ad909ea426",
+    "lastUpdated": "2026-02-07T04:25:18.214624+00:00",
+    "menuHash": "5cec12ee201a76a06090b3f1eaf3750139d0e6897753949c0b56fe4e378abb74",
     "menu": [
-        {
-            "date": "2026-02-05",
-            "calories": 1338,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Erzincan Çorbası"
-                    },
-                    {
-                        "name": "Tavuk But (Sebze garni)"
-                    },
-                    {
-                        "name": "Kış Salatası"
-                    },
-                    {
-                        "name": "Supangle"
-                    },
-                    {
-                        "name": "* Etsiz Mantar Sote"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-02-06",
             "calories": 687,
@@ -111,15 +86,15 @@
         },
         {
             "date": "2026-02-09",
-            "calories": 1060,
+            "calories": 1202,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Maraş Çorba"
+                        "name": "Mercimek Çorba"
                     },
                     {
-                        "name": "Mantı"
+                        "name": "Et Kavurma (pilav garni)"
                     },
                     {
                         "name": "Havuç Salata"
@@ -216,7 +191,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Mercimek Çorba"
+                        "name": "Maraş Çorba"
                     },
                     {
                         "name": "Mantarlı Tavuk Sote"

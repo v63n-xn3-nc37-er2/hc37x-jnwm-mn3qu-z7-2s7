@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-06T04:43:08.105988+00:00",
-    "menuHash": "8d4e3295418762f77ae97394e909e321a0535a1ed6cdfe6da283668e11a1de85",
+    "lastUpdated": "2026-02-07T04:25:11.035357+00:00",
+    "menuHash": "96651abc5ac5b534b9833cc602bd4ed56a70ca211a72da6bd1ea555fe45cf6d1",
     "menu": [
         {
             "date": "2026-02-02",
@@ -141,7 +141,7 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "name": "Çiftlik Kebabı"
+                        "name": "Kıymalı Bezelye"
                     },
                     {
                         "name": "Su Böreği"
@@ -341,10 +341,10 @@
                         "name": "Mercimek Çorba"
                     },
                     {
-                        "name": "Pilavüstü Et Kavurma"
+                        "name": "Tas Kebabı"
                     },
                     {
-                        "name": "Salata"
+                        "name": "Erişte"
                     },
                     {
                         "name": "Ayran"
@@ -366,10 +366,10 @@
                         "name": "Peskütan Çorba"
                     },
                     {
-                        "name": "Tavuk Şnitzel /patates püre"
+                        "name": "Tavuk Şnitzel /Pat. Salata"
                     },
                     {
-                        "name": "Erişte"
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "name": "Meyve"
@@ -491,7 +491,7 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "name": "Bolu Kebabı"
+                        "name": "Patlıcan Musakka"
                     },
                     {
                         "name": "Nohutlu Pirinç Pilavı"
