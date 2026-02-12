@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-11T04:57:31.635010+00:00",
-    "menuHash": "b2d08a766d4163fb97b749835925e362036b8b440d1906aca45caf8262c43efd",
+    "lastUpdated": "2026-02-12T04:52:43.460074+00:00",
+    "menuHash": "7100ea01ab54169bd679ad1252b16632f180a152033a277f5d4838142dbf66e9",
     "menu": [
         {
             "date": "2026-02-02",
@@ -100,7 +100,7 @@
                         "name": "Meyve"
                     },
                     {
-                        "name": "*Etsiz Bamya"
+                        "name": "*Etsiz nohut"
                     }
                 ],
                 "aksam": null
@@ -141,7 +141,7 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "name": "Kıymalı Bezelye"
+                        "name": "Çiftlik Kebabı"
                     },
                     {
                         "name": "Su Böreği"
@@ -241,7 +241,7 @@
                         "name": "Tarhana Çorba"
                     },
                     {
-                        "name": "Tavuk Baget/sebze gani"
+                        "name": "Tavuk Baget/Sebze Garni."
                     },
                     {
                         "name": "Pirinç Pilavı"
@@ -250,7 +250,7 @@
                         "name": "Keşkül"
                     },
                     {
-                        "name": "*Etsiz Kuru fasülye"
+                        "name": "*Etsiz Kuru Fasülye"
                     }
                 ],
                 "aksam": null
@@ -263,10 +263,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Ezogelin"
-                    },
-                    {
-                        "name": "Çorba"
+                        "name": "Sebze Çorba"
                     },
                     {
                         "name": "Şehriyeli Güveç"
@@ -291,7 +288,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Domates Çorba"
+                        "name": "Ezogelin Çorba"
                     },
                     {
                         "name": "Etli Nohut"
@@ -300,7 +297,7 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "name": "Salata"
+                        "name": "Turşu"
                     },
                     {
                         "name": "*Etsiz Nohut"
@@ -369,7 +366,7 @@
                         "name": "Peskütan Çorba"
                     },
                     {
-                        "name": "Tavuk Şnitzel /Pat. Salata"
+                        "name": "Tavuk Şinitzel /Pat. Salat."
                     },
                     {
                         "name": "Pirinç Pilavı"
@@ -403,7 +400,7 @@
                         "name": "Meyve"
                     },
                     {
-                        "name": "*Etsiz Kuru fasülye"
+                        "name": "*Etsiz Kuru Fasülye"
                     }
                 ],
                 "aksam": null
@@ -441,56 +438,6 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Kafkas Çorba"
-                    },
-                    {
-                        "name": "Kadınbudu Köffte/pat.püre"
-                    },
-                    {
-                        "name": "Soslu Makarna"
-                    },
-                    {
-                        "name": "Salata"
-                    },
-                    {
-                        "name": "*Mantar Kavurma"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-02-26",
-            "calories": 1200,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Arpa Şehriye Çorba"
-                    },
-                    {
-                        "name": "Kıymalı Pırasa"
-                    },
-                    {
-                        "name": "Patatesli Kol Böreği"
-                    },
-                    {
-                        "name": "Güllaç"
-                    },
-                    {
-                        "name": "*Etsiz Bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-02-27",
-            "calories": 1150,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
                         "name": "Ezogelin Çorba"
                     },
                     {
@@ -500,10 +447,60 @@
                         "name": "Nohutlu Pirinç Pilavı"
                     },
                     {
-                        "name": "Cacık"
+                        "name": "Salata"
                     },
                     {
-                        "name": "*Etsiz Bolu Kebabı"
+                        "name": "*Etsiz Patlıcan"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-02-26",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Hanımağa Çorba"
+                    },
+                    {
+                        "name": "Kadınbudu Köfte/sebze garni"
+                    },
+                    {
+                        "name": "Soslu Makarna"
+                    },
+                    {
+                        "name": "Güllaç"
+                    },
+                    {
+                        "name": "*Etsiz Karnabahar"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-02-27",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Kafkas Çorba"
+                    },
+                    {
+                        "name": "Kabak Dolma/Yoğurt"
+                    },
+                    {
+                        "name": "Patatesli Kol Böreği"
+                    },
+                    {
+                        "name": "Meyve"
+                    },
+                    {
+                        "name": "*Etsiz Kabak Dolma"
                     }
                 ],
                 "aksam": null
