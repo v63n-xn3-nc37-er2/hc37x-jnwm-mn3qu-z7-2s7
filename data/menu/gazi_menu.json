@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-17T04:47:39.058526+00:00",
-    "menuHash": "7100ea01ab54169bd679ad1252b16632f180a152033a277f5d4838142dbf66e9",
+    "lastUpdated": "2026-02-18T04:48:38.472561+00:00",
+    "menuHash": "1abdd32e251cb23a92223ecfb559b2ad5ed5eb631b0c8a7bb85751329b854d0b",
     "menu": [
         {
             "date": "2026-02-02",
@@ -288,7 +288,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Ezogelin Çorba"
+                        "name": "Domates Çorba"
                     },
                     {
                         "name": "Etli Nohut"
@@ -297,7 +297,7 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "name": "Turşu"
+                        "name": "Kıvırcık Salata"
                     },
                     {
                         "name": "*Etsiz Nohut"
@@ -444,7 +444,7 @@
                         "name": "Patlıcan Musakka"
                     },
                     {
-                        "name": "Nohutlu Pirinç Pilavı"
+                        "name": "Şehriye Pilavı"
                     },
                     {
                         "name": "Salata"
@@ -463,7 +463,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Hanımağa Çorba"
+                        "name": "Kafkas Çorba"
                     },
                     {
                         "name": "Kadınbudu Köfte/sebze garni"
@@ -488,7 +488,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Kafkas Çorba"
+                        "name": "Hanımağa Çorba"
                     },
                     {
                         "name": "Kabak Dolma/Yoğurt"
