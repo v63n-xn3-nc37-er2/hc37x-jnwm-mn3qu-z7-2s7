@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-02-20T04:42:35.438719+00:00",
-    "menuHash": "1abdd32e251cb23a92223ecfb559b2ad5ed5eb631b0c8a7bb85751329b854d0b",
+    "lastUpdated": "2026-02-21T04:23:20.435833+00:00",
+    "menuHash": "7835a4df14a9c8619b4777167f8adb387d919f452b704c379fb361e28744fd03",
     "menu": [
         {
             "date": "2026-02-02",
@@ -441,10 +441,10 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "name": "Patlıcan Musakka"
+                        "name": "Kıymalı Fırın Patates"
                     },
                     {
-                        "name": "Şehriye Pilavı"
+                        "name": "Şehriyeli Pirinç Pilavı"
                     },
                     {
                         "name": "Salata"
