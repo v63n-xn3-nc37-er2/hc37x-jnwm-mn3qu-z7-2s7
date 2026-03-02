@@ -166,5 +166,68 @@
         "departments": []
       }
     ]
+  },
+  {
+    "name": "Ankara Yıldırım Beyazıt Üniversitesi",
+    "id": "aybu",
+    "campuses": [
+      {
+        "name": "Esenboğa Külliyesi",
+        "departments": [
+          "İnsan ve Toplum Bilimleri Fakültesi",
+          "İşletme Fakültesi",
+          "Sağlık Bilimleri Fakültesi"
+        ]
+      },
+      {
+        "name": "Etlik 15 Temmuz Şehitleri Yerleşkesi",
+        "departments": [
+          "Mühendislik ve Doğa Bilimleri Fakültesi",
+          "Hukuk Fakültesi",
+          "Diş Hekimliği Fakültesi"
+        ]
+      },
+      {
+        "name": "Etlik Milli İrade Yerleşkesi",
+        "departments": [
+          "Spor Bilimleri Fakültesi",
+          "Yabancı Diller Yüksekokulu"
+        ]
+      },
+      {
+        "name": "Bilkent Yerleşkesi",
+        "departments": [
+          "Tıp Fakültesi"
+        ]
+      },
+      {
+        "name": "Cinnah Yerleşkesi",
+        "departments": [
+          "Türk Musikisi Devlet Konservatuvarı"
+        ]
+      },
+      {
+        "name": "Çubuk Yerleşkesi",
+        "departments": [
+          "Teknik Bilimler Meslek Yüksekokulu",
+          "Sağlık Hizmetleri Meslek Yüksekokulu"
+        ]
+      },
+      {
+        "name": "Tuz Gölü Yerleşkesi",
+        "departments": [
+          "Şereflikoçhisar Uygulamalı Bilimler Fakültesi",
+          "Berat Cömertoğlu Meslek Yüksekokulu"
+        ]
+      },
+      {
+        "name": "Keçiören Ovacık Yerleşkesi",
+        "departments": []
+      },
+      {
+        "name": "Sağlık Varlık Yerleşkesi",
+        "departments": []
+      }
+    ]
   }
 ]
