@@ -3,162 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-03T04:41:52.875010+00:00",
-    "menuHash": "82a954c7c982911b00d166bdb952a0b70f6d5ea2c11cdf263357a4a5938ecc1b",
+    "lastUpdated": "2026-03-04T04:26:10.933623+00:00",
+    "menuHash": "003cd504470177f126af8a726fd6fec71ac3651b9685402bc800b146c8d864d3",
     "menu": [
-        {
-            "date": "2026-02-25",
-            "calories": 1363,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "name": "Püreli Tepsi Kebabı"
-                    },
-                    {
-                        "name": "Kısır"
-                    },
-                    {
-                        "name": "Güllaç"
-                    },
-                    {
-                        "name": "* Etsiz Patates"
-                    },
-                    {
-                        "name": "* Beytepe Etsiz Nohut"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-02-26",
-            "calories": 874,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Şehriye Çorbası"
-                    },
-                    {
-                        "name": "Etli Taze Fasulye"
-                    },
-                    {
-                        "name": "Peynirli Kol Böreği"
-                    },
-                    {
-                        "name": "Ayran"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-02-27",
-            "calories": 1155,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Toyga Çorba"
-                    },
-                    {
-                        "name": "Hindi Göğüs (haş. sebze garnili )"
-                    },
-                    {
-                        "name": "Zyt. Brokoli Pilaki"
-                    },
-                    {
-                        "name": "Revani"
-                    },
-                    {
-                        "name": "* Etsiz Kavata Dolma"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-02-28",
-            "calories": 1155,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Maraş Çorbası"
-                    },
-                    {
-                        "name": "Etli Kış Türlüsü"
-                    },
-                    {
-                        "name": "Spagetti Napoliten"
-                    },
-                    {
-                        "name": "Yoğurt"
-                    },
-                    {
-                        "name": "* Etsiz Kış Türlüsü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-03-01",
-            "calories": 1036,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Vitamin Çorba"
-                    },
-                    {
-                        "name": "Çiftlik Köfte"
-                    },
-                    {
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "name": "Turşu"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-03-02",
-            "calories": 1101,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Sebze Çorbası"
-                    },
-                    {
-                        "name": "Etli Kuru Fasulye"
-                    },
-                    {
-                        "name": "Mısırlı Pirinç Pilavı"
-                    },
-                    {
-                        "name": "Cacık"
-                    },
-                    {
-                        "name": "* Etsiz Kuru Fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-03",
             "calories": 1568,
@@ -311,24 +158,24 @@
         },
         {
             "date": "2026-03-09",
-            "calories": 1322,
+            "calories": 1429,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Mercimek Çorbası"
+                        "name": "Ezogelin Çorba"
                     },
                     {
-                        "name": "Dana Tandır (pilavlı)"
+                        "name": "Fırın Patates"
                     },
                     {
-                        "name": "Karışık Lahana Salata"
+                        "name": "Mor Dünya Salata"
                     },
                     {
-                        "name": "Tulumba Tatlısı"
+                        "name": "Çikolatalı İrmik Tatlısı"
                     },
                     {
-                        "name": "* Etsiz Kuru Fasulye"
+                        "name": "* Etsiz Patates"
                     }
                 ],
                 "aksam": null
@@ -386,24 +233,27 @@
         },
         {
             "date": "2026-03-12",
-            "calories": 1429,
+            "calories": 1322,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Ezogelin Çorba"
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "name": "Fırın Patates"
+                        "name": "Dana Tandır (pilavlı)"
                     },
                     {
-                        "name": "Yoğ. Kereviz Salata"
+                        "name": "Karışık Lahana Salata"
                     },
                     {
-                        "name": "Çikolatalı İrmik Tatlısı"
+                        "name": "Tulumba Tatlısı"
                     },
                     {
-                        "name": "* Etsiz Patates"
+                        "name": "Sıhhiye Şekerpare (A"
+                    },
+                    {
+                        "name": "* Etsiz Kuru Fasulye)"
                     }
                 ],
                 "aksam": null
