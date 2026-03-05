@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-04T04:26:03.648014+00:00",
-    "menuHash": "a61ff1dd52cdc4074d3f4c0c69a1cd53a9a6c576e5dab41a6eb3134746ee2497",
+    "lastUpdated": "2026-03-05T04:29:20.577812+00:00",
+    "menuHash": "a21545a5483b24b4f189a49ba81abbae8f765270dceb8a971fc2ae7770e011c4",
     "menu": [
         {
             "date": "2026-03-02",
@@ -213,7 +213,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Dört Kaşık Çorba"
+                        "name": "Sebze Çorba"
                     },
                     {
                         "name": "Patlıcan Musakka"
@@ -389,7 +389,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Tarhana Çorba"
+                        "name": "Kafkas Çorba"
                     },
                     {
                         "name": "Kuru Fasülye"
@@ -398,7 +398,7 @@
                         "name": "Şeh. Pirinç Pilavı"
                     },
                     {
-                        "name": "Salata"
+                        "name": "Cacık"
                     },
                     {
                         "name": "*Etsiz Kuru Fasülye"
@@ -439,7 +439,7 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Kafkas Çorbası"
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "name": "Tavuk Baget"
@@ -448,7 +448,7 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "name": "Cacık"
+                        "name": "Salata"
                     },
                     {
                         "name": "*Etsiz Bezelye"
