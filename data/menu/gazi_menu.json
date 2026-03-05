@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-05T07:46:21.350876+00:00",
-    "menuHash": "a21545a5483b24b4f189a49ba81abbae8f765270dceb8a971fc2ae7770e011c4",
+    "lastUpdated": "2026-03-05T08:43:19.355320+00:00",
+    "menuHash": "9dce6543436660553281876c65af92d6675e26b77f0c866e2d30b818cd9ec376",
     "menu": [
         {
             "date": "2026-03-02",
@@ -208,12 +208,12 @@
         },
         {
             "date": "2026-03-12",
-            "calories": 1150,
+            "calories": 1200,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Sebze Çorba"
+                        "name": "Dört Kaşık Çorba"
                     },
                     {
                         "name": "Patlıcan Musakka"
@@ -222,7 +222,7 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "name": "Yoğurt"
+                        "name": "Güllaç"
                     },
                     {
                         "name": "*Etsiz Patlıcan"
