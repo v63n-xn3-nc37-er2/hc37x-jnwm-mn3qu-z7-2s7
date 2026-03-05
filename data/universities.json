@@ -229,5 +229,51 @@
         "departments": []
       }
     ]
+  },
+  {
+  "name": "Ankara Hacı Bayram Veli Üniversitesi",
+  "id": "ahbvu",
+  "campuses": [
+    {
+      "name": "Beşevler Yerleşkesi",
+      "departments": [
+        "Hukuk Fakültesi",
+        "İktisadi ve İdari Bilimler Fakültesi",
+        "Finansal Bilimler Fakültesi"
+      ]
+    },
+    {
+      "name": "Itrî Yerleşkesi",
+      "departments": [
+        "Edebiyat Fakültesi",
+        "İletişim Fakültesi"
+      ]
+    },
+    {
+      "name": "Gölbaşı Yerleşkesi",
+      "departments": [
+        "Turizm Fakültesi",
+        "Sanat ve Tasarım Fakültesi",
+        "Güzel Sanatlar Fakültesi"
+      ]
+    },
+    {
+      "name": "Kuzey Ankara Yerleşkesi",
+      "departments": [
+        "İlahiyat Fakültesi"
+      ]
+    },
+    {
+      "name": "Polatlı Yerleşkesi",
+      "departments": [
+        "Polatlı Fen Edebiyat Fakültesi",
+        "Polatlı Sosyal Bilimler Meslek Yüksekokulu"
+      ]
+    },
+    {
+      "name": "Yücetepe Yerleşkesi",
+      "departments": []
+    }
+  ]
   }
 ]
