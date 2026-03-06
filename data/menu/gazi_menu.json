@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-06T04:27:21.071170+00:00",
-    "menuHash": "e0a1ddb32b008cf75ebd4b1174aca6f7fb876e49fdbf1d34a7436c77c06bf198",
+    "lastUpdated": "2026-03-06T23:59:14.787047+00:00",
+    "menuHash": "e858b674630a7c1948f281f0842ef993eb732fb06b6c06e34a9f7b7a7b05a154",
     "menu": [
         {
             "date": "2026-03-02",
@@ -336,8 +336,8 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "yogurtlu_pancar_tursusu",
-                        "name": "Yoğurtlu Pancar Turşusu"
+                        "id": "yogurtlu_pancar_salatasi",
+                        "name": "Yoğurtlu Pancar Salatası"
                     },
                     {
                         "id": "etsiz_patlican",
@@ -699,8 +699,8 @@
                         "name": "Tarhana Çorba"
                     },
                     {
-                        "id": "kadinbudu_koftesebze_gar",
-                        "name": "Kadınbudu Köfte/Sebze Gar."
+                        "id": "izmir_kofte",
+                        "name": "İzmir Köfte"
                     },
                     {
                         "id": "makarna",
