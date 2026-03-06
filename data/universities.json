@@ -275,5 +275,43 @@
       "departments": []
     }
   ]
-  }
+  },
+  {
+  "name": "Marmara Üniversitesi",
+  "id": "marmara",
+  "campuses": [
+    {
+      "name": "Recep Tayyip Erdoğan Külliyesi",
+      "departments": []
+    },
+    {
+      "name": "Mehmet Genç Külliyesi",
+      "departments": []
+    },
+    {
+      "name": "Göztepe Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Acıbadem Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Anadoluhisarı Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Bağlarbaşı Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Kartal Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Sultanahmet Yerleşkesi",
+      "departments": []
+    }
+  ]
+}
 ]
