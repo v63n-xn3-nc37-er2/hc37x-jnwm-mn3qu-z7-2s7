@@ -313,5 +313,51 @@
       "departments": []
     }
   ]
+  },
+  {
+  "name": "İstanbul Üniversitesi",
+  "id": "istanbul",
+  "campuses": [
+    {
+      "name": "Beyazıt (Merkez) Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Vezneciler Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Vefa Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Süleymaniye Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Laleli Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Horhor Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Avcılar Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Çapa Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Kadıköy Yerleşkesi",
+      "departments": []
+    },
+    {
+      "name": "Maslak Yerleşkesi",
+      "departments": []
+    }
+  ]
 }
 ]
