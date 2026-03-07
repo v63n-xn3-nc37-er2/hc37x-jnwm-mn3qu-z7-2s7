@@ -1,0 +1,1822 @@
+{
+    "university": "İstanbul Üniversitesi",
+    "faculty": "Merkez Yemekhane",
+    "uniId": "istanbul",
+    "facultyId": "merkez",
+    "lastUpdated": "2026-03-07T13:08:49.865761+00:00",
+    "menuHash": "dc0dc157dd5272f18517cabd8c04a98b2bc602aee9406591113028a755117530",
+    "menu": [
+        {
+            "date": "2026-03-02",
+            "menuId": "istanbul_2026-03-02",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "kayisi_recelitereyagi",
+                        "name": "Kayısı Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "kiymali_pogaca",
+                        "name": "Kıymalı Poğaça"
+                    },
+                    {
+                        "id": "patates_kizartmasi_ketcap_mayonez",
+                        "name": "Patates Kızartması (Ketçap, Mayonez)"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "etli_nohut",
+                        "name": "Etli Nohut"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "Portakal"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
+                    },
+                    {
+                        "id": "limonata",
+                        "name": "*Limonata"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "etli_nohut",
+                        "name": "Etli Nohut"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "Portakal"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
+                    },
+                    {
+                        "id": "limonata",
+                        "name": "*Limonata"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-03",
+            "menuId": "istanbul_2026-03-03",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "tahin_pekmez",
+                        "name": "Tahin Pekmez"
+                    },
+                    {
+                        "id": "orgu_peynir",
+                        "name": "Örgü Peynir"
+                    },
+                    {
+                        "id": "acma",
+                        "name": "Açma"
+                    },
+                    {
+                        "id": "menemen",
+                        "name": "Menemen"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
+                    },
+                    {
+                        "id": "sehriyeli_dana_guvec",
+                        "name": "Şehriyeli Dana Güveç"
+                    },
+                    {
+                        "id": "yogurtlu_havuc_tarator",
+                        "name": "Yoğurtlu Havuç Tarator"
+                    },
+                    {
+                        "id": "profiterol",
+                        "name": "Profiterol"
+                    },
+                    {
+                        "id": "etsiz_taze_fasulye",
+                        "name": "*Etsiz Taze Fasulye"
+                    },
+                    {
+                        "id": "eriste",
+                        "name": "*Erişte"
+                    },
+                    {
+                        "id": "ayva_tatlisi",
+                        "name": "*Ayva Tatlısı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
+                    },
+                    {
+                        "id": "sehriyeli_dana_guvec",
+                        "name": "Şehriyeli Dana Güveç"
+                    },
+                    {
+                        "id": "yogurtlu_havuc_tarator",
+                        "name": "Yoğurtlu Havuç Tarator"
+                    },
+                    {
+                        "id": "profiterol",
+                        "name": "Profiterol"
+                    },
+                    {
+                        "id": "etsiz_taze_fasulye",
+                        "name": "*Etsiz Taze Fasulye"
+                    },
+                    {
+                        "id": "eriste",
+                        "name": "*Erişte"
+                    },
+                    {
+                        "id": "ayva_tatlisi",
+                        "name": "*Ayva Tatlısı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-04",
+            "menuId": "istanbul_2026-03-04",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "simit",
+                        "name": "Simit"
+                    },
+                    {
+                        "id": "siyah_zeytin",
+                        "name": "Siyah Zeytin"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "firin_pilic_but_pirinc_pilavi_garnili",
+                        "name": "Fırın Piliç But (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "profiterol",
+                        "name": "Profiterol"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "kabak_yemegi",
+                        "name": "*Kabak Yemeği"
+                    },
+                    {
+                        "id": "patatesli_tepsi_boregi",
+                        "name": "*Patatesli Tepsi Böreği"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "firin_pilic_but_pirinc_pilavi_garnili",
+                        "name": "Fırın Piliç But (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "profiterol",
+                        "name": "Profiterol"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "kabak_yemegi",
+                        "name": "*Kabak Yemeği"
+                    },
+                    {
+                        "id": "patatesli_tepsi_boregi",
+                        "name": "*Patatesli Tepsi Böreği"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-05",
+            "menuId": "istanbul_2026-03-05",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "kakaolu_findik_kremasi",
+                        "name": "Kakaolu Fındık Kreması"
+                    },
+                    {
+                        "id": "dil_peyniri",
+                        "name": "Dil Peyniri"
+                    },
+                    {
+                        "id": "pacanga_boregi",
+                        "name": "Paçanga Böreği"
+                    },
+                    {
+                        "id": "domatessalatalik",
+                        "name": "Domates-Salatalık"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "ciftlik_kofte",
+                        "name": "Çiftlik Köfte"
+                    },
+                    {
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "pirasa_yemegi",
+                        "name": "*Pırasa Yemeği"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "ciftlik_kofte",
+                        "name": "Çiftlik Köfte"
+                    },
+                    {
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "pirasa_yemegi",
+                        "name": "*Pırasa Yemeği"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-06",
+            "menuId": "istanbul_2026-03-06",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "visne_recelitereyagi",
+                        "name": "Vişne Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "pogaca",
+                        "name": "Poğaça"
+                    },
+                    {
+                        "id": "peynirli_omlet",
+                        "name": "Peynirli Omlet"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
+                    },
+                    {
+                        "id": "pilic_sinitzel_elma_dilim_patates_garnili",
+                        "name": "Piliç Şinitzel (Elma Dilim Patates Garnili)"
+                    },
+                    {
+                        "id": "yogurtlu_manti",
+                        "name": "Yoğurtlu Mantı"
+                    },
+                    {
+                        "id": "trilece",
+                        "name": "Trileçe"
+                    },
+                    {
+                        "id": "sebze_corbasi",
+                        "name": "*Sebze Çorbası"
+                    },
+                    {
+                        "id": "biber_dolmasi",
+                        "name": "*Biber Dolması"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "*Elma"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
+                    },
+                    {
+                        "id": "pilic_sinitzel_elma_dilim_patates_garnili",
+                        "name": "Piliç Şinitzel (Elma Dilim Patates Garnili)"
+                    },
+                    {
+                        "id": "yogurtlu_manti",
+                        "name": "Yoğurtlu Mantı"
+                    },
+                    {
+                        "id": "trilece",
+                        "name": "Trileçe"
+                    },
+                    {
+                        "id": "sebze_corbasi",
+                        "name": "*Sebze Çorbası"
+                    },
+                    {
+                        "id": "biber_dolmasi",
+                        "name": "*Biber Dolması"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "*Elma"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-09",
+            "menuId": "istanbul_2026-03-09",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "simit",
+                        "name": "Simit"
+                    },
+                    {
+                        "id": "yesil_zeytin",
+                        "name": "Yeşil Zeytin"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "dugun_corbasi",
+                        "name": "Düğün Çorbası"
+                    },
+                    {
+                        "id": "etli_bezelye",
+                        "name": "Etli Bezelye"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "muz",
+                        "name": "Muz"
+                    },
+                    {
+                        "id": "patates_ezme_corbasi",
+                        "name": "*Patates Ezme Çorbası"
+                    },
+                    {
+                        "id": "etsiz_bezelye",
+                        "name": "*Etsiz Bezelye"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "dugun_corbasi",
+                        "name": "Düğün Çorbası"
+                    },
+                    {
+                        "id": "etli_bezelye",
+                        "name": "Etli Bezelye"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "muz",
+                        "name": "Muz"
+                    },
+                    {
+                        "id": "patates_ezme_corbasi",
+                        "name": "*Patates Ezme Çorbası"
+                    },
+                    {
+                        "id": "etsiz_bezelye",
+                        "name": "*Etsiz Bezelye"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-10",
+            "menuId": "istanbul_2026-03-10",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "cilek_recelitereyagi",
+                        "name": "Çilek Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "kasar_peynir",
+                        "name": "Kaşar Peynir"
+                    },
+                    {
+                        "id": "portakalli_kek",
+                        "name": "Portakallı Kek"
+                    },
+                    {
+                        "id": "patatesli_yumurta",
+                        "name": "Patatesli Yumurta"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "pilic_kulbasti",
+                        "name": "Piliç Külbastı"
+                    },
+                    {
+                        "id": "zeytinyagli_pirasa",
+                        "name": "Zeytinyağlı Pırasa"
+                    },
+                    {
+                        "id": "gullac",
+                        "name": "Güllaç"
+                    },
+                    {
+                        "id": "pirasa_yemegi",
+                        "name": "*Pırasa Yemeği"
+                    },
+                    {
+                        "id": "patatesli_tepsi_boregi",
+                        "name": "*Patatesli Tepsi Böreği"
+                    },
+                    {
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "pilic_kulbasti",
+                        "name": "Piliç Külbastı"
+                    },
+                    {
+                        "id": "zeytinyagli_pirasa",
+                        "name": "Zeytinyağlı Pırasa"
+                    },
+                    {
+                        "id": "gullac",
+                        "name": "Güllaç"
+                    },
+                    {
+                        "id": "pirasa_yemegi",
+                        "name": "*Pırasa Yemeği"
+                    },
+                    {
+                        "id": "patatesli_tepsi_boregi",
+                        "name": "*Patatesli Tepsi Böreği"
+                    },
+                    {
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-11",
+            "menuId": "istanbul_2026-03-11",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "dereotlu_pogaca",
+                        "name": "Dereotlu Poğaça"
+                    },
+                    {
+                        "id": "domatessalatalik",
+                        "name": "Domates-Salatalık"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "eksili_kofte",
+                        "name": "Ekşili Köfte"
+                    },
+                    {
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "*Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "ispanak_yemegi",
+                        "name": "*Ispanak Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "ekmek_kadayifi",
+                        "name": "*Ekmek Kadayıfı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "eksili_kofte",
+                        "name": "Ekşili Köfte"
+                    },
+                    {
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "*Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "ispanak_yemegi",
+                        "name": "*Ispanak Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "ekmek_kadayifi",
+                        "name": "*Ekmek Kadayıfı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-12",
+            "menuId": "istanbul_2026-03-12",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "kakaolu_findik_kremasi",
+                        "name": "Kakaolu Fındık Kreması"
+                    },
+                    {
+                        "id": "cecil_peynir",
+                        "name": "Çeçil Peynir"
+                    },
+                    {
+                        "id": "acma",
+                        "name": "Açma"
+                    },
+                    {
+                        "id": "haslanmis_yumurta",
+                        "name": "Haşlanmış Yumurta"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "kremali_mantar_corbasi",
+                        "name": "Kremalı Mantar Çorbası"
+                    },
+                    {
+                        "id": "etsiz_kuru_fasulye",
+                        "name": "Etsiz Kuru Fasulye"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
+                    },
+                    {
+                        "id": "karisik_tursu",
+                        "name": "Karışık Turşu"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "kremali_mantar_corbasi",
+                        "name": "Kremalı Mantar Çorbası"
+                    },
+                    {
+                        "id": "etsiz_kuru_fasulye",
+                        "name": "Etsiz Kuru Fasulye"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
+                    },
+                    {
+                        "id": "karisik_tursu",
+                        "name": "Karışık Turşu"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-13",
+            "menuId": "istanbul_2026-03-13",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "kasarli_pogaca",
+                        "name": "Kaşarlı Poğaça"
+                    },
+                    {
+                        "id": "patates_kizartmasi_ketcap_mayonez",
+                        "name": "Patates Kızartması (Ketçap, Mayonez)"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "ankara_tava_pirinc",
+                        "name": "Ankara Tava (Pirinç)"
+                    },
+                    {
+                        "id": "pembe_guzeli_salatasi",
+                        "name": "Pembe Güzeli Salatası"
+                    },
+                    {
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "karnabahar_yemegi",
+                        "name": "*Karnabahar Yemeği"
+                    },
+                    {
+                        "id": "havuc_salatasi",
+                        "name": "*Havuç Salatası"
+                    },
+                    {
+                        "id": "ayva_tatlisi",
+                        "name": "*Ayva Tatlısı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "ankara_tava_pirinc",
+                        "name": "Ankara Tava (Pirinç)"
+                    },
+                    {
+                        "id": "pembe_guzeli_salatasi",
+                        "name": "Pembe Güzeli Salatası"
+                    },
+                    {
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "karnabahar_yemegi",
+                        "name": "*Karnabahar Yemeği"
+                    },
+                    {
+                        "id": "havuc_salatasi",
+                        "name": "*Havuç Salatası"
+                    },
+                    {
+                        "id": "ayva_tatlisi",
+                        "name": "*Ayva Tatlısı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-16",
+            "menuId": "istanbul_2026-03-16",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "cevizli_helva",
+                        "name": "Cevizli Helva"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "acma",
+                        "name": "Açma"
+                    },
+                    {
+                        "id": "sucuklu_yumurta",
+                        "name": "Sucuklu Yumurta"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kiymali_karnabahar_yemegi",
+                        "name": "Kıymalı Karnabahar Yemeği"
+                    },
+                    {
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "etsiz_turlu",
+                        "name": "*Etsiz Türlü"
+                    },
+                    {
+                        "id": "patates_salatasi",
+                        "name": "*Patates Salatası"
+                    },
+                    {
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kiymali_karnabahar_yemegi",
+                        "name": "Kıymalı Karnabahar Yemeği"
+                    },
+                    {
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "etsiz_turlu",
+                        "name": "*Etsiz Türlü"
+                    },
+                    {
+                        "id": "patates_salatasi",
+                        "name": "*Patates Salatası"
+                    },
+                    {
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-17",
+            "menuId": "istanbul_2026-03-17",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "kayisi_recelitereyagi",
+                        "name": "Kayısı Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "dil_peyniri",
+                        "name": "Dil Peyniri"
+                    },
+                    {
+                        "id": "kiymali_pogaca",
+                        "name": "Kıymalı Poğaça"
+                    },
+                    {
+                        "id": "domatessalatalik",
+                        "name": "Domates-Salatalık"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "sebze_corbasi",
+                        "name": "Sebze Çorbası"
+                    },
+                    {
+                        "id": "dana_haslama",
+                        "name": "Dana Haşlama"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "supangle",
+                        "name": "Supangle"
+                    },
+                    {
+                        "id": "mantar_sote",
+                        "name": "*Mantar Sote"
+                    },
+                    {
+                        "id": "mercimek_koftesi",
+                        "name": "*Mercimek Köftesi"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "sebze_corbasi",
+                        "name": "Sebze Çorbası"
+                    },
+                    {
+                        "id": "dana_haslama",
+                        "name": "Dana Haşlama"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "supangle",
+                        "name": "Supangle"
+                    },
+                    {
+                        "id": "mantar_sote",
+                        "name": "*Mantar Sote"
+                    },
+                    {
+                        "id": "mercimek_koftesi",
+                        "name": "*Mercimek Köftesi"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-18",
+            "menuId": "istanbul_2026-03-18",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "simit",
+                        "name": "Simit"
+                    },
+                    {
+                        "id": "menemen",
+                        "name": "Menemen"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "pilic_kroket",
+                        "name": "Piliç Kroket"
+                    },
+                    {
+                        "id": "rus_salatasi",
+                        "name": "Rus Salatası"
+                    },
+                    {
+                        "id": "gazoz",
+                        "name": "Gazoz"
+                    },
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "*Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "barbunya_yemegi",
+                        "name": "*Barbunya Yemeği"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "*Un Helvası"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "pilic_kroket",
+                        "name": "Piliç Kroket"
+                    },
+                    {
+                        "id": "rus_salatasi",
+                        "name": "Rus Salatası"
+                    },
+                    {
+                        "id": "gazoz",
+                        "name": "Gazoz"
+                    },
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "*Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "barbunya_yemegi",
+                        "name": "*Barbunya Yemeği"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "*Un Helvası"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-23",
+            "menuId": "istanbul_2026-03-23",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "simit",
+                        "name": "Simit"
+                    },
+                    {
+                        "id": "salam",
+                        "name": "Salam"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
+                    },
+                    {
+                        "id": "cordon_blue_pirinc_pilavi_garnili",
+                        "name": "Cordon Blue (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "etsiz_kapuska",
+                        "name": "*Etsiz Kapuska"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "ekmek_kadayifi",
+                        "name": "*Ekmek Kadayıfı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
+                    },
+                    {
+                        "id": "cordon_blue_pirinc_pilavi_garnili",
+                        "name": "Cordon Blue (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "etsiz_kapuska",
+                        "name": "*Etsiz Kapuska"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "ekmek_kadayifi",
+                        "name": "*Ekmek Kadayıfı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-24",
+            "menuId": "istanbul_2026-03-24",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "tahin_pekmez",
+                        "name": "Tahin Pekmez"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "pogaca",
+                        "name": "Poğaça"
+                    },
+                    {
+                        "id": "patates_kizartmasi_ketcap_mayonez",
+                        "name": "Patates Kızartması (Ketçap, Mayonez)"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "islak_hamburger",
+                        "name": "Islak Hamburger"
+                    },
+                    {
+                        "id": "makarna_salatasi",
+                        "name": "Makarna Salatası"
+                    },
+                    {
+                        "id": "gazoz",
+                        "name": "Gazoz"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "kabak_dolmasi",
+                        "name": "*Kabak Dolması"
+                    },
+                    {
+                        "id": "pirasali_kol_boregi",
+                        "name": "*Pırasalı Kol Böreği"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "islak_hamburger",
+                        "name": "Islak Hamburger"
+                    },
+                    {
+                        "id": "makarna_salatasi",
+                        "name": "Makarna Salatası"
+                    },
+                    {
+                        "id": "gazoz",
+                        "name": "Gazoz"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "kabak_dolmasi",
+                        "name": "*Kabak Dolması"
+                    },
+                    {
+                        "id": "pirasali_kol_boregi",
+                        "name": "*Pırasalı Kol Böreği"
+                    },
+                    {
+                        "id": "portakal",
+                        "name": "*Portakal"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-25",
+            "menuId": "istanbul_2026-03-25",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "cilek_recelitereyagi",
+                        "name": "Çilek Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "cecil_peynir",
+                        "name": "Çeçil Peynir"
+                    },
+                    {
+                        "id": "pirasali_kol_boregi",
+                        "name": "Pırasalı Kol Böreği"
+                    },
+                    {
+                        "id": "domatessalatalik",
+                        "name": "Domates-Salatalık"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
+                    },
+                    {
+                        "id": "begendili_kebap_kabak",
+                        "name": "Beğendili Kebap (Kabak)"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "*Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "mantar_sote",
+                        "name": "*Mantar Sote"
+                    },
+                    {
+                        "id": "cevizli_eriste",
+                        "name": "*Cevizli Erişte"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
+                    },
+                    {
+                        "id": "begendili_kebap_kabak",
+                        "name": "Beğendili Kebap (Kabak)"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "salcali_pirinc_corbasi",
+                        "name": "*Salçalı Pirinç Çorbası"
+                    },
+                    {
+                        "id": "mantar_sote",
+                        "name": "*Mantar Sote"
+                    },
+                    {
+                        "id": "cevizli_eriste",
+                        "name": "*Cevizli Erişte"
+                    },
+                    {
+                        "id": "kabak_tatlisi",
+                        "name": "*Kabak Tatlısı"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-26",
+            "menuId": "istanbul_2026-03-26",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "kakaolu_findik_kremasi",
+                        "name": "Kakaolu Fındık Kreması"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "acma",
+                        "name": "Açma"
+                    },
+                    {
+                        "id": "patatesli_yumurta",
+                        "name": "Patatesli Yumurta"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "pilic_roti_pirinc_pilavi_garnili",
+                        "name": "Piliç Roti (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "zeytinyagli_kereviz",
+                        "name": "Zeytinyağlı Kereviz"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "Un Helvası"
+                    },
+                    {
+                        "id": "yesil_mercimek_yemegi",
+                        "name": "*Yeşil Mercimek Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "pilic_roti_pirinc_pilavi_garnili",
+                        "name": "Piliç Roti (Pirinç Pilavı Garnili)"
+                    },
+                    {
+                        "id": "zeytinyagli_kereviz",
+                        "name": "Zeytinyağlı Kereviz"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "Un Helvası"
+                    },
+                    {
+                        "id": "yesil_mercimek_yemegi",
+                        "name": "*Yeşil Mercimek Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-27",
+            "menuId": "istanbul_2026-03-27",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "baltereyagi",
+                        "name": "Bal-Tereyağı"
+                    },
+                    {
+                        "id": "kasar_peynir",
+                        "name": "Kaşar Peynir"
+                    },
+                    {
+                        "id": "peynirli_gozleme",
+                        "name": "Peynirli Gözleme"
+                    },
+                    {
+                        "id": "yesil_zeytin",
+                        "name": "Yeşil Zeytin"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "etli_nohut",
+                        "name": "Etli Nohut"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "cacik",
+                        "name": "Cacık"
+                    },
+                    {
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
+                    },
+                    {
+                        "id": "limonata",
+                        "name": "*Limonata"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
+                    },
+                    {
+                        "id": "etli_nohut",
+                        "name": "Etli Nohut"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "cacik",
+                        "name": "Cacık"
+                    },
+                    {
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
+                    },
+                    {
+                        "id": "limonata",
+                        "name": "*Limonata"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-30",
+            "menuId": "istanbul_2026-03-30",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "visne_recelitereyagi",
+                        "name": "Vişne Reçeli-Tereyağı"
+                    },
+                    {
+                        "id": "beyaz_peynir",
+                        "name": "Beyaz Peynir"
+                    },
+                    {
+                        "id": "kasarli_pogaca",
+                        "name": "Kaşarlı Poğaça"
+                    },
+                    {
+                        "id": "domatessalatalik",
+                        "name": "Domates-Salatalık"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "yayla_corbasi",
+                        "name": "Yayla Çorbası"
+                    },
+                    {
+                        "id": "dana_rosto_et_pure",
+                        "name": "Dana Rosto Et (Püre)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "patlican_yemegi",
+                        "name": "*Patlıcan Yemeği"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "*Bulgur Pilavı"
+                    },
+                    {
+                        "id": "cilek",
+                        "name": "*Çilek"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "yayla_corbasi",
+                        "name": "Yayla Çorbası"
+                    },
+                    {
+                        "id": "dana_rosto_et_pure",
+                        "name": "Dana Rosto Et (Püre)"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
+                    },
+                    {
+                        "id": "mantar_corbasi",
+                        "name": "*Mantar Çorbası"
+                    },
+                    {
+                        "id": "patlican_yemegi",
+                        "name": "*Patlıcan Yemeği"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "*Bulgur Pilavı"
+                    },
+                    {
+                        "id": "cilek",
+                        "name": "*Çilek"
+                    }
+                ]
+            }
+        },
+        {
+            "date": "2026-03-31",
+            "menuId": "istanbul_2026-03-31",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [
+                    {
+                        "id": "caymeyve_suyusut",
+                        "name": "Çay/Meyve Suyu/Süt"
+                    },
+                    {
+                        "id": "yaz_helvasi",
+                        "name": "Yaz Helvası"
+                    },
+                    {
+                        "id": "labne_peynir",
+                        "name": "Labne Peynir"
+                    },
+                    {
+                        "id": "simit",
+                        "name": "Simit"
+                    },
+                    {
+                        "id": "peynirli_omlet",
+                        "name": "Peynirli Omlet"
+                    }
+                ],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kadayifli_tavuk_fileto",
+                        "name": "Kadayıflı Tavuk Fileto"
+                    },
+                    {
+                        "id": "yogurtlu_manti",
+                        "name": "Yoğurtlu Mantı"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "Elma"
+                    },
+                    {
+                        "id": "etsiz_patates_yemegi",
+                        "name": "*Etsiz Patates Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "asure",
+                        "name": "*Aşure"
+                    }
+                ],
+                "aksam": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kadayifli_tavuk_fileto",
+                        "name": "Kadayıflı Tavuk Fileto"
+                    },
+                    {
+                        "id": "yogurtlu_manti",
+                        "name": "Yoğurtlu Mantı"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "Elma"
+                    },
+                    {
+                        "id": "etsiz_patates_yemegi",
+                        "name": "*Etsiz Patates Yemeği"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "*Mevsim Salatası"
+                    },
+                    {
+                        "id": "asure",
+                        "name": "*Aşure"
+                    }
+                ]
+            }
+        }
+    ]
+}
