@@ -7,7 +7,7 @@
   },
   "android": {
     "target_build_number": 12,
-    "is_mandatory": true,
+    "is_mandatory": false,
     "update_message": "Cacık güncellendi! Daha iyi bir deneyim için lütfen son sürümü indirin.",
     "store_url": "https://play.google.com/store/apps/details?id=com.furowlan.cacik"
   }
