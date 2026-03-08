@@ -1,6 +1,6 @@
 {
   "ios": {
-    "target_build_number": 11,
+    "target_build_number": 12,
     "is_mandatory": false,
     "update_message": "Cacık güncellendi! Daha iyi bir deneyim için lütfen son sürümü indirin.",
     "store_url": "https://apps.apple.com/app/idXXXXXXXXX"
