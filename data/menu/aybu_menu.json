@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-09T04:47:27.817997+00:00",
-    "menuHash": "82c93b0e5e1e354c02821bc941024bc253008ce80e2e1ac38176580c466a40ec",
+    "lastUpdated": "2026-03-10T04:28:11.059777+00:00",
+    "menuHash": "f29dda2142c030a837637df33830180c53432901d187e8f3c927f9e29d63a318",
     "menu": [
         {
             "date": "2026-03-02",
@@ -198,7 +198,7 @@
         {
             "date": "2026-03-11",
             "menuId": "aybu_2026-03-11",
-            "calories": 1271,
+            "calories": 1212,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -215,8 +215,8 @@
                         "name": "Şehriye Pilavı"
                     },
                     {
-                        "id": "tiramisu",
-                        "name": "Tiramisu"
+                        "id": "trilice",
+                        "name": "Triliçe"
                     }
                 ],
                 "aksam": null
@@ -360,7 +360,7 @@
         {
             "date": "2026-03-23",
             "menuId": "aybu_2026-03-23",
-            "calories": 1169,
+            "calories": 1149,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -377,8 +377,8 @@
                         "name": "Şehriyeli Pirinç Pilavı"
                     },
                     {
-                        "id": "cevizli_baklava",
-                        "name": "Cevizli Baklava"
+                        "id": "sekerpare",
+                        "name": "Şekerpare"
                     }
                 ],
                 "aksam": null

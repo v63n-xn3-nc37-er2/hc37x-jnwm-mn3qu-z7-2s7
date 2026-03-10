@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-09T04:47:01.297037+00:00",
-    "menuHash": "e858b674630a7c1948f281f0842ef993eb732fb06b6c06e34a9f7b7a7b05a154",
+    "lastUpdated": "2026-03-10T04:27:49.053108+00:00",
+    "menuHash": "a0399f09d2803001ceec3a08025b2b4285771d97f770d5766fd8844eccda1938",
     "menu": [
         {
             "date": "2026-03-02",
@@ -266,12 +266,12 @@
                         "name": "Dört Kaşık Çorba"
                     },
                     {
-                        "id": "patlican_musakka",
-                        "name": "Patlıcan Musakka"
+                        "id": "kiymali_pirasa",
+                        "name": "Kıymalı Pırasa"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "soslu_makarna",
+                        "name": "Soslu makarna"
                     },
                     {
                         "id": "gullac",
@@ -301,8 +301,8 @@
                         "name": "Yoğurtlu Tire Köfte"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "patlicanli_bulgur_pilavi",
+                        "name": "Patlıcanlı Bulgur Pilavı"
                     },
                     {
                         "id": "salata",
@@ -575,12 +575,12 @@
                         "name": "Yayla Çorba"
                     },
                     {
-                        "id": "kiymali_pirasa",
-                        "name": "Kıymalı Pırasa"
+                        "id": "patlicanli_musakka",
+                        "name": "Patlıcanlı Musakka"
                     },
                     {
-                        "id": "firin_makarna",
-                        "name": "Fırın Makarna"
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
                     },
                     {
                         "id": "trilece",
