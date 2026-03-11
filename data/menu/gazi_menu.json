@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-10T04:27:49.053108+00:00",
-    "menuHash": "a0399f09d2803001ceec3a08025b2b4285771d97f770d5766fd8844eccda1938",
+    "lastUpdated": "2026-03-11T04:28:10.578097+00:00",
+    "menuHash": "c544e7441853f2018765f62b5e125b647e5754bca78b66178c7098fec0ad6dc4",
     "menu": [
         {
             "date": "2026-03-02",
@@ -486,12 +486,12 @@
                         "name": "Kuru Fasülye"
                     },
                     {
-                        "id": "seh_pirinc_pilavi",
-                        "name": "Şeh. Pirinç Pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur  Pilavı"
                     },
                     {
-                        "id": "cacik",
-                        "name": "Cacık"
+                        "id": "salata",
+                        "name": "Salata"
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
@@ -525,8 +525,8 @@
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_patates",
-                        "name": "*Etsiz Patates"
+                        "id": "mantar_kavurma",
+                        "name": "*Mantar Kavurma"
                     }
                 ],
                 "aksam": null
@@ -540,20 +540,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corbasi",
-                        "name": "Tarhana Çorbası"
+                        "id": "yayla_corbasi",
+                        "name": "Yayla Çorbası"
                     },
                     {
-                        "id": "tavuk_baget",
-                        "name": "Tavuk Baget"
+                        "id": "tavuk_bagetsebze_garni",
+                        "name": "Tavuk Baget/Sebze Garni"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "trilece",
+                        "name": "Trileçe"
                     },
                     {
                         "id": "etsiz_bezelye",
@@ -571,24 +571,24 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yayla_corba",
-                        "name": "Yayla Çorba"
+                        "id": "tarhana_corba",
+                        "name": "Tarhana Çorba"
                     },
                     {
                         "id": "patlicanli_musakka",
                         "name": "Patlıcanlı Musakka"
                     },
                     {
-                        "id": "soslu_makarna",
-                        "name": "Soslu Makarna"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "trilece",
-                        "name": "Trileçe"
+                        "id": "cacik",
+                        "name": "Cacık"
                     },
                     {
-                        "id": "etsiz_pirasa",
-                        "name": "*Etsiz Pırasa"
+                        "id": "etsiz_patlican",
+                        "name": "*Etsiz Patlıcan"
                     }
                 ],
                 "aksam": null

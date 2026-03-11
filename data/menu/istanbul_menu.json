@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-10T04:28:54.082923+00:00",
-    "menuHash": "dc0dc157dd5272f18517cabd8c04a98b2bc602aee9406591113028a755117530",
+    "lastUpdated": "2026-03-11T04:29:02.824680+00:00",
+    "menuHash": "203110485b819ad00f73055c66053cf5f25d0b56de5ce6dc60c36c8432dd3387",
     "menu": [
         {
             "date": "2026-03-02",
@@ -581,8 +581,8 @@
                         "name": "Zeytinyağlı Pırasa"
                     },
                     {
-                        "id": "gullac",
-                        "name": "Güllaç"
+                        "id": "baklava",
+                        "name": "Baklava"
                     },
                     {
                         "id": "pirasa_yemegi",
@@ -611,8 +611,8 @@
                         "name": "Zeytinyağlı Pırasa"
                     },
                     {
-                        "id": "gullac",
-                        "name": "Güllaç"
+                        "id": "baklava",
+                        "name": "Baklava"
                     },
                     {
                         "id": "pirasa_yemegi",
