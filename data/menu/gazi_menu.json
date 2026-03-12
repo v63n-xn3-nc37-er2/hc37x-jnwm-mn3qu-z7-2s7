@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-11T04:28:10.578097+00:00",
-    "menuHash": "c544e7441853f2018765f62b5e125b647e5754bca78b66178c7098fec0ad6dc4",
+    "lastUpdated": "2026-03-12T04:42:49.389720+00:00",
+    "menuHash": "3bb7f024590dd3c65e343ed5f572b001523ae18d43e8a112cdb868e2008b59ac",
     "menu": [
         {
             "date": "2026-03-02",
@@ -359,16 +359,16 @@
                         "name": "Peskütan Çorba"
                     },
                     {
-                        "id": "mantarli_tavuk_sote",
-                        "name": "Mantarlı Tavuk Sote"
-                    },
-                    {
-                        "id": "eriste",
-                        "name": "Erişte"
+                        "id": "tavuk_buryani",
+                        "name": "Tavuk Büryani"
                     },
                     {
                         "id": "salata",
                         "name": "Salata"
+                    },
+                    {
+                        "id": "gullac",
+                        "name": "Güllaç"
                     },
                     {
                         "id": "mantar_sote",
@@ -490,8 +490,8 @@
                         "name": "Bulgur  Pilavı"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "tursu",
+                        "name": "Turşu"
                     },
                     {
                         "id": "etsiz_kuru_fasulye",

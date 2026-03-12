@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-11T04:29:02.824680+00:00",
-    "menuHash": "203110485b819ad00f73055c66053cf5f25d0b56de5ce6dc60c36c8432dd3387",
+    "lastUpdated": "2026-03-12T04:43:40.323045+00:00",
+    "menuHash": "47a6c841b91e5b307fc74e723ee8523c6c65f3d4d13fd5dc320276ca12648f0f",
     "menu": [
         {
             "date": "2026-03-02",
@@ -666,8 +666,8 @@
                         "name": "Ekşili Köfte"
                     },
                     {
-                        "id": "peynirli_kol_boregi",
-                        "name": "Peynirli Kol Böreği"
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
                     },
                     {
                         "id": "yogurt",
@@ -700,8 +700,8 @@
                         "name": "Ekşili Köfte"
                     },
                     {
-                        "id": "peynirli_kol_boregi",
-                        "name": "Peynirli Kol Böreği"
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
                     },
                     {
                         "id": "yogurt",
@@ -949,8 +949,8 @@
                         "name": "Kıymalı Karnabahar Yemeği"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
                     },
                     {
                         "id": "ayran",
@@ -979,8 +979,8 @@
                         "name": "Kıymalı Karnabahar Yemeği"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
                     },
                     {
                         "id": "ayran",

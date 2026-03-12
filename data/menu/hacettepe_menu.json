@@ -3,44 +3,13 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-11T04:28:17.121983+00:00",
-    "menuHash": "e02bbffdf347842ed0a096904205c8d149416c184d5497d27f6db00ed774ffff",
+    "lastUpdated": "2026-03-12T04:42:55.517556+00:00",
+    "menuHash": "3508d8939440606db268e6920b3fb95571e62b8eb97602ea0a6d59aaf1f9c278",
     "menu": [
-        {
-            "date": "2026-03-10",
-            "menuId": "hacettepe_2026-03-10",
-            "calories": 1250,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Hanımağa Çorbası",
-                        "id": "hanimaga_corbasi"
-                    },
-                    {
-                        "name": "Yoğ. Kıymalı Ispanak",
-                        "id": "yog_kiymali_ispanak"
-                    },
-                    {
-                        "name": "Cevizli Erişte",
-                        "id": "cevizli_eriste"
-                    },
-                    {
-                        "name": "Meyve",
-                        "id": "meyve"
-                    },
-                    {
-                        "name": "* Etsiz Ispanak",
-                        "id": "etsiz_ispanak"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-11",
             "menuId": "hacettepe_2026-03-11",
-            "calories": 935,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -53,8 +22,8 @@
                         "id": "sihhiye_domates_corba"
                     },
                     {
-                        "name": "Hamburger Köfte (brokoli karnabahar garni)",
-                        "id": "hamburger_kofte_brokoli_karnabahar_garni"
+                        "name": "Hamburger Köfte (haş. sebze garni)",
+                        "id": "hamburger_kofte_has_sebze_garni"
                     },
                     {
                         "name": "Nohutlu Pilav",
@@ -67,6 +36,10 @@
                     {
                         "name": "* Etsiz Karnabahar",
                         "id": "etsiz_karnabahar"
+                    },
+                    {
+                        "name": "* Beytepe Etsiz Bezelye",
+                        "id": "beytepe_etsiz_bezelye"
                     }
                 ],
                 "aksam": null
@@ -246,7 +219,7 @@
         {
             "date": "2026-03-17",
             "menuId": "hacettepe_2026-03-17",
-            "calories": 1983,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -269,6 +242,14 @@
                     {
                         "name": "Brownie",
                         "id": "brownie"
+                    },
+                    {
+                        "name": "Beytepe Meyve",
+                        "id": "beytepe_meyve"
+                    },
+                    {
+                        "name": "* Etsiz Mantar Sote",
+                        "id": "etsiz_mantar_sote"
                     }
                 ],
                 "aksam": null
@@ -308,7 +289,7 @@
         {
             "date": "2026-03-19",
             "menuId": "hacettepe_2026-03-19",
-            "calories": 1003,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -327,6 +308,10 @@
                     {
                         "name": "Meyve",
                         "id": "meyve"
+                    },
+                    {
+                        "name": "Beytepe Brownie",
+                        "id": "beytepe_brownie"
                     },
                     {
                         "name": "* Etsiz Taze Fasulye",
@@ -982,6 +967,99 @@
                     {
                         "name": "* Etsiz Ispanak",
                         "id": "etsiz_ispanak"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-04-10",
+            "menuId": "hacettepe_2026-04-10",
+            "calories": 1423,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Brokoli Çorba",
+                        "id": "brokoli_corba"
+                    },
+                    {
+                        "name": "Beğendili Kebap",
+                        "id": "begendili_kebap"
+                    },
+                    {
+                        "name": "Buğday Salatası",
+                        "id": "bugday_salatasi"
+                    },
+                    {
+                        "name": "Brownie",
+                        "id": "brownie"
+                    },
+                    {
+                        "name": "* Etsiz Taze Fasulye",
+                        "id": "etsiz_taze_fasulye"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-04-11",
+            "menuId": "hacettepe_2026-04-11",
+            "calories": 1071,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Vitamin Çorbası",
+                        "id": "vitamin_corbasi"
+                    },
+                    {
+                        "name": "Etli Bezelye",
+                        "id": "etli_bezelye"
+                    },
+                    {
+                        "name": "Spagetti Napoliten",
+                        "id": "spagetti_napoliten"
+                    },
+                    {
+                        "name": "Turşu",
+                        "id": "tursu"
+                    },
+                    {
+                        "name": "* Etsiz Bezelye",
+                        "id": "etsiz_bezelye"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-04-12",
+            "menuId": "hacettepe_2026-04-12",
+            "calories": 1086,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Mercimek Çorbası",
+                        "id": "mercimek_corbasi"
+                    },
+                    {
+                        "name": "Etli Pilav",
+                        "id": "etli_pilav"
+                    },
+                    {
+                        "name": "Havuç Salata",
+                        "id": "havuc_salata"
+                    },
+                    {
+                        "name": "Meyve",
+                        "id": "meyve"
+                    },
+                    {
+                        "name": "* Etsiz Patates Yemeği",
+                        "id": "etsiz_patates_yemegi"
                     }
                 ],
                 "aksam": null
