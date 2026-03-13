@@ -3,48 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-12T04:42:55.517556+00:00",
-    "menuHash": "3508d8939440606db268e6920b3fb95571e62b8eb97602ea0a6d59aaf1f9c278",
+    "lastUpdated": "2026-03-13T04:29:52.931067+00:00",
+    "menuHash": "1fe0f78a01f08f1b2c36de141cb64f9e89b25dd6627297e2613be06bb7a2d72c",
     "menu": [
-        {
-            "date": "2026-03-11",
-            "menuId": "hacettepe_2026-03-11",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Şehriye Çorbası",
-                        "id": "sehriye_corbasi"
-                    },
-                    {
-                        "name": "Sıhhiye Domates Çorba",
-                        "id": "sihhiye_domates_corba"
-                    },
-                    {
-                        "name": "Hamburger Köfte (haş. sebze garni)",
-                        "id": "hamburger_kofte_has_sebze_garni"
-                    },
-                    {
-                        "name": "Nohutlu Pilav",
-                        "id": "nohutlu_pilav"
-                    },
-                    {
-                        "name": "Yoğurt",
-                        "id": "yogurt"
-                    },
-                    {
-                        "name": "* Etsiz Karnabahar",
-                        "id": "etsiz_karnabahar"
-                    },
-                    {
-                        "name": "* Beytepe Etsiz Bezelye",
-                        "id": "beytepe_etsiz_bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-12",
             "menuId": "hacettepe_2026-03-12",
@@ -102,6 +63,10 @@
                     {
                         "name": "Spagetti Napoliten",
                         "id": "spagetti_napoliten"
+                    },
+                    {
+                        "name": "Sıhhiye Kr. Fesleğenli Spagetti",
+                        "id": "sihhiye_kr_feslegenli_spagetti"
                     },
                     {
                         "name": "Meyve",
@@ -417,7 +382,7 @@
         {
             "date": "2026-03-23",
             "menuId": "hacettepe_2026-03-23",
-            "calories": 1781,
+            "calories": 1287,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -434,8 +399,8 @@
                         "id": "fes_lahana_salata"
                     },
                     {
-                        "name": "Tahin Helvası veya Lokma Tatlısı",
-                        "id": "tahin_helvasi_veya_lokma_tatlisi"
+                        "name": "Sıhhiye Tahin Helvası Lokma Tatlısı",
+                        "id": "sihhiye_tahin_helvasi_lokma_tatlisi"
                     },
                     {
                         "name": "* Etsiz Ispanak",
@@ -479,7 +444,7 @@
         {
             "date": "2026-03-25",
             "menuId": "hacettepe_2026-03-25",
-            "calories": 1971,
+            "calories": 1573,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -496,8 +461,8 @@
                         "id": "havuc_salata"
                     },
                     {
-                        "name": "Güllaç veya Keşkül",
-                        "id": "gullac_veya_keskul"
+                        "name": "Sıhhiye Güllaç Keşkül",
+                        "id": "sihhiye_gullac_keskul"
                     },
                     {
                         "name": "* Etsiz Patates",
