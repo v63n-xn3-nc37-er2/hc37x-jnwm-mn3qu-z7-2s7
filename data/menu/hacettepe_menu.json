@@ -3,44 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-13T04:29:52.931067+00:00",
-    "menuHash": "1fe0f78a01f08f1b2c36de141cb64f9e89b25dd6627297e2613be06bb7a2d72c",
+    "lastUpdated": "2026-03-14T04:28:14.260116+00:00",
+    "menuHash": "7725e7fecaf626c74b5fdcb885224f2797475a0aae9cbe6c3c9c93fd18404a71",
     "menu": [
-        {
-            "date": "2026-03-12",
-            "menuId": "hacettepe_2026-03-12",
-            "calories": 1322,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorbası",
-                        "id": "mercimek_corbasi"
-                    },
-                    {
-                        "name": "Dana Tandır (pilavlı)",
-                        "id": "dana_tandir_pilavli"
-                    },
-                    {
-                        "name": "Karışık Lahana Salata",
-                        "id": "karisik_lahana_salata"
-                    },
-                    {
-                        "name": "Tulumba Tatlısı",
-                        "id": "tulumba_tatlisi"
-                    },
-                    {
-                        "name": "Sıhhiye Şekerpare (A",
-                        "id": "sihhiye_sekerpare_a"
-                    },
-                    {
-                        "name": "* Etsiz Kuru Fasulye)",
-                        "id": "etsiz_kuru_fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-13",
             "menuId": "hacettepe_2026-03-13",
@@ -170,6 +135,10 @@
                         "id": "tulumba_tatlisi"
                     },
                     {
+                        "name": "Sıhhiye Lokma Tatlısı",
+                        "id": "sihhiye_lokma_tatlisi"
+                    },
+                    {
                         "name": "Ayran",
                         "id": "ayran"
                     },
@@ -289,7 +258,7 @@
         {
             "date": "2026-03-20",
             "menuId": "hacettepe_2026-03-20",
-            "calories": 1577,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -302,12 +271,20 @@
                         "id": "sebzeli_et_kavurma"
                     },
                     {
+                        "name": "Beytepe Dana Tandır",
+                        "id": "beytepe_dana_tandir"
+                    },
+                    {
                         "name": "Bulgur Pilavı",
                         "id": "bulgur_pilavi"
                     },
                     {
                         "name": "Şekerpare",
                         "id": "sekerpare"
+                    },
+                    {
+                        "name": "Beytepe Havuç Salata",
+                        "id": "beytepe_havuc_salata"
                     },
                     {
                         "name": "* Etsiz Mantar Sote",

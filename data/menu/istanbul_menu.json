@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-07T12:46:02.236722+00:00",
-    "menuHash": "dc0dc157dd5272f18517cabd8c04a98b2bc602aee9406591113028a755117530",
+    "lastUpdated": "2026-03-14T04:28:59.085131+00:00",
+    "menuHash": "47a6c841b91e5b307fc74e723ee8523c6c65f3d4d13fd5dc320276ca12648f0f",
     "menu": [
         {
             "date": "2026-03-02",
@@ -581,8 +581,8 @@
                         "name": "Zeytinyağlı Pırasa"
                     },
                     {
-                        "id": "gullac",
-                        "name": "Güllaç"
+                        "id": "baklava",
+                        "name": "Baklava"
                     },
                     {
                         "id": "pirasa_yemegi",
@@ -611,8 +611,8 @@
                         "name": "Zeytinyağlı Pırasa"
                     },
                     {
-                        "id": "gullac",
-                        "name": "Güllaç"
+                        "id": "baklava",
+                        "name": "Baklava"
                     },
                     {
                         "id": "pirasa_yemegi",
@@ -666,8 +666,8 @@
                         "name": "Ekşili Köfte"
                     },
                     {
-                        "id": "peynirli_kol_boregi",
-                        "name": "Peynirli Kol Böreği"
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
                     },
                     {
                         "id": "yogurt",
@@ -700,8 +700,8 @@
                         "name": "Ekşili Köfte"
                     },
                     {
-                        "id": "peynirli_kol_boregi",
-                        "name": "Peynirli Kol Böreği"
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
                     },
                     {
                         "id": "yogurt",
@@ -949,8 +949,8 @@
                         "name": "Kıymalı Karnabahar Yemeği"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
                     },
                     {
                         "id": "ayran",
@@ -979,8 +979,8 @@
                         "name": "Kıymalı Karnabahar Yemeği"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "peynirli_kol_boregi",
+                        "name": "Peynirli Kol Böreği"
                     },
                     {
                         "id": "ayran",
