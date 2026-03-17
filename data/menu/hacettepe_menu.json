@@ -3,118 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-16T05:09:34.821468+00:00",
-    "menuHash": "7725e7fecaf626c74b5fdcb885224f2797475a0aae9cbe6c3c9c93fd18404a71",
+    "lastUpdated": "2026-03-17T04:46:53.571000+00:00",
+    "menuHash": "e542c01568ee5df96e260e1134a3981dbf0218d37dad5abe5c64b8292889b640",
     "menu": [
-        {
-            "date": "2026-03-13",
-            "menuId": "hacettepe_2026-03-13",
-            "calories": 1099,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Toyga Çorbası",
-                        "id": "toyga_corbasi"
-                    },
-                    {
-                        "name": "Sıhhiye Krm. Mantar Çorba",
-                        "id": "sihhiye_krm_mantar_corba"
-                    },
-                    {
-                        "name": "Tavuk Fileto (Haş. Sebze Garnili)",
-                        "id": "tavuk_fileto_has_sebze_garnili"
-                    },
-                    {
-                        "name": "Spagetti Napoliten",
-                        "id": "spagetti_napoliten"
-                    },
-                    {
-                        "name": "Sıhhiye Kr. Fesleğenli Spagetti",
-                        "id": "sihhiye_kr_feslegenli_spagetti"
-                    },
-                    {
-                        "name": "Meyve",
-                        "id": "meyve"
-                    },
-                    {
-                        "name": "* Etsiz Mantar Sote",
-                        "id": "etsiz_mantar_sote"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-03-14",
-            "menuId": "hacettepe_2026-03-14",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Köylü Çorbası",
-                        "id": "koylu_corbasi"
-                    },
-                    {
-                        "name": "Etli Taze Fasulye",
-                        "id": "etli_taze_fasulye"
-                    },
-                    {
-                        "name": "Sıhhiye Bulgur Pilavı",
-                        "id": "sihhiye_bulgur_pilavi"
-                    },
-                    {
-                        "name": "Beytepe Pirinç Pilavı",
-                        "id": "beytepe_pirinc_pilavi"
-                    },
-                    {
-                        "name": "Ayran",
-                        "id": "ayran"
-                    },
-                    {
-                        "name": "Sıhhiye Turşu",
-                        "id": "sihhiye_tursu"
-                    },
-                    {
-                        "name": "* Etsiz Taze Fasulye",
-                        "id": "etsiz_taze_fasulye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-03-15",
-            "menuId": "hacettepe_2026-03-15",
-            "calories": 1479,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Krm. Sebze Çorbası",
-                        "id": "krm_sebze_corbasi"
-                    },
-                    {
-                        "name": "İzmir Köfte",
-                        "id": "izmir_kofte"
-                    },
-                    {
-                        "name": "Fırın Makarna",
-                        "id": "firin_makarna"
-                    },
-                    {
-                        "name": "Hoşaf",
-                        "id": "hosaf"
-                    },
-                    {
-                        "name": "* Etsiz Ispanak",
-                        "id": "etsiz_ispanak"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-16",
             "menuId": "hacettepe_2026-03-16",
@@ -158,8 +49,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Gemici Çorba",
-                        "id": "gemici_corba"
+                        "name": "Beytepe Çerkez Çorba",
+                        "id": "beytepe_cerkez_corba"
                     },
                     {
                         "name": "Sıhhiye Kr. Brokoli Çorbası",
@@ -168,6 +59,10 @@
                     {
                         "name": "Tavuk But (parmak patates)",
                         "id": "tavuk_but_parmak_patates"
+                    },
+                    {
+                        "name": "Beytepe Tavuk Şinitsel (parmak patates) (A*C*D*i*G)",
+                        "id": "beytepe_tavuk_sinitsel_parmak_patates_acdig"
                     },
                     {
                         "name": "Kuru Fasulye Piyaz",
@@ -184,6 +79,10 @@
                     {
                         "name": "* Etsiz Mantar Sote",
                         "id": "etsiz_mantar_sote"
+                    },
+                    {
+                        "name": "* Beytepe Etsiz Patates",
+                        "id": "beytepe_etsiz_patates"
                     }
                 ],
                 "aksam": null
