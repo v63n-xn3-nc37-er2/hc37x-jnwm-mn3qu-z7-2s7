@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-17T04:47:08.055023+00:00",
-    "menuHash": "1e3caf59e5d14a0bf2e6b0ae5c9255262b5c901a8b70cbd772f84867c48f3098",
+    "lastUpdated": "2026-03-18T04:51:38.002684+00:00",
+    "menuHash": "31507fc4f81def4fd0ee1bb96539099deb8f22a2dee4524b1527b80cb3f5a825",
     "menu": [
         {
             "date": "2026-03-02",
@@ -375,7 +375,7 @@
         {
             "date": "2026-03-23",
             "menuId": "hbvu_2026-03-23",
-            "calories": 0,
+            "calories": 672,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -384,16 +384,16 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "hamburger",
-                        "name": "Hamburger"
+                        "id": "kuru_fasulye",
+                        "name": "Kuru Fasulye"
                     },
                     {
-                        "id": "elma_dilim_patates",
-                        "name": "Elma Dilim Patates"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "ayran",
-                        "name": "Ayran"
+                        "id": "tursu",
+                        "name": "Turşu"
                     }
                 ],
                 "aksam": null
