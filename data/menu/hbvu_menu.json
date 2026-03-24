@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-23T04:58:23.755103+00:00",
-    "menuHash": "31507fc4f81def4fd0ee1bb96539099deb8f22a2dee4524b1527b80cb3f5a825",
+    "lastUpdated": "2026-03-24T04:49:40.863920+00:00",
+    "menuHash": "590e3c3b630644051d6367589fbf1dc30d00a3fd9ce79b61996aff0c04f1336f",
     "menu": [
         {
             "date": "2026-03-02",
@@ -407,16 +407,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "toyga_corbasi",
-                        "name": "Toyga Çorbası"
+                        "id": "suzme_mercimek_corbasi",
+                        "name": "Süzme Mercimek Çorbası"
                     },
                     {
-                        "id": "kori_soslu_tavuk",
-                        "name": "Köri Soslu Tavuk"
+                        "id": "hamburger",
+                        "name": "Hamburger"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "elma_dilim_patates",
+                        "name": "Elma Dilim Patates"
                     },
                     {
                         "id": "meyve",
