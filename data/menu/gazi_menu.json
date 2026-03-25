@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-24T04:49:15.867773+00:00",
-    "menuHash": "d0d1f68bc32236a5bf69f022672d649e5dbb7238ae75d6c91aa8b11240bafe76",
+    "lastUpdated": "2026-03-25T04:49:26.278520+00:00",
+    "menuHash": "151e5aef57511afacfc54317a22518f8f59efe9c140620aedd651bc2c32a2a4f",
     "menu": [
         {
             "date": "2026-03-02",
@@ -540,16 +540,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yayla_corbasi",
-                        "name": "Yayla Çorbası"
+                        "id": "alaca_corba",
+                        "name": "Alaca Çorba"
                     },
                     {
                         "id": "tavuk_bagetsebze_garni",
                         "name": "Tavuk Baget/Sebze Garni"
                     },
                     {
-                        "id": "soslu_makarna",
-                        "name": "Soslu Makarna"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "id": "trilece",
@@ -571,20 +571,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corba",
-                        "name": "Tarhana Çorba"
+                        "id": "yayla_corba",
+                        "name": "Yayla Çorba"
                     },
                     {
-                        "id": "patlicanli_musakka",
-                        "name": "Patlıcanlı Musakka"
+                        "id": "kiymali_patates_oturtma",
+                        "name": "Kıymalı Patates Oturtma"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
-                        "id": "cacik",
-                        "name": "Cacık"
+                        "id": "salata",
+                        "name": "Salata"
                     },
                     {
                         "id": "etsiz_patlican",
@@ -614,8 +614,8 @@
                         "name": "Erişte"
                     },
                     {
-                        "id": "baklava",
-                        "name": "Baklava"
+                        "id": "meyve",
+                        "name": "Meyve"
                     },
                     {
                         "id": "etsiz_ispanak",
@@ -645,8 +645,8 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "salata",
+                        "name": "Salata"
                     },
                     {
                         "id": "etsiz_antep_usulu",

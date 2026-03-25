@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-24T04:49:40.863920+00:00",
-    "menuHash": "590e3c3b630644051d6367589fbf1dc30d00a3fd9ce79b61996aff0c04f1336f",
+    "lastUpdated": "2026-03-25T04:49:40.673358+00:00",
+    "menuHash": "130d1998b411a7764df4c8ec3cac6abdb5ee8ea637d6d31b8bb1b419d043eade",
     "menu": [
         {
             "date": "2026-03-02",
@@ -434,20 +434,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corbasi",
-                        "name": "Domates Çorbası"
+                        "id": "arabasi_corbasi",
+                        "name": "Arabaşı Çorbası"
                     },
                     {
-                        "id": "pureli_kofte",
-                        "name": "Püreli Köfte"
+                        "id": "ispanak_yemegi",
+                        "name": "Ispanak Yemeği"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "cevizli_eriste",
+                        "name": "Cevizli Erişte"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "portakalli_irmik_tatlisi",
+                        "name": "Portakallı İrmik Tatlısı"
                     }
                 ],
                 "aksam": null
@@ -461,20 +461,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "arabasi_corbasi",
-                        "name": "Arabaşı Çorbası"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
-                        "id": "ispanak_yemegi",
-                        "name": "Ispanak Yemeği"
+                        "id": "pureli_kofte",
+                        "name": "Püreli Köfte"
                     },
                     {
-                        "id": "cevizli_eriste",
-                        "name": "Cevizli Erişte"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
-                        "id": "tatli",
-                        "name": "Tatlı"
+                        "id": "salata",
+                        "name": "Salata"
                     }
                 ],
                 "aksam": null
