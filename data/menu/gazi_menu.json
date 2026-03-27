@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-26T05:01:01.560680+00:00",
-    "menuHash": "151e5aef57511afacfc54317a22518f8f59efe9c140620aedd651bc2c32a2a4f",
+    "lastUpdated": "2026-03-27T05:02:26.728543+00:00",
+    "menuHash": "f0dda9f53f56961c2498672c384fdb3cb544d94a66ac090d5ac10f8fb4dad644",
     "menu": [
         {
             "date": "2026-03-02",
@@ -571,16 +571,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yayla_corba",
-                        "name": "Yayla Çorba"
+                        "id": "yarma_corbasi",
+                        "name": "Yarma Çorbası"
                     },
                     {
-                        "id": "kiymali_patates_oturtma",
-                        "name": "Kıymalı Patates Oturtma"
+                        "id": "etsiz_patates",
+                        "name": "Etsiz Patates"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "id": "salata",
