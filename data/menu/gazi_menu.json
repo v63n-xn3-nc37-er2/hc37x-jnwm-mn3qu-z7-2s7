@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-27T05:02:26.728543+00:00",
-    "menuHash": "f0dda9f53f56961c2498672c384fdb3cb544d94a66ac090d5ac10f8fb4dad644",
+    "lastUpdated": "2026-03-28T04:48:20.909477+00:00",
+    "menuHash": "878061d3af2600155cfae056581abe9efcb44de791fae0bb5723d8eee6ce6546",
     "menu": [
         {
             "date": "2026-03-02",
@@ -575,8 +575,8 @@
                         "name": "Yarma Çorbası"
                     },
                     {
-                        "id": "etsiz_patates",
-                        "name": "Etsiz Patates"
+                        "id": "kiymali_firin_patates",
+                        "name": "Kıymalı Fırın Patates"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -587,8 +587,8 @@
                         "name": "Salata"
                     },
                     {
-                        "id": "etsiz_patlican",
-                        "name": "*Etsiz Patlıcan"
+                        "id": "etsiz_patates",
+                        "name": "*Etsiz Patates"
                     }
                 ],
                 "aksam": null
@@ -676,8 +676,8 @@
                         "name": "Portakallı Kereviz"
                     },
                     {
-                        "id": "kemalpasa_tatlisi",
-                        "name": "Kemalpaşa Tatlısı"
+                        "id": "yogurt",
+                        "name": "Yoğurt"
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
@@ -707,8 +707,8 @@
                         "name": "Makarna"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "kemal_pasa_tatlisi",
+                        "name": "Kemal Paşa Tatlısı"
                     },
                     {
                         "id": "etsiz_brokoli_yemegi",

@@ -3,71 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-27T05:02:33.596135+00:00",
-    "menuHash": "6f3f95b851215472d7b20112bb159552c3ef09e89b2985006e10b9a5dcf8131b",
+    "lastUpdated": "2026-03-28T04:48:27.196968+00:00",
+    "menuHash": "c69ae0d28c0025186d756630d2b3a237f859356a36198cf8453ef0f30f5e4df4",
     "menu": [
-        {
-            "date": "2026-03-25",
-            "menuId": "hacettepe_2026-03-25",
-            "calories": 1573,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Maraş Çorba",
-                        "id": "maras_corba"
-                    },
-                    {
-                        "name": "Kadıbudu Köfte (patates püresi)",
-                        "id": "kadibudu_kofte_patates_puresi"
-                    },
-                    {
-                        "name": "Havuç Salata",
-                        "id": "havuc_salata"
-                    },
-                    {
-                        "name": "Sıhhiye Güllaç Keşkül",
-                        "id": "sihhiye_gullac_keskul"
-                    },
-                    {
-                        "name": "* Etsiz Patates",
-                        "id": "etsiz_patates"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-03-26",
-            "menuId": "hacettepe_2026-03-26",
-            "calories": 1075,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Mercimek Çorba",
-                        "id": "mercimek_corba"
-                    },
-                    {
-                        "name": "Etli Bezelye",
-                        "id": "etli_bezelye"
-                    },
-                    {
-                        "name": "Pırasalı Börek",
-                        "id": "pirasali_borek"
-                    },
-                    {
-                        "name": "Meyve",
-                        "id": "meyve"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye",
-                        "id": "etsiz_bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-03-27",
             "menuId": "hacettepe_2026-03-27",
