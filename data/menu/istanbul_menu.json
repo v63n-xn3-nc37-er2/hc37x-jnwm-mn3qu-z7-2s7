@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-29T05:06:48.856577+00:00",
-    "menuHash": "88af70935660a90b086e7ec8fde4e0536fd7240ef4c6cee1a84c5b481305de14",
+    "lastUpdated": "2026-03-30T05:18:29.334117+00:00",
+    "menuHash": "fef89bfa559e4fef58787d97a69135cce09acbc85d1ae429b86486e2b5f93672",
     "menu": [
         {
             "date": "2026-03-02",
@@ -1665,8 +1665,8 @@
                         "name": "Yayla Çorbası"
                     },
                     {
-                        "id": "dana_rosto_et_pure",
-                        "name": "Dana Rosto Et (Püre)"
+                        "id": "macar_gulas",
+                        "name": "Macar Gulaş"
                     },
                     {
                         "id": "mevsim_salatasi",
@@ -1699,8 +1699,8 @@
                         "name": "Yayla Çorbası"
                     },
                     {
-                        "id": "dana_rosto_et_pure",
-                        "name": "Dana Rosto Et (Püre)"
+                        "id": "macar_gulas",
+                        "name": "Macar Gulaş"
                     },
                     {
                         "id": "mevsim_salatasi",
