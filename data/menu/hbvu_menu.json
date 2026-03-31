@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-30T05:17:56.240981+00:00",
-    "menuHash": "130d1998b411a7764df4c8ec3cac6abdb5ee8ea637d6d31b8bb1b419d043eade",
+    "lastUpdated": "2026-03-31T05:04:16.107133+00:00",
+    "menuHash": "3a7b26f79fdfdec681792b8a1e1e03bbc982e0f3283e5526d64f756ccccef2d6",
     "menu": [
         {
             "date": "2026-03-02",
@@ -537,7 +537,7 @@
         {
             "date": "2026-03-31",
             "menuId": "hbvu_2026-03-31",
-            "calories": 0,
+            "calories": 995,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
