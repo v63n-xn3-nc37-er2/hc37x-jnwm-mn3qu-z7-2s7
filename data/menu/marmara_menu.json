@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-03-31T05:04:21.411860+00:00",
-    "menuHash": "4f406ed0c18d5057cc56e48e64da3885497efdd809bccf4ecdc2f0ed8b3130e7",
+    "lastUpdated": "2026-04-01T05:17:42.948625+00:00",
+    "menuHash": "c1d01ca26d9baf8f94f7c9d0d7ae0a7db4a84034319dc9732a423022ead58dbd",
     "menu": [
         {
             "date": "2026-03-30",
@@ -75,7 +75,7 @@
         {
             "date": "2026-04-01",
             "menuId": "marmara_2026-04-01",
-            "calories": 1165,
+            "calories": 1265,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -92,8 +92,8 @@
                         "name": "Peynirli Su Böreği"
                     },
                     {
-                        "id": "trilece",
-                        "name": "Trileçe"
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
                     },
                     {
                         "id": "soslu_karisik_kizartma",
