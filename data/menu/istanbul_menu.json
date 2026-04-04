@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-03T05:00:40.231965+00:00",
-    "menuHash": "9b721ce9d2bb2054300ac770391be0cdbb3e07863bdaacf66d75bd9416cd3dc2",
+    "lastUpdated": "2026-04-04T04:46:47.816149+00:00",
+    "menuHash": "42e7ed2fd5df6a8ec0ae15d423b703c8e6a74f5322ffd824c7425f673b8305c3",
     "menu": [
         {
             "date": "2026-04-01",
@@ -225,8 +225,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "muz",
-                        "name": "Muz"
+                        "id": "portakal",
+                        "name": "Portakal"
                     },
                     {
                         "id": "domates_corbasi",
@@ -239,10 +239,6 @@
                     {
                         "id": "patatesli_tepsi_boregi",
                         "name": "*Patatesli Tepsi Böreği"
-                    },
-                    {
-                        "id": "portakal",
-                        "name": "*Portakal"
                     }
                 ],
                 "aksam": [
@@ -259,8 +255,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "muz",
-                        "name": "Muz"
+                        "id": "portakal",
+                        "name": "Portakal"
                     },
                     {
                         "id": "domates_corbasi",
@@ -273,10 +269,6 @@
                     {
                         "id": "patatesli_tepsi_boregi",
                         "name": "*Patatesli Tepsi Böreği"
-                    },
-                    {
-                        "id": "portakal",
-                        "name": "*Portakal"
                     }
                 ]
             }

@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-03T05:00:03.278440+00:00",
-    "menuHash": "dfa81efb634b73d7c31c51645e1cafb09b943333c734fb236b58f49ab7dea90c",
+    "lastUpdated": "2026-04-04T04:46:08.184530+00:00",
+    "menuHash": "d505eb4541ce1650729d9d939ba14d7df9c5327cb2df8a269b8faa2ba99d0c97",
     "menu": [
         {
             "date": "2026-04-01",
@@ -171,7 +171,7 @@
         {
             "date": "2026-04-09",
             "menuId": "hbvu_2026-04-09",
-            "calories": 892,
+            "calories": 904,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -180,16 +180,16 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "izgara_kofte",
-                        "name": "Izgara Köfte"
+                        "id": "pilavustu_et_doner",
+                        "name": "Pilavüstü Et Döner"
                     },
                     {
-                        "id": "sebzeli_bulgur_pilavi",
-                        "name": "Sebzeli Bulgur Pilavı"
+                        "id": "salata",
+                        "name": "Salata"
                     },
                     {
-                        "id": "paket_yogurt",
-                        "name": "Paket Yoğurt"
+                        "id": "ayran",
+                        "name": "Ayran"
                     }
                 ],
                 "aksam": null
@@ -198,7 +198,7 @@
         {
             "date": "2026-04-10",
             "menuId": "hbvu_2026-04-10",
-            "calories": 874,
+            "calories": 923,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -215,8 +215,8 @@
                         "name": "Nohutlu Pirinç Pilavı"
                     },
                     {
-                        "id": "mevsim_salata",
-                        "name": "Mevsim Salata"
+                        "id": "paket_yogurt",
+                        "name": "Paket Yoğurt"
                     }
                 ],
                 "aksam": null
@@ -414,7 +414,7 @@
         {
             "date": "2026-04-22",
             "menuId": "hbvu_2026-04-22",
-            "calories": 915,
+            "calories": 957,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -423,8 +423,8 @@
                         "name": "Tarhana Çorbası"
                     },
                     {
-                        "id": "izmir_kofte",
-                        "name": "İzmir Köfte"
+                        "id": "et_haslama",
+                        "name": "Et Haşlama"
                     },
                     {
                         "id": "makarna",
@@ -483,7 +483,7 @@
         {
             "date": "2026-04-27",
             "menuId": "hbvu_2026-04-27",
-            "calories": 959,
+            "calories": 810,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -492,8 +492,8 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "id": "hamburger",
-                        "name": "Hamburger"
+                        "id": "citir_tavuk",
+                        "name": "Çıtır Tavuk"
                     },
                     {
                         "id": "elma_dilim_patates",
