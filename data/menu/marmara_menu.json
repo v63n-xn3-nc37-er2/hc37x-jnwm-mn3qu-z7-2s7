@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-09T05:04:45.969739+00:00",
-    "menuHash": "cf880e59222cf7bd2ac2d1a767313af699245755f4cd44cf481303a903f7ad3e",
+    "lastUpdated": "2026-04-10T05:19:05.207587+00:00",
+    "menuHash": "7c2e76b561cf718978c49e9baebff149f09330f8c16469dc364c264c2ff7ee61",
     "menu": [
         {
             "date": "2026-04-06",
@@ -153,7 +153,7 @@
         {
             "date": "2026-04-10",
             "menuId": "marmara_2026-04-10",
-            "calories": 991,
+            "calories": 909,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -162,8 +162,8 @@
                         "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "et_sote",
-                        "name": "Et Sote"
+                        "id": "sebzeli_et_sote",
+                        "name": "Sebzeli Et Sote"
                     },
                     {
                         "id": "bulgur_pilavi",
