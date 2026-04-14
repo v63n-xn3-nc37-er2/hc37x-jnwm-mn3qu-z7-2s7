@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-13T05:34:22.616224+00:00",
-    "menuHash": "268f5fc086a085a4a8c63a0c2c0ffcf09d878e1c29b29d5af4a62a55327f74ae",
+    "lastUpdated": "2026-04-14T05:16:21.093980+00:00",
+    "menuHash": "5d41e48e09871a75fdc81ba56ed9a830ea5461ce507a6e6b5cd654639af0db8a",
     "menu": [
         {
             "date": "2026-04-01",
@@ -423,12 +423,12 @@
                         "name": "Tarhana Çorbası"
                     },
                     {
-                        "id": "et_haslama",
-                        "name": "Et Haşlama"
+                        "id": "icli_kofte_patates_salatasi",
+                        "name": "İçli Köfte+ Patates Salatası"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "yogurtlu_makarna",
+                        "name": "Yoğurtlu Makarna"
                     },
                     {
                         "id": "muz",
@@ -483,21 +483,21 @@
         {
             "date": "2026-04-27",
             "menuId": "hbvu_2026-04-27",
-            "calories": 810,
+            "calories": 928,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin Çorba"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "citir_tavuk",
-                        "name": "Çıtır Tavuk"
+                        "id": "citirdipsos",
+                        "name": "Çıtır+Dipsos"
                     },
                     {
-                        "id": "elma_dilim_patates",
-                        "name": "Elma dilim Patates"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
                         "id": "ayran",
@@ -537,21 +537,21 @@
         {
             "date": "2026-04-29",
             "menuId": "hbvu_2026-04-29",
-            "calories": 747,
+            "calories": 647,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corba",
-                        "name": "Domates Çorba"
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
                         "id": "tavuk_pirzolagarnitur",
                         "name": "Tavuk Pirzola+Garnitür"
                     },
                     {
-                        "id": "sade_bulgur_pilavi",
-                        "name": "Sade Bulgur Pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "mevsim_salata",

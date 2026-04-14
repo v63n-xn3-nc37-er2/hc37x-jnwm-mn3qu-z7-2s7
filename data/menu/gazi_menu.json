@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-13T05:34:07.171730+00:00",
-    "menuHash": "5c6f306f1484ae5df6862dd7fb5582e9a243e43b995196701a38494c538cdc9c",
+    "lastUpdated": "2026-04-14T05:16:05.913619+00:00",
+    "menuHash": "725f445726f50efa861426c6d77a639f12c962d53d11e2f6507965bd67710d9a",
     "menu": [
         {
             "date": "2026-04-06",
@@ -309,8 +309,8 @@
                         "name": "Vişneli Kup"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "etsiz_mevsim_turlu",
+                        "name": "*Etsiz Mevsim Türlü"
                     }
                 ],
                 "aksam": null
