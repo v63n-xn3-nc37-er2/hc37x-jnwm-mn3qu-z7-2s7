@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-15T05:17:02.558661+00:00",
-    "menuHash": "5d41e48e09871a75fdc81ba56ed9a830ea5461ce507a6e6b5cd654639af0db8a",
+    "lastUpdated": "2026-04-16T05:24:27.814028+00:00",
+    "menuHash": "a3b645409c75901b5d32ca8ad229df068c3761a915b92c4a2c6c497d2427c172",
     "menu": [
         {
             "date": "2026-04-01",
@@ -387,7 +387,7 @@
         {
             "date": "2026-04-21",
             "menuId": "hbvu_2026-04-21",
-            "calories": 897,
+            "calories": 997,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -404,8 +404,8 @@
                         "name": "Nohutlu Bulgur Pilavı"
                     },
                     {
-                        "id": "ekler_tatlisi",
-                        "name": "Ekler Tatlısı"
+                        "id": "soguk_baklava",
+                        "name": "Soğuk Baklava"
                     }
                 ],
                 "aksam": null
@@ -492,8 +492,8 @@
                         "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "citirdipsos",
-                        "name": "Çıtır+Dipsos"
+                        "id": "tavuk_pirzolagarnitur",
+                        "name": "Tavuk Pirzola+Garnitür"
                     },
                     {
                         "id": "makarna",
@@ -527,8 +527,8 @@
                         "name": "Ispanaklı Gül Böreği"
                     },
                     {
-                        "id": "soguk_baklava",
-                        "name": "Soğuk Baklava"
+                        "id": "ekler_tatlisi",
+                        "name": "Ekler Tatlısı"
                     }
                 ],
                 "aksam": null
@@ -546,8 +546,8 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "tavuk_pirzolagarnitur",
-                        "name": "Tavuk Pirzola+Garnitür"
+                        "id": "citir_tavuk_dipsosgrn",
+                        "name": "Çıtır Tavuk+ Dipsos+Grn"
                     },
                     {
                         "id": "bulgur_pilavi",

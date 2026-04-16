@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-15T05:17:42.406867+00:00",
-    "menuHash": "8860cb8a38139ebd4d50bcd74d09d9d565d5de052eb24e4bf4342c15be45412a",
+    "lastUpdated": "2026-04-16T05:25:11.745913+00:00",
+    "menuHash": "788a2aadf941072bc75c1170fbce332f4c75f5c277d274b2af0134c5ae1371de",
     "menu": [
         {
             "date": "2026-04-01",
@@ -965,8 +965,8 @@
                 ],
                 "oglen": [
                     {
-                        "id": "dugun_corbasi",
-                        "name": "Düğün Çorbası"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "eksili_kofte",
@@ -999,8 +999,8 @@
                 ],
                 "aksam": [
                     {
-                        "id": "dugun_corbasi",
-                        "name": "Düğün Çorbası"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "eksili_kofte",

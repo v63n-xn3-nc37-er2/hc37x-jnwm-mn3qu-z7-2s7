@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-15T05:16:26.435295+00:00",
-    "menuHash": "725f445726f50efa861426c6d77a639f12c962d53d11e2f6507965bd67710d9a",
+    "lastUpdated": "2026-04-16T05:23:48.300499+00:00",
+    "menuHash": "0667856b834d271a3248075d468f296814a9a76b476f513e2ca2e34194a416ea",
     "menu": [
         {
             "date": "2026-04-06",
@@ -226,7 +226,7 @@
         {
             "date": "2026-04-15",
             "menuId": "gazi_2026-04-15",
-            "calories": 1200,
+            "calories": 1300,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -239,8 +239,8 @@
                         "name": "Kıymalı Karnabahar"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
                     },
                     {
                         "id": "ayran",
@@ -336,8 +336,8 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
+                        "id": "hindistan_cevizli_kure_pasta",
+                        "name": "Hindistan Cevizli Küre Pasta"
                     },
                     {
                         "id": "etsiz_patates",
