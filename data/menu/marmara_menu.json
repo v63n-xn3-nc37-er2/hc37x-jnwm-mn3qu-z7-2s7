@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-20T05:33:58.181638+00:00",
-    "menuHash": "2274c775b1d18cdb67942a8e30859b82c5d59af3fef670f24a3acc9708f4d8fe",
+    "lastUpdated": "2026-04-21T05:21:19.633369+00:00",
+    "menuHash": "0cb3078784dc2dafe3e4e439d2392266f57db6aaf1361e57744edc1b7c529990",
     "menu": [
         {
             "date": "2026-04-20",
@@ -83,7 +83,7 @@
         {
             "date": "2026-04-22",
             "menuId": "marmara_2026-04-22",
-            "calories": 775,
+            "calories": 770,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -100,8 +100,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "elma",
+                        "name": "Elma"
                     },
                     {
                         "id": "kuru_fasulye",

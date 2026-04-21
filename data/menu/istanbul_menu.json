@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-20T05:34:29.448014+00:00",
-    "menuHash": "788a2aadf941072bc75c1170fbce332f4c75f5c277d274b2af0134c5ae1371de",
+    "lastUpdated": "2026-04-21T05:21:50.872955+00:00",
+    "menuHash": "375beec53532ddc2a352001d04f29afd840d3b69c249774d08298e8f8b869b91",
     "menu": [
         {
             "date": "2026-04-01",
@@ -1365,8 +1365,8 @@
                         "name": "Peynirli Makarna"
                     },
                     {
-                        "id": "tiramisu",
-                        "name": "Tiramisu"
+                        "id": "cilek",
+                        "name": "Çilek"
                     },
                     {
                         "id": "mantar_corbasi",
@@ -1399,8 +1399,8 @@
                         "name": "Peynirli Makarna"
                     },
                     {
-                        "id": "tiramisu",
-                        "name": "Tiramisu"
+                        "id": "cilek",
+                        "name": "Çilek"
                     },
                     {
                         "id": "mantar_corbasi",

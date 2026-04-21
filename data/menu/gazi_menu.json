@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-20T05:33:26.569617+00:00",
-    "menuHash": "0667856b834d271a3248075d468f296814a9a76b476f513e2ca2e34194a416ea",
+    "lastUpdated": "2026-04-21T05:20:51.003592+00:00",
+    "menuHash": "b6ac9e4a796c74dde4aea50146672cbb69af749585b58f000b161bd78829d68f",
     "menu": [
         {
             "date": "2026-04-06",
@@ -324,8 +324,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corba",
-                        "name": "Tarhana Çorba"
+                        "id": "kmercimek_corba",
+                        "name": "K.Mercimek Çorba"
                     },
                     {
                         "id": "tas_kebabi",
@@ -355,8 +355,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "hanimaga_corba",
-                        "name": "Hanımağa Çorba"
+                        "id": "alaca_corba",
+                        "name": "Alaca Çorba"
                     },
                     {
                         "id": "kiymali_manti_makarna",
@@ -432,8 +432,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "etli_bezelye",
@@ -444,8 +444,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "tahin_helva",
-                        "name": "Tahin Helva"
+                        "id": "irmik_helva",
+                        "name": "İrmik Helva"
                     },
                     {
                         "id": "etsiz_bezelye",
