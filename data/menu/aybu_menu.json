@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-21T05:21:09.980375+00:00",
-    "menuHash": "606c9066abb2e7e8d23163f973b872dad94f14281f7dfd7283b40e38df31105b",
+    "lastUpdated": "2026-04-22T05:18:54.932002+00:00",
+    "menuHash": "6a1a72de67d767d3c0154e4cdaeb182dbe10750411fd3e383c75aea23e2c2294",
     "menu": [
         {
             "date": "2026-04-01",
@@ -404,8 +404,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "vezir_parmagi",
-                        "name": "Vezir Parmağı"
+                        "id": "trilece",
+                        "name": "Trileçe"
                     }
                 ],
                 "aksam": null

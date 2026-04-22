@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-21T05:21:19.633369+00:00",
-    "menuHash": "0cb3078784dc2dafe3e4e439d2392266f57db6aaf1361e57744edc1b7c529990",
+    "lastUpdated": "2026-04-22T05:19:01.638007+00:00",
+    "menuHash": "f008f6a361fe06ad32374a492b90f3f7f7287bd2e1c50f2d1647550b432675ce",
     "menu": [
         {
             "date": "2026-04-20",
@@ -44,7 +44,7 @@
         {
             "date": "2026-04-21",
             "menuId": "marmara_2026-04-21",
-            "calories": 1105,
+            "calories": 1040,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
