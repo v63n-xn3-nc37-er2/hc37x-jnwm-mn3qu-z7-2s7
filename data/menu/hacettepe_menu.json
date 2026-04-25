@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-04-24T05:28:27.486198+00:00",
-    "menuHash": "7bb9eada2987d521c32f4fcfe6f7dd20819c7e02c2ceb2ec0214d5021689137c",
+    "lastUpdated": "2026-04-25T05:06:25.818759+00:00",
+    "menuHash": "05ab0318cb3cdd7b3a27405ad1444ac4416f5ba902ccf897fed925debed7d681",
     "menu": [
         {
             "date": "2026-04-01",
@@ -998,10 +998,14 @@
         {
             "date": "2026-04-24",
             "menuId": "hacettepe_2026-04-24",
-            "calories": 1035,
+            "calories": 1263,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
+                    {
+                        "name": "Ezogelin Çorbası",
+                        "id": "ezogelin_corbasi"
+                    },
                     {
                         "name": "Püreli Tepsi Kebabı",
                         "id": "pureli_tepsi_kebabi"
