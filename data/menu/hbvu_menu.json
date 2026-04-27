@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-26T05:32:11.198482+00:00",
-    "menuHash": "a3b645409c75901b5d32ca8ad229df068c3761a915b92c4a2c6c497d2427c172",
+    "lastUpdated": "2026-04-27T05:46:34.779745+00:00",
+    "menuHash": "1368d0935a8ee9eab24d0661b4b61626ed86b11ad08fbd8f37655aeee0387893",
     "menu": [
         {
             "date": "2026-04-01",
@@ -496,8 +496,8 @@
                         "name": "Tavuk Pirzola+Garnitür"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "ayran",
@@ -550,8 +550,8 @@
                         "name": "Çıtır Tavuk+ Dipsos+Grn"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
                         "id": "mevsim_salata",
