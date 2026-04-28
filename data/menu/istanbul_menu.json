@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-27T05:47:09.183481+00:00",
-    "menuHash": "74b9a27e3f729cfcbf707e1c066d00a550453aefd375db57abea04a1ac1c7ed9",
+    "lastUpdated": "2026-04-28T05:52:35.869668+00:00",
+    "menuHash": "261dc08390b69c31ea22f09bc24b34365cb1d4199906642595305ac314cb273c",
     "menu": [
         {
             "date": "2026-04-01",
@@ -1268,8 +1268,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
+                        "id": "limonata",
+                        "name": "Limonata"
                     },
                     {
                         "id": "ezogelin_corbasi",
@@ -1302,8 +1302,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
+                        "id": "limonata",
+                        "name": "Limonata"
                     },
                     {
                         "id": "ezogelin_corbasi",
@@ -1903,20 +1903,24 @@
                 ],
                 "oglen": [
                     {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kereviz_yemegi",
+                        "name": "Kereviz Yemeği"
+                    },
+                    {
+                        "id": "eriste",
+                        "name": "Erişte"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "Un Helvası"
+                    },
+                    {
                         "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "id": "tavuk_sote",
-                        "name": "Tavuk Sote"
-                    },
-                    {
-                        "id": "buhara_pilavi",
-                        "name": "Buhara Pilavı"
-                    },
-                    {
-                        "id": "muz",
-                        "name": "Muz"
+                        "name": "*Mercimek Çorbası"
                     },
                     {
                         "id": "etsiz_patates_yemegi",
@@ -1933,20 +1937,24 @@
                 ],
                 "aksam": [
                     {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kereviz_yemegi",
+                        "name": "Kereviz Yemeği"
+                    },
+                    {
+                        "id": "eriste",
+                        "name": "Erişte"
+                    },
+                    {
+                        "id": "un_helvasi",
+                        "name": "Un Helvası"
+                    },
+                    {
                         "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "id": "tavuk_sote",
-                        "name": "Tavuk Sote"
-                    },
-                    {
-                        "id": "buhara_pilavi",
-                        "name": "Buhara Pilavı"
-                    },
-                    {
-                        "id": "muz",
-                        "name": "Muz"
+                        "name": "*Mercimek Çorbası"
                     },
                     {
                         "id": "etsiz_patates_yemegi",

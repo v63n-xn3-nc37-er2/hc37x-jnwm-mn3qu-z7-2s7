@@ -3,13 +3,13 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-27T05:46:40.344503+00:00",
-    "menuHash": "297324a4e7573a5b1c0342b9f7b8da3551f1c92240a537da198b4fe1ae5f95b8",
+    "lastUpdated": "2026-04-28T05:52:01.219042+00:00",
+    "menuHash": "c01389999f36e4d9ba7adae7f5c9c58738fac7c5b762e87de23fe17dc1a56111",
     "menu": [
         {
             "date": "2026-04-27",
             "menuId": "marmara_2026-04-27",
-            "calories": 755,
+            "calories": 935,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -18,8 +18,8 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "tavuk_doner_durum",
-                        "name": "Tavuk Döner Dürüm"
+                        "id": "tavuk_doner_sandvic",
+                        "name": "Tavuk Döner Sandviç"
                     },
                     {
                         "id": "pirinc_pilavi",
