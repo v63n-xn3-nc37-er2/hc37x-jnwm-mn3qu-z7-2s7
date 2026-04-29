@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-04-28T05:51:53.076394+00:00",
-    "menuHash": "1368d0935a8ee9eab24d0661b4b61626ed86b11ad08fbd8f37655aeee0387893",
+    "lastUpdated": "2026-04-29T05:47:09.875641+00:00",
+    "menuHash": "04786aa79aa874446006d003bcd65504b1eb2e2be4ec3fecb0e47e7babe2363d",
     "menu": [
         {
             "date": "2026-04-01",
@@ -546,8 +546,8 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "citir_tavuk_dipsosgrn",
-                        "name": "Çıtır Tavuk+ Dipsos+Grn"
+                        "id": "citir_tavuk_dipsos",
+                        "name": "Çıtır Tavuk+ Dipsos"
                     },
                     {
                         "id": "makarna",
