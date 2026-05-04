@@ -3,35 +3,35 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-03T05:51:38.526403+00:00",
-    "menuHash": "c01389999f36e4d9ba7adae7f5c9c58738fac7c5b762e87de23fe17dc1a56111",
+    "lastUpdated": "2026-05-04T05:56:44.373168+00:00",
+    "menuHash": "1964568d17889372421e0dd66cd3b2de1a0dd1e0437700f4dfdd9e7dc104a2d4",
     "menu": [
         {
-            "date": "2026-04-27",
-            "menuId": "marmara_2026-04-27",
-            "calories": 935,
+            "date": "2026-05-04",
+            "menuId": "marmara_2026-05-04",
+            "calories": 830,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corbasi",
-                        "name": "Ezogelin Çorbası"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "tavuk_doner_sandvic",
-                        "name": "Tavuk Döner Sandviç"
+                        "id": "et_doner_elma_dilim_patates",
+                        "name": "Et Döner Elma Dilim Patates"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
                     },
                     {
                         "id": "meyve_suyuayran",
                         "name": "Meyve Suyu/Ayran"
                     },
                     {
-                        "id": "soslu_firin_sebze",
-                        "name": "*Soslu Fırın Sebze"
+                        "id": "taze_fasulye_yemegi",
+                        "name": "*Taze Fasulye Yemeği"
                     },
                     {
                         "id": "meyve_suyu",
@@ -42,70 +42,35 @@
             }
         },
         {
-            "date": "2026-04-28",
-            "menuId": "marmara_2026-04-28",
-            "calories": 755,
+            "date": "2026-05-05",
+            "menuId": "marmara_2026-05-05",
+            "calories": 1045,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corbasi",
-                        "name": "Tarhana Çorbası"
+                        "id": "anadolu_corbasi",
+                        "name": "Anadolu Çorbası"
                     },
                     {
-                        "id": "hasanpasa_kofte",
-                        "name": "Hasanpaşa Köfte"
+                        "id": "soslu_tavuk_fileto",
+                        "name": "Soslu Tavuk Fileto"
                     },
                     {
-                        "id": "eriste_makarna",
-                        "name": "Erişte Makarna"
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
                     },
                     {
-                        "id": "mevsim_salatasi",
-                        "name": "Mevsim Salatası"
+                        "id": "keskul",
+                        "name": "Keşkül"
                     },
                     {
-                        "id": "taze_fasulye_yemegi",
-                        "name": "*Taze Fasulye Yemeği"
+                        "id": "semizotu_yemegi",
+                        "name": "*Semizotu Yemeği"
                     },
                     {
                         "id": "sebze_corbasi",
                         "name": "*Sebze Çorbası"
-                    },
-                    {
-                        "id": "makarna",
-                        "name": "*Makarna"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-29",
-            "menuId": "marmara_2026-04-29",
-            "calories": 730,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sehriye_corbasi",
-                        "name": "Şehriye Çorbası"
-                    },
-                    {
-                        "id": "etli_kuru_fasulye",
-                        "name": "Etli Kuru Fasulye"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "yalanci_tavuk_gogsu_tatlisi",
-                        "name": "Yalancı Tavuk Göğsü Tatlısı"
-                    },
-                    {
-                        "id": "bezelye_yemegi",
-                        "name": "*Bezelye Yemeği"
                     },
                     {
                         "id": "karisik_tursu",
@@ -116,35 +81,105 @@
             }
         },
         {
-            "date": "2026-04-30",
-            "menuId": "marmara_2026-04-30",
-            "calories": 789,
+            "date": "2026-05-06",
+            "menuId": "marmara_2026-05-06",
+            "calories": 700,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "koy_corbasi",
-                        "name": "Köy Çorbası"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
-                        "id": "pilic_baget_haslama",
-                        "name": "Piliç Baget Haşlama"
+                        "id": "kiymali_patlican_oturtma",
+                        "name": "Kıymalı Patlıcan Oturtma"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "mercimekli_bulgur_pilavi",
+                        "name": "Mercimekli Bulgur Pilavı"
+                    },
+                    {
+                        "id": "cacik",
+                        "name": "Cacık"
+                    },
+                    {
+                        "id": "patlican_musakka",
+                        "name": "*Patlıcan Musakka"
+                    },
+                    {
+                        "id": "salata",
+                        "name": "*Salata"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-07",
+            "menuId": "marmara_2026-05-07",
+            "calories": 680,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "sebze_corbasi",
+                        "name": "Sebze çorbası"
+                    },
+                    {
+                        "id": "nohut_yemegi",
+                        "name": "Nohut Yemeği"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "id": "meyve",
                         "name": "Meyve"
                     },
                     {
-                        "id": "kuru_fasulye",
-                        "name": "*Kuru Fasulye"
+                        "id": "pazi_kavurma",
+                        "name": "*Pazı Kavurma"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-08",
+            "menuId": "marmara_2026-05-08",
+            "calories": 1195,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "kuru_fasulye_yemegi",
-                        "name": "*Kuru Fasulye Yemeği"
+                        "id": "pureli_rosto_kofte",
+                        "name": "Püreli Rosto Köfte"
+                    },
+                    {
+                        "id": "peynirli_su_boregi",
+                        "name": "Peynirli Su Böreği"
+                    },
+                    {
+                        "id": "islak_kurabiye",
+                        "name": "Islak Kurabiye"
+                    },
+                    {
+                        "id": "patlican_yemegi",
+                        "name": "*Patlıcan Yemeği"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "karisik_tursu",
+                        "name": "*Karışık Turşu"
                     }
                 ],
                 "aksam": null

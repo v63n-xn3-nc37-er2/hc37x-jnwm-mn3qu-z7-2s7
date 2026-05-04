@@ -4,229 +4,28 @@
     "uniId": "ankara",
     "facultyId": "merkez",
     "url": "https://sksbasvuru.ankara.edu.tr/kayit/moduller/yemeklistesi/aylikyemeklistesi.xlsx",
-    "lastUpdated": "2026-05-03T05:51:23.541013+00:00",
-    "menuHash": "97510b62bdbabddfde4fd4e26cf879b80600a3e4807481e309aa9fe6172886f6",
+    "lastUpdated": "2026-05-04T05:56:28.982508+00:00",
+    "menuHash": "e8fac20a8fd6962746a33ee08b9a07b48e7276ea400c7e1610225c0629c2b97e",
     "menu": [
         {
-            "date": "2026-04-01",
-            "menuId": "ankara_2026-04-01",
-            "calories": 1205,
+            "date": "2026-05-01",
+            "menuId": "ankara_2026-05-01",
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sehriye_corba",
-                        "name": "ŞEHRİYE ÇORBA"
-                    },
-                    {
-                        "id": "soslu_kofteli_alipasa_pilavi",
-                        "name": "SOSLU KÖFTELİ ALİPAŞA PİLAVI"
-                    },
-                    {
-                        "id": "sebze_graten",
-                        "name": "SEBZE GRATEN"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "AYRAN"
+                        "id": "1_mayis_emek_ve_dayanisma_gunu",
+                        "name": "1 MAYIS EMEK VE DAYANIŞMA GÜNÜ"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-02",
-            "menuId": "ankara_2026-04-02",
-            "calories": 1789,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "yayla_corba",
-                        "name": "YAYLA ÇORBA"
-                    },
-                    {
-                        "id": "barbeku_soslu_tavuk",
-                        "name": "BARBEKÜ SOSLU TAVUK"
-                    },
-                    {
-                        "id": "cevizli_eriste",
-                        "name": "CEVİZLİ ERİŞTE"
-                    },
-                    {
-                        "id": "kalburabasti",
-                        "name": "KALBURABASTI"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-03",
-            "menuId": "ankara_2026-04-03",
-            "calories": 1387,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "feslegenli_domates_corba",
-                        "name": "FESLEĞENLİ DOMATES ÇORBA"
-                    },
-                    {
-                        "id": "orman_kebap",
-                        "name": "ORMAN KEBAP"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "BULGUR PİLAVI"
-                    },
-                    {
-                        "id": "menekse_salata",
-                        "name": "MENEKŞE SALATA"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-06",
-            "menuId": "ankara_2026-04-06",
-            "calories": 1449,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "yesil_mercimek_corba",
-                        "name": "YEŞİL MERCİMEK ÇORBA"
-                    },
-                    {
-                        "id": "ankara_tava",
-                        "name": "ANKARA TAVA"
-                    },
-                    {
-                        "id": "fasulye_piyaz",
-                        "name": "FASULYE PİYAZ"
-                    },
-                    {
-                        "id": "trilece",
-                        "name": "TRİLEÇE"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-07",
-            "menuId": "ankara_2026-04-07",
-            "calories": 1030,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sebze_corba",
-                        "name": "SEBZE ÇORBA"
-                    },
-                    {
-                        "id": "abant_kofte",
-                        "name": "ABANT KÖFTE"
-                    },
-                    {
-                        "id": "soslu_makarna",
-                        "name": "SOSLU MAKARNA"
-                    },
-                    {
-                        "id": "meyve",
-                        "name": "MEYVE"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-08",
-            "menuId": "ankara_2026-04-08",
-            "calories": 1362,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tarhana_corba",
-                        "name": "TARHANA ÇORBA"
-                    },
-                    {
-                        "id": "izgara_tavuk_butpatates_salata",
-                        "name": "IZGARA TAVUK BUT/PATATES SALATA"
-                    },
-                    {
-                        "id": "ispanakli_kol_boregi",
-                        "name": "ISPANAKLI KOL BÖREĞİ"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "AYRAN"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-09",
-            "menuId": "ankara_2026-04-09",
-            "calories": 1311,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "kirmizi_mercimek_corba",
-                        "name": "KIRMIZI MERCİMEK ÇORBA"
-                    },
-                    {
-                        "id": "etli_bezelye",
-                        "name": "ETLİ BEZELYE"
-                    },
-                    {
-                        "id": "sehriyeli_pirinc_pilavi",
-                        "name": "ŞEHRİYELİ PİRİNÇ PİLAVI"
-                    },
-                    {
-                        "id": "frambuaz_ruyasi",
-                        "name": "FRAMBUAZ RÜYASI"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-10",
-            "menuId": "ankara_2026-04-10",
-            "calories": 1238,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ezogelin_corba",
-                        "name": "EZOGELİN ÇORBA"
-                    },
-                    {
-                        "id": "kajun_baharatli_tavukketcapmayonez",
-                        "name": "KAJUN BAHARATLI TAVUK/KETÇAP-MAYONEZ"
-                    },
-                    {
-                        "id": "soslu_makarna",
-                        "name": "SOSLU MAKARNA"
-                    },
-                    {
-                        "id": "coleslaw",
-                        "name": "COLESLAW"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-13",
-            "menuId": "ankara_2026-04-13",
-            "calories": 1194,
+            "date": "2026-05-04",
+            "menuId": "ankara_2026-05-04",
+            "calories": 1252,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -243,17 +42,17 @@
                         "name": "BULGUR PİLAVI/TURŞU"
                     },
                     {
-                        "id": "trilece",
-                        "name": "TRİLEÇE"
+                        "id": "frambuaz_ruyasi",
+                        "name": "FRAMBUAZ RÜYASI"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-14",
-            "menuId": "ankara_2026-04-14",
-            "calories": 874,
+            "date": "2026-05-05",
+            "menuId": "ankara_2026-05-05",
+            "calories": 1188,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -262,12 +61,39 @@
                         "name": "KIRMIZI MERCİMEK ÇORBA"
                     },
                     {
-                        "id": "pilav_ustu_tavuk_doner",
-                        "name": "PİLAV ÜSTÜ TAVUK DÖNER"
+                        "id": "abant_usulu_firin_tavuk",
+                        "name": "ABANT USULÜ FIRIN TAVUK"
                     },
                     {
-                        "id": "menekse_salata",
-                        "name": "MENEKŞE SALATA"
+                        "id": "soslu_makarna",
+                        "name": "SOSLU MAKARNA"
+                    },
+                    {
+                        "id": "mevsim_salata",
+                        "name": "MEVSİM SALATA"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-06",
+            "menuId": "ankara_2026-05-06",
+            "calories": 1387,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "tarhana_corba",
+                        "name": "TARHANA ÇORBA"
+                    },
+                    {
+                        "id": "izmir_kofte",
+                        "name": "İZMİR KÖFTE"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "ŞEHRİYELİ PİRİNÇ PİLAVI"
                     },
                     {
                         "id": "ayran",
@@ -278,104 +104,23 @@
             }
         },
         {
-            "date": "2026-04-15",
-            "menuId": "ankara_2026-04-15",
-            "calories": 1071,
+            "date": "2026-05-07",
+            "menuId": "ankara_2026-05-07",
+            "calories": 1028,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sehriye_corba",
-                        "name": "ŞEHRİYE ÇORBA"
+                        "id": "koylum_corba",
+                        "name": "KÖYLÜM ÇORBA"
                     },
                     {
-                        "id": "coban_kavurma",
-                        "name": "ÇOBAN KAVURMA"
+                        "id": "iskender_kebap",
+                        "name": "İSKENDER KEBAP"
                     },
                     {
-                        "id": "sebzeli_bulgur_pilavi",
-                        "name": "SEBZELİ BULGUR PİLAVı"
-                    },
-                    {
-                        "id": "cacik",
-                        "name": "CACIK"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-16",
-            "menuId": "ankara_2026-04-16",
-            "calories": 1609,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "alaca_corba",
-                        "name": "ALACA ÇORBA"
-                    },
-                    {
-                        "id": "tavuk_taleks",
-                        "name": "TAVUK TALEKS"
-                    },
-                    {
-                        "id": "soslu_spagetti",
-                        "name": "SOSLU SPAGETTİ"
-                    },
-                    {
-                        "id": "frambuaz_soslu_muhallebi",
-                        "name": "FRAMBUAZ SOSLU MUHALLEBİ"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-17",
-            "menuId": "ankara_2026-04-17",
-            "calories": 1193,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tarhana_corba",
-                        "name": "TARHANA ÇORBA"
-                    },
-                    {
-                        "id": "kirkagac_kofte",
-                        "name": "KIRKAĞAÇ KÖFTE"
-                    },
-                    {
-                        "id": "sade_pirinc_pilavi",
-                        "name": "SADE PİRİNÇ PİLAVI"
-                    },
-                    {
-                        "id": "misirli_aysberg_salata",
-                        "name": "MISIRLI AYSBERG SALATA"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-20",
-            "menuId": "ankara_2026-04-20",
-            "calories": 1384,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mantar_corba",
-                        "name": "MANTAR ÇORBA"
-                    },
-                    {
-                        "id": "izgara_tavuk_bagetpatates_garnitur",
-                        "name": "IZGARA TAVUK BAGET/PATATES GARNİTÜR"
-                    },
-                    {
-                        "id": "su_boregi",
-                        "name": "SU BÖREĞİ"
+                        "id": "patates_salata",
+                        "name": "PATATES SALATA"
                     },
                     {
                         "id": "meyve",
@@ -386,8 +131,35 @@
             }
         },
         {
-            "date": "2026-04-21",
-            "menuId": "ankara_2026-04-21",
+            "date": "2026-05-08",
+            "menuId": "ankara_2026-05-08",
+            "calories": 1653,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "alaca_corba",
+                        "name": "ALACA ÇORBA"
+                    },
+                    {
+                        "id": "izgara_tavuk_pirzolapatates_garnitur",
+                        "name": "IZGARA TAVUK PİRZOLA/PATATES GARNİTÜR"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "ŞEHRİYELİ PİRİNÇ PİLAVI"
+                    },
+                    {
+                        "id": "tiramisu",
+                        "name": "TİRAMİSU"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-11",
+            "menuId": "ankara_2026-05-11",
             "calories": 852,
             "meals": {
                 "kahvalti": [],
@@ -401,8 +173,8 @@
                         "name": "PİLAV ÜSTÜ ET DÖNER"
                     },
                     {
-                        "id": "menekse_salata",
-                        "name": "MENEKŞE SALATA"
+                        "id": "mevsim_salata",
+                        "name": "MEVSİM SALATA"
                     },
                     {
                         "id": "ayran",
@@ -413,78 +185,63 @@
             }
         },
         {
-            "date": "2026-04-22",
-            "menuId": "ankara_2026-04-22",
-            "calories": 1503,
+            "date": "2026-05-12",
+            "menuId": "ankara_2026-05-12",
+            "calories": 1099,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "dugurcuk_corba",
-                        "name": "DÜĞÜRCÜK ÇORBA"
+                        "id": "sehriye_corba",
+                        "name": "ŞEHRİYE ÇORBA"
                     },
                     {
-                        "id": "ispanak_yataginda_izgara_tavuk",
-                        "name": "ISPANAK YATAĞINDA IZGARA TAVUK"
+                        "id": "balaban_kofte",
+                        "name": "BALABAN KÖFTE"
                     },
                     {
-                        "id": "soslu_makarna",
-                        "name": "SOSLU MAKARNA"
+                        "id": "sebze_buketi",
+                        "name": "SEBZE BUKETİ"
                     },
                     {
-                        "id": "kakaolu_puding",
-                        "name": "KAKAOLU PUDİNG"
+                        "id": "findikli_keskul",
+                        "name": "FINDIKLI KEŞKÜL"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-23",
-            "menuId": "ankara_2026-04-23",
-            "calories": 0,
+            "date": "2026-05-13",
+            "menuId": "ankara_2026-05-13",
+            "calories": 868,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "23_nisan_ulusal_egemenlik_ve_cocuk_bayrami",
-                        "name": "23 NİSAN ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI"
+                        "id": "feslegenli_domates_corba",
+                        "name": "FESLEĞENLİ DOMATES ÇORBA"
+                    },
+                    {
+                        "id": "pilav_ustu_tavuk_doner",
+                        "name": "PİLAV ÜSTÜ TAVUK DÖNER"
+                    },
+                    {
+                        "id": "mevsim_salata",
+                        "name": "MEVSİM SALATA"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "AYRAN"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-24",
-            "menuId": "ankara_2026-04-24",
-            "calories": 1328,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "koylum_corba",
-                        "name": "KÖYLÜM ÇORBA"
-                    },
-                    {
-                        "id": "adana_kebapbulgur_pilavi",
-                        "name": "ADANA KEBAP/BULGUR PİLAVI"
-                    },
-                    {
-                        "id": "sebze_graten",
-                        "name": "SEBZE GRATEN"
-                    },
-                    {
-                        "id": "trilece",
-                        "name": "TRİLEÇE"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-04-27",
-            "menuId": "ankara_2026-04-27",
-            "calories": 1294,
+            "date": "2026-05-14",
+            "menuId": "ankara_2026-05-14",
+            "calories": 1365,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -493,39 +250,135 @@
                         "name": "EZOGELİN ÇORBA"
                     },
                     {
-                        "id": "pideli_kofte",
-                        "name": "PİDELİ KÖFTE"
+                        "id": "icli_kofte",
+                        "name": "İÇLİ KÖFTE"
                     },
                     {
-                        "id": "sebze_buketi",
-                        "name": "SEBZE BUKETİ"
+                        "id": "sebze_graten",
+                        "name": "SEBZE GRATEN"
                     },
                     {
-                        "id": "tulumba_tatlisi",
-                        "name": "TULUMBA TATLISI"
+                        "id": "frambuaz_ruyasi",
+                        "name": "FRAMBUAZ RÜYASI"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-28",
-            "menuId": "ankara_2026-04-28",
-            "calories": 1201,
+            "date": "2026-05-15",
+            "menuId": "ankara_2026-05-15",
+            "calories": 1528,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "hanimaga_corba",
-                        "name": "HANIMAĞA ÇORBA"
+                        "id": "mahluta_corba",
+                        "name": "MAHLUTA ÇORBA"
                     },
                     {
-                        "id": "korili_tavuk_kavurma",
-                        "name": "KÖRİLİ TAVUK KAVURMA"
+                        "id": "izgara_tavuk_butsebze_garnitur",
+                        "name": "IZGARA TAVUK BUT/SEBZE GARNİTÜR"
+                    },
+                    {
+                        "id": "soslu_spagetti",
+                        "name": "SOSLU SPAGETTİ"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "YOĞURT"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-18",
+            "menuId": "ankara_2026-05-18",
+            "calories": 1160,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kirmizi_mercimek_corba",
+                        "name": "KIRMIZI MERCİMEK ÇORBA"
+                    },
+                    {
+                        "id": "kajun_baharatli_tavukketcapmayonez",
+                        "name": "KAJUN BAHARATLI TAVUK/KETÇAP-MAYONEZ"
                     },
                     {
                         "id": "mac_and_cheese",
                         "name": "MAC AND CHEESE"
+                    },
+                    {
+                        "id": "coleslaw",
+                        "name": "COLESLAW"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-19",
+            "menuId": "ankara_2026-05-19",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "19_mayis_ataturku_anma_genclik_ve_spor_bayrami",
+                        "name": "19 MAYIS ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMI"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-20",
+            "menuId": "ankara_2026-05-20",
+            "calories": 1394,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "EZOGELİN ÇORBA"
+                    },
+                    {
+                        "id": "citir_tavukketcap_mayonez",
+                        "name": "ÇITIR TAVUK/KETÇAP- MAYONEZ"
+                    },
+                    {
+                        "id": "baharatli_makarna",
+                        "name": "BAHARATLI MAKARNA"
+                    },
+                    {
+                        "id": "sutlu_irmik_tatlisi",
+                        "name": "SÜTLÜ İRMİK TATLISI"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-21",
+            "menuId": "ankara_2026-05-21",
+            "calories": 1061,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "tarhana_corba",
+                        "name": "TARHANA ÇORBA"
+                    },
+                    {
+                        "id": "etli_bezelye",
+                        "name": "ETLİ BEZELYE"
+                    },
+                    {
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "ŞEHRİYELİ PİRİNÇ PİLAVI"
                     },
                     {
                         "id": "meyve",
@@ -536,54 +389,84 @@
             }
         },
         {
-            "date": "2026-04-29",
-            "menuId": "ankara_2026-04-29",
-            "calories": 1254,
+            "date": "2026-05-22",
+            "menuId": "ankara_2026-05-22",
+            "calories": 848,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mahluta_corba",
-                        "name": "MAHLUTA ÇORBA"
+                        "id": "yesil_mercimek_corba",
+                        "name": "YEŞİL MERCİMEK ÇORBA"
                     },
                     {
-                        "id": "etli_kuru_fasulye",
-                        "name": "ETLİ KURU FASULYE"
+                        "id": "pilav_ustu_et_doner",
+                        "name": "PİLAV ÜSTÜ ET DÖNER"
                     },
                     {
-                        "id": "bahar_pilavitursu",
-                        "name": "BAHAR PİLAVI/TURŞU"
+                        "id": "mevsim_salata",
+                        "name": "MEVSİM SALATA"
                     },
                     {
-                        "id": "incir_uyutma",
-                        "name": "İNCİR UYUTMA"
+                        "id": "ayran",
+                        "name": "AYRAN"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-04-30",
-            "menuId": "ankara_2026-04-30",
-            "calories": 1406,
+            "date": "2026-05-25",
+            "menuId": "ankara_2026-05-25",
+            "calories": 1310,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "gemici_corba",
-                        "name": "GEMİCİ ÇORBA"
+                        "id": "yayla_corba",
+                        "name": "YAYLA ÇORBA"
                     },
                     {
-                        "id": "izgara_tavuk_butsebze_garnitur",
-                        "name": "IZGARA TAVUK BUT/SEBZE GARNİTÜR"
+                        "id": "etli_kuru_fasulye",
+                        "name": "ETLİ KURU FASULYE"
                     },
                     {
-                        "id": "baharatli_makarna",
-                        "name": "BAHARATLI MAKARNA"
+                        "id": "bulgur_pilavitursu",
+                        "name": "BULGUR PİLAVI/TURŞU"
                     },
                     {
-                        "id": "mevsim_salata",
-                        "name": "MEVSİM SALATA"
+                        "id": "cikolata_ruyasi",
+                        "name": "ÇİKOLATA RÜYASI"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-26",
+            "menuId": "ankara_2026-05-26",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kurban_bayrami_arifesi",
+                        "name": "KURBAN BAYRAMI ARİFESİ"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-27",
+            "menuId": "ankara_2026-05-27",
+            "calories": 0,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kurban_bayrami",
+                        "name": "KURBAN BAYRAMI"
                     }
                 ],
                 "aksam": null

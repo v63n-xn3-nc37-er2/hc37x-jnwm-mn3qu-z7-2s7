@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-03T05:52:01.402034+00:00",
-    "menuHash": "63127f356624c43f05d261869a476830dfc689a4a6470be5b23b8cb7b12bc535",
+    "lastUpdated": "2026-05-04T05:57:14.048044+00:00",
+    "menuHash": "e1cfef16dc183ae9014dadc2110f1373353a3a31affcc5a975bf3218b5c93ed0",
     "menu": [
         {
             "date": "2026-05-04",
@@ -25,8 +25,8 @@
                         "name": "Örgü Peynir"
                     },
                     {
-                        "id": "pacanga_boregi",
-                        "name": "Paçanga Böreği"
+                        "id": "peynirli_gozleme",
+                        "name": "Peynirli Gözleme"
                     },
                     {
                         "id": "siyah_zeytin",
@@ -486,8 +486,8 @@
                         "name": "Kaşar Peynir"
                     },
                     {
-                        "id": "peynirli_gozleme",
-                        "name": "Peynirli Gözleme"
+                        "id": "pacanga_boregi",
+                        "name": "Paçanga Böreği"
                     },
                     {
                         "id": "yesil_zeytin",
