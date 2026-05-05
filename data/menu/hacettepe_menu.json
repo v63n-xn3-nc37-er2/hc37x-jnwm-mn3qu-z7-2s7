@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-05-04T05:56:26.367450+00:00",
-    "menuHash": "b694a0118518474590c6258c71f5b4e98e2cd726e5a0bba1e119f0498f1fa68b",
+    "lastUpdated": "2026-05-05T05:35:15.280008+00:00",
+    "menuHash": "17d5c02845ccf8210f9369cd082df56ebfc3b38ca80311a8ee97c922f51953be",
     "menu": [
         {
             "date": "2026-05-01",
@@ -177,13 +177,13 @@
         {
             "date": "2026-05-05",
             "menuId": "hacettepe_2026-05-05",
-            "calories": 1226,
+            "calories": 1204,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Mercimek Çorbası",
-                        "id": "mercimek_corbasi"
+                        "name": "Tarhana Çorbası",
+                        "id": "tarhana_corbasi"
                     },
                     {
                         "name": "Karnıyarık",
@@ -198,16 +198,16 @@
                         "id": "meyve"
                     },
                     {
-                        "name": "* Mercimek Çorbası",
-                        "id": "mercimek_corbasi"
-                    },
-                    {
                         "name": "* Sebzeli Karnıyarık",
                         "id": "sebzeli_karniyarik"
                     },
                     {
                         "name": "* Şeh. Pirinç Pilavı",
                         "id": "seh_pirinc_pilavi"
+                    },
+                    {
+                        "name": "* Turşu",
+                        "id": "tursu"
                     },
                     {
                         "name": "* Meyve",
@@ -220,17 +220,17 @@
         {
             "date": "2026-05-06",
             "menuId": "hacettepe_2026-05-06",
-            "calories": 1024,
+            "calories": 1356,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Sütlü Kabak Çorbası",
-                        "id": "sutlu_kabak_corbasi"
+                        "name": "Mercimek Çorbası",
+                        "id": "mercimek_corbasi"
                     },
                     {
-                        "name": "Köfteli Nohut Tajin",
-                        "id": "kofteli_nohut_tajin"
+                        "name": "Ankara Tava",
+                        "id": "ankara_tava"
                     },
                     {
                         "name": "Çoban Salatası",
@@ -241,20 +241,20 @@
                         "id": "tiramisu"
                     },
                     {
+                        "name": "* Mercimek Çorbası",
+                        "id": "mercimek_corbasi"
+                    },
+                    {
                         "name": "* Etsiz Nohut",
                         "id": "etsiz_nohut"
                     },
                     {
+                        "name": "* Pirinç Pilavı",
+                        "id": "pirinc_pilavi"
+                    },
+                    {
                         "name": "* Çoban Salatası",
                         "id": "coban_salatasi"
-                    },
-                    {
-                        "name": "* Tahin Helvası",
-                        "id": "tahin_helvasi"
-                    },
-                    {
-                        "name": "* Meyve",
-                        "id": "meyve"
                     }
                 ],
                 "aksam": null
