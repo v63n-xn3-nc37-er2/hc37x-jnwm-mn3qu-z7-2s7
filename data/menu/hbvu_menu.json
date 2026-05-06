@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-05T05:35:27.569837+00:00",
-    "menuHash": "6c3e0c00db8ce2e7893f5f750bbe42da4b8df4e3f4028f9a8e35798a55a17d31",
+    "lastUpdated": "2026-05-06T05:50:12.654233+00:00",
+    "menuHash": "9ca06d469e40e5e95001b1bc2d95e9127e417647445990520ad34d7586d667a5",
     "menu": [
         {
             "date": "2026-05-01",
@@ -118,8 +118,8 @@
                         "name": "Fırın Tavuk+Garinitür"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "sade_bulgur_pilavi",
+                        "name": "Sade Bulgur Pilavı"
                     },
                     {
                         "id": "mevsim_salata",
@@ -417,25 +417,13 @@
         {
             "date": "2026-05-25",
             "menuId": "hbvu_2026-05-25",
-            "calories": 881,
+            "calories": 0,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "id": "tavuk_pirzola",
-                        "name": "Tavuk Pirzola"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
+                        "id": "resmi_tatil",
+                        "name": "RESMİ TATİL"
                     }
                 ],
                 "aksam": null
