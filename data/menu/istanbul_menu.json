@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-06T10:59:59.430891+00:00",
-    "menuHash": "e1cfef16dc183ae9014dadc2110f1373353a3a31affcc5a975bf3218b5c93ed0",
+    "lastUpdated": "2026-05-07T05:54:31.898469+00:00",
+    "menuHash": "1fa2083d7ff4eb33825779c3e128b49dea23cbd6fb59e5f4618f74d6f0edd7f2",
     "menu": [
         {
             "date": "2026-05-04",
@@ -322,8 +322,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "cilek",
-                        "name": "Çilek"
+                        "id": "kayisi",
+                        "name": "Kayısı"
                     },
                     {
                         "id": "patates_ezme_corbasi",
@@ -356,8 +356,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "cilek",
-                        "name": "Çilek"
+                        "id": "kayisi",
+                        "name": "Kayısı"
                     },
                     {
                         "id": "patates_ezme_corbasi",
