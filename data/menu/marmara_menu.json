@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-07T05:54:07.405541+00:00",
-    "menuHash": "734e96cb38312d5141792a295dddd1d937394dac42348253eb4df8d9fa625922",
+    "lastUpdated": "2026-05-08T05:24:14.512993+00:00",
+    "menuHash": "5b1384cb941f8427b746c08fcb1f83d15768845671bd346bced9f58be89ca529",
     "menu": [
         {
             "date": "2026-05-04",
@@ -149,7 +149,7 @@
         {
             "date": "2026-05-08",
             "menuId": "marmara_2026-05-08",
-            "calories": 1195,
+            "calories": 1150,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -166,8 +166,8 @@
                         "name": "Peynirli Su Böreği"
                     },
                     {
-                        "id": "islak_kurabiye",
-                        "name": "Islak Kurabiye"
+                        "id": "balli_ballim_tatlisi",
+                        "name": "Ballı Ballım Tatlısı"
                     },
                     {
                         "id": "patlican_yemegi",
