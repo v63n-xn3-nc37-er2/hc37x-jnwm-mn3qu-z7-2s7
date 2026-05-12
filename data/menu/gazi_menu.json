@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-11T06:30:10.588878+00:00",
-    "menuHash": "7b98b345a1833cfc0795e87820c384492c888d6e331ce01f4dc2c379d143fa99",
+    "lastUpdated": "2026-05-12T05:59:35.093235+00:00",
+    "menuHash": "6a62ecca1738cfe22e4e7368b86617d134e750056ad623c10b97e749fdcb7c9e",
     "menu": [
         {
             "date": "2026-05-04",
@@ -226,37 +226,6 @@
         {
             "date": "2026-05-14",
             "menuId": "gazi_2026-05-14",
-            "calories": 1100,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
-                    },
-                    {
-                        "id": "korili_tavuk",
-                        "name": "Körili Tavuk"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "visne_komposto",
-                        "name": "Vişne Komposto"
-                    },
-                    {
-                        "id": "etsiz_nohut",
-                        "name": "*Etsiz Nohut"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-15",
-            "menuId": "gazi_2026-05-15",
             "calories": 1200,
             "meals": {
                 "kahvalti": [],
@@ -280,6 +249,37 @@
                     {
                         "id": "etsiz_patates",
                         "name": "*Etsiz Patates"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-15",
+            "menuId": "gazi_2026-05-15",
+            "calories": 1100,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "Mercimek Çorba"
+                    },
+                    {
+                        "id": "korili_tavuk",
+                        "name": "Körili Tavuk"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
+                    },
+                    {
+                        "id": "visne_komposto",
+                        "name": "Vişne Komposto"
+                    },
+                    {
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
                     }
                 ],
                 "aksam": null
