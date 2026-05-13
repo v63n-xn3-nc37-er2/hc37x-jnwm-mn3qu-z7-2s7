@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-12T06:00:03.623286+00:00",
-    "menuHash": "da7804e488c7fb00be3c5cd077fdb65049306f944331b2dee1a6eeef2b57885e",
+    "lastUpdated": "2026-05-13T06:20:37.925348+00:00",
+    "menuHash": "82126a52e6e2d12bc6887d990b668f903e4f534d40e4aaa10037b64ceb2e83a0",
     "menu": [
         {
             "date": "2026-05-11",
@@ -52,7 +52,7 @@
         {
             "date": "2026-05-12",
             "menuId": "marmara_2026-05-12",
-            "calories": 730,
+            "calories": 770,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -61,8 +61,8 @@
                         "name": "Ispanak Çorbası"
                     },
                     {
-                        "id": "et_fajita",
-                        "name": "Et Fajita"
+                        "id": "marinali_tavuk_sis_ve_domates_biber",
+                        "name": "Marinalı Tavuk Şiş Ve Domates Biber"
                     },
                     {
                         "id": "pirinc_pilavi",
