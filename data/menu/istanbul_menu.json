@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-13T06:21:00.593076+00:00",
-    "menuHash": "1fa2083d7ff4eb33825779c3e128b49dea23cbd6fb59e5f4618f74d6f0edd7f2",
+    "lastUpdated": "2026-05-14T06:18:29.621936+00:00",
+    "menuHash": "bd319affd88bdd6333a87fd51dfe2ab4a97e375b0722627c9c708719debc9182",
     "menu": [
         {
             "date": "2026-05-04",
@@ -686,8 +686,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "muz",
-                        "name": "Muz"
+                        "id": "yesil_erik",
+                        "name": "Yeşil Erik"
                     },
                     {
                         "id": "salcali_pirinc_corbasi",
@@ -700,10 +700,6 @@
                     {
                         "id": "pirasali_kol_boregi",
                         "name": "*Pırasalı Kol Böreği"
-                    },
-                    {
-                        "id": "yesil_erik",
-                        "name": "*Yeşil Erik"
                     }
                 ],
                 "aksam": [
@@ -720,8 +716,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "muz",
-                        "name": "Muz"
+                        "id": "yesil_erik",
+                        "name": "Yeşil Erik"
                     },
                     {
                         "id": "salcali_pirinc_corbasi",
@@ -734,10 +730,6 @@
                     {
                         "id": "pirasali_kol_boregi",
                         "name": "*Pırasalı Kol Böreği"
-                    },
-                    {
-                        "id": "yesil_erik",
-                        "name": "*Yeşil Erik"
                     }
                 ]
             }
@@ -961,8 +953,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "yesil_erik",
-                        "name": "Yeşil Erik"
+                        "id": "muz",
+                        "name": "Muz"
                     },
                     {
                         "id": "mantar_corbasi",
@@ -987,8 +979,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "yesil_erik",
-                        "name": "Yeşil Erik"
+                        "id": "muz",
+                        "name": "Muz"
                     },
                     {
                         "id": "mantar_corbasi",
