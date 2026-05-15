@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-14T06:17:57.916113+00:00",
-    "menuHash": "9ca06d469e40e5e95001b1bc2d95e9127e417647445990520ad34d7586d667a5",
+    "lastUpdated": "2026-05-15T06:26:03.041278+00:00",
+    "menuHash": "f8c6be3b42d4ea73a6f1e4f66447266c5863bb034595e3ebf235a629a0f8339c",
     "menu": [
         {
             "date": "2026-05-01",
@@ -303,8 +303,8 @@
                         "name": "Mısır Çorbası"
                     },
                     {
-                        "id": "kajun_baharatli_tavuk",
-                        "name": "Kajun Baharatlı Tavuk"
+                        "id": "patates_oturtma",
+                        "name": "Patates Oturtma"
                     },
                     {
                         "id": "makarna",

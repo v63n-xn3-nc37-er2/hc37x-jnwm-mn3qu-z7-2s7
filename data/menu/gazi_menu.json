@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-14T06:17:33.127902+00:00",
-    "menuHash": "6a62ecca1738cfe22e4e7368b86617d134e750056ad623c10b97e749fdcb7c9e",
+    "lastUpdated": "2026-05-15T06:25:43.681339+00:00",
+    "menuHash": "688e3d153093c15a73f59f1d7ee5dd3a536e7059d4e5004feaf8635b64c53d23",
     "menu": [
         {
             "date": "2026-05-04",
@@ -413,8 +413,8 @@
                         "name": "Fırın Makarna"
                     },
                     {
-                        "id": "cacik",
-                        "name": "Cacık"
+                        "id": "dondurma",
+                        "name": "Dondurma"
                     },
                     {
                         "id": "etsiz_taze_fasulye",

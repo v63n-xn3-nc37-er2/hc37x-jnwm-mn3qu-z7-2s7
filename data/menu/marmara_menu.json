@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-14T06:18:04.777439+00:00",
-    "menuHash": "82126a52e6e2d12bc6887d990b668f903e4f534d40e4aaa10037b64ceb2e83a0",
+    "lastUpdated": "2026-05-15T06:26:08.868128+00:00",
+    "menuHash": "3d4578369f0bef8a4a3162983eea3646e8dcd9fa439cb186bd4347e88abde98f",
     "menu": [
         {
             "date": "2026-05-11",
@@ -126,7 +126,7 @@
         {
             "date": "2026-05-14",
             "menuId": "marmara_2026-05-14",
-            "calories": 645,
+            "calories": 1107,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -135,8 +135,51 @@
                         "name": "Köy Çorbası"
                     },
                     {
-                        "id": "etli_kuru_fasulye",
-                        "name": "Etli Kuru Fasulye"
+                        "id": "et_fajita",
+                        "name": "Et Fajita"
+                    },
+                    {
+                        "id": "peynirli_gul_boregi",
+                        "name": "Peynirli Gül Böreği"
+                    },
+                    {
+                        "id": "firin_sutlac",
+                        "name": "Fırın Sütlaç"
+                    },
+                    {
+                        "id": "patlican_yemegi",
+                        "name": "*Patlıcan Yemeği"
+                    },
+                    {
+                        "id": "sutlac",
+                        "name": "*Sütlaç"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "karisik_tursu",
+                        "name": "*Karışık Turşu"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-05-15",
+            "menuId": "marmara_2026-05-15",
+            "calories": 710,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kasarli_domates_corbasi",
+                        "name": "Kaşarlı Domates Çorbası"
+                    },
+                    {
+                        "id": "tavuk_baget",
+                        "name": "Tavuk Baget"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -147,37 +190,6 @@
                         "name": "Cacık"
                     },
                     {
-                        "id": "patlican_yemegi",
-                        "name": "*Patlıcan Yemeği"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-15",
-            "menuId": "marmara_2026-05-15",
-            "calories": 1147,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "kasarli_domates_corbasi",
-                        "name": "Kaşarlı Domates Çorbası"
-                    },
-                    {
-                        "id": "tavuk_sis_ve_domates_biber",
-                        "name": "Tavuk Şiş Ve Domates Biber"
-                    },
-                    {
-                        "id": "peynirli_gul_boregi",
-                        "name": "Peynirli Gül Böreği"
-                    },
-                    {
-                        "id": "sutlac",
-                        "name": "Sütlaç"
-                    },
-                    {
                         "id": "semizotu_yemegi",
                         "name": "*Semizotu Yemeği"
                     },
@@ -186,8 +198,8 @@
                         "name": "*Domates Çorbası"
                     },
                     {
-                        "id": "domatesli_bulgurlu_semizotu",
-                        "name": "*Domatesli Bulgurlu Semizotu"
+                        "id": "meyve",
+                        "name": "*Meyve"
                     }
                 ],
                 "aksam": null
