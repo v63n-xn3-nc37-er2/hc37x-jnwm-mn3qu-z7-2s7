@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-20T06:41:58.323407+00:00",
-    "menuHash": "f8c6be3b42d4ea73a6f1e4f66447266c5863bb034595e3ebf235a629a0f8339c",
+    "lastUpdated": "2026-05-21T06:45:01.854445+00:00",
+    "menuHash": "026e6c6c506aeb1014e1dacbe8df5ba0c586a55893622ba10670fe07449714a1",
     "menu": [
         {
             "date": "2026-05-01",
@@ -380,8 +380,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "gazoz",
-                        "name": "Gazoz"
+                        "id": "ayran",
+                        "name": "Ayran"
                     }
                 ],
                 "aksam": null

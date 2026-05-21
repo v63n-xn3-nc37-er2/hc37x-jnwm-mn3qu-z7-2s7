@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-20T06:42:05.235586+00:00",
-    "menuHash": "c76087723b29940f4a252ba0941bf0fc4c63c47863bc17819917b85609c3da32",
+    "lastUpdated": "2026-05-21T06:45:10.280292+00:00",
+    "menuHash": "8ba3a24dfce299de37968aedf485c998cd2b433a0eb61b1bc780233ca922dafd",
     "menu": [
         {
             "date": "2026-05-18",
@@ -79,7 +79,7 @@
         {
             "date": "2026-05-21",
             "menuId": "marmara_2026-05-21",
-            "calories": 635,
+            "calories": 790,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -100,8 +100,8 @@
                         "name": "Kıvırcık Salatası"
                     },
                     {
-                        "id": "taze_fasulye_yemegi",
-                        "name": "*Taze Fasulye Yemeği"
+                        "id": "kabak_kalye",
+                        "name": "*Kabak Kalye"
                     },
                     {
                         "id": "makarna",
@@ -114,7 +114,7 @@
         {
             "date": "2026-05-22",
             "menuId": "marmara_2026-05-22",
-            "calories": 711,
+            "calories": 671,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -131,8 +131,8 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "cilek",
-                        "name": "Çilek"
+                        "id": "ayran",
+                        "name": "Ayran"
                     },
                     {
                         "id": "patlican_yemegi",
@@ -141,6 +141,10 @@
                     {
                         "id": "mercimek_corbasi",
                         "name": "*Mercimek Çorbası"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "*Elma"
                     }
                 ],
                 "aksam": null
