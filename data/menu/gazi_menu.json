@@ -3,13 +3,102 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-05-22T06:41:35.854837+00:00",
-    "menuHash": "688e3d153093c15a73f59f1d7ee5dd3a536e7059d4e5004feaf8635b64c53d23",
+    "lastUpdated": "2026-05-23T06:00:01.511565+00:00",
+    "menuHash": "d1aff6f9b286308ce600ec11513825a589072779f0ec2d01d2cfccad80e1e0f1",
     "menu": [
         {
-            "date": "2026-05-04",
-            "menuId": "gazi_2026-05-04",
-            "calories": 1050,
+            "date": "2026-06-01",
+            "menuId": "gazi_2026-06-01",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "arpa_sehriye_corba",
+                        "name": "Arpa Şehriye Çorba"
+                    },
+                    {
+                        "id": "etsiz_kuru_fasulye",
+                        "name": "Etsiz Kuru Fasülye"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-02",
+            "menuId": "gazi_2026-06-02",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kmercimek_corba",
+                        "name": "K.Mercimek Çorba"
+                    },
+                    {
+                        "id": "kiymali_ispanak",
+                        "name": "Kıymalı Ispanak"
+                    },
+                    {
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
+                    },
+                    {
+                        "id": "dondurma",
+                        "name": "Dondurma"
+                    },
+                    {
+                        "id": "etsiz_ispanak",
+                        "name": "*Etsiz Ispanak"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-03",
+            "menuId": "gazi_2026-06-03",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "yayla_corba",
+                        "name": "Yayla  Çorba"
+                    },
+                    {
+                        "id": "sebzeli_tavuk_kavurma",
+                        "name": "Sebzeli Tavuk Kavurma"
+                    },
+                    {
+                        "id": "tel_seh_bulgur_pilavi",
+                        "name": "Tel Şeh. Bulgur Pilavı"
+                    },
+                    {
+                        "id": "mevsim_salata",
+                        "name": "Mevsim Salata"
+                    },
+                    {
+                        "id": "mantar_kavurma",
+                        "name": "*Mantar Kavurma"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-04",
+            "menuId": "gazi_2026-06-04",
+            "calories": 1250,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -18,105 +107,632 @@
                         "name": "Domates Çorba"
                     },
                     {
-                        "id": "etli_kuru_fasulye",
-                        "name": "Etli Kuru Fasülye"
+                        "id": "terbiyeli_kofte",
+                        "name": "Terbiyeli Köfte"
                     },
                     {
-                        "id": "sehpirinc_pilavi",
-                        "name": "Şeh.Pirinç Pilavı"
-                    },
-                    {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
-                    },
-                    {
-                        "id": "etsiz_kuru_fasulye",
-                        "name": "*Etsiz Kuru Fasülye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-05",
-            "menuId": "gazi_2026-05-05",
-            "calories": 1150,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin  Çorba"
-                    },
-                    {
-                        "id": "tavuk_butsebze_garnitur",
-                        "name": "Tavuk But/Sebze Garnitür"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "su_boregi",
+                        "name": "Su Böreği"
                     },
                     {
                         "id": "meyve",
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_patlican",
-                        "name": "*Etsiz Patlıcan"
+                        "id": "sebzeli_yesil_mercimek_yemegi",
+                        "name": "*Sebzeli Yeşil Mercimek Yemeği"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-05-07",
-            "menuId": "gazi_2026-05-07",
+            "date": "2026-06-05",
+            "menuId": "gazi_2026-06-05",
             "calories": 1200,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek  Çorba"
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "etli_pilav",
-                        "name": "Etli Pilav"
+                        "id": "besamelli_kebap",
+                        "name": "Beşamelli kebap"
                     },
                     {
-                        "id": "mevsim_salata",
-                        "name": "Mevsim Salata"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "cacik",
+                        "name": "cacık"
+                    },
+                    {
+                        "id": "etsiz_besamelli_sebze",
+                        "name": "*Etsiz Beşamelli Sebze"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-08",
+            "menuId": "gazi_2026-06-08",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "domates_corba",
+                        "name": "Domates Çorba"
+                    },
+                    {
+                        "id": "tas_kebabi",
+                        "name": "Tas Kebabı"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur pilavı"
                     },
                     {
                         "id": "ayran",
                         "name": "Ayran"
                     },
                     {
-                        "id": "etsiz_nohut",
-                        "name": "*Etsiz Nohut"
+                        "id": "etsiz_kabak_yemegi",
+                        "name": "*Etsiz Kabak Yemeği"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-05-08",
-            "menuId": "gazi_2026-05-08",
+            "date": "2026-06-09",
+            "menuId": "gazi_2026-06-09",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mantar_corba",
+                        "name": "Mantar çorba"
+                    },
+                    {
+                        "id": "kiymali_manti_makarna",
+                        "name": "Kıymalı Mantı Makarna"
+                    },
+                    {
+                        "id": "zyagli_taze_fasulye",
+                        "name": "Z.yağlı Taze Fasülye"
+                    },
+                    {
+                        "id": "baklava",
+                        "name": "Baklava"
+                    },
+                    {
+                        "id": "etsiz_mantar_yemegi",
+                        "name": "*Etsiz Mantar Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-10",
+            "menuId": "gazi_2026-06-10",
             "calories": 1200,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "alaca_corba",
-                        "name": "Alaca  Çorba"
+                        "id": "anadolu_corbasi",
+                        "name": "Anadolu Çorbası"
                     },
                     {
-                        "id": "kabak_dolmayogurt",
-                        "name": "Kabak Dolma/Yoğurt"
+                        "id": "hasanpasa_kofte",
+                        "name": "Hasanpaşa Köfte"
                     },
                     {
                         "id": "eriste",
                         "name": "Erişte"
+                    },
+                    {
+                        "id": "salata",
+                        "name": "Salata"
+                    },
+                    {
+                        "id": "etsiz_patates",
+                        "name": "*Etsiz Patates"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-11",
+            "menuId": "gazi_2026-06-11",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "sebze_corba",
+                        "name": "Sebze çorba"
+                    },
+                    {
+                        "id": "firin_tavuk_but",
+                        "name": "Fırın Tavuk but"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç pilavı"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    },
+                    {
+                        "id": "zytbarbunya",
+                        "name": "*Zyt.Barbunya"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-12",
+            "menuId": "gazi_2026-06-12",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "abant_corbasi",
+                        "name": "Abant Çorbası"
+                    },
+                    {
+                        "id": "sehriyeli_guvec",
+                        "name": "Şehriyeli Güveç"
+                    },
+                    {
+                        "id": "saksuka",
+                        "name": "Şakşuka"
+                    },
+                    {
+                        "id": "dondurma",
+                        "name": "Dondurma"
+                    },
+                    {
+                        "id": "sehriye_pilavi",
+                        "name": "*Şehriye Pilavı"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-15",
+            "menuId": "gazi_2026-06-15",
+            "calories": 1150,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
+                    },
+                    {
+                        "id": "ciftlik_kebabi",
+                        "name": "Çiftlik Kebabı"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "etsiz_bezelye",
+                        "name": "*Etsiz Bezelye"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-16",
+            "menuId": "gazi_2026-06-16",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "domates_corbasi",
+                        "name": "Domates Çorbası"
+                    },
+                    {
+                        "id": "ozbek_pilavi",
+                        "name": "Özbek Pilavı"
+                    },
+                    {
+                        "id": "barbunya_piyazi",
+                        "name": "Barbunya Piyazı"
+                    },
+                    {
+                        "id": "dondurma",
+                        "name": "Dondurma"
+                    },
+                    {
+                        "id": "etsiz_patates_yemegi",
+                        "name": "*Etsiz Patates Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-17",
+            "menuId": "gazi_2026-06-17",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "oba_corba",
+                        "name": "Oba  Çorba"
+                    },
+                    {
+                        "id": "tavuk_sinitzel",
+                        "name": "Tavuk Şinitzel"
+                    },
+                    {
+                        "id": "tel_sehriye_salatasi",
+                        "name": "Tel Şehriye Salatası"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    },
+                    {
+                        "id": "etsiz_nohut_yemegi",
+                        "name": "*Etsiz Nohut Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-18",
+            "menuId": "gazi_2026-06-18",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "Ezogelin çorba"
+                    },
+                    {
+                        "id": "alinazik",
+                        "name": "Alinazik"
+                    },
+                    {
+                        "id": "nohutlu_pirinc_pilavi",
+                        "name": "Nohutlu pirinç pilavı"
+                    },
+                    {
+                        "id": "visneli_kup",
+                        "name": "Vişneli kup"
+                    },
+                    {
+                        "id": "mantar_kavurma",
+                        "name": "*Mantar Kavurma"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-19",
+            "menuId": "gazi_2026-06-19",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "hanimaga_corba",
+                        "name": "Hanımağa çorba"
+                    },
+                    {
+                        "id": "bahar_kofte",
+                        "name": "Bahar Köfte"
+                    },
+                    {
+                        "id": "sbulgur_pilavi",
+                        "name": "ŞBulgur pilavı"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    },
+                    {
+                        "id": "etsiz_turlu",
+                        "name": "*Etsiz Türlü"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-22",
+            "menuId": "gazi_2026-06-22",
+            "calories": 1100,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "etli_nohut_yemegi",
+                        "name": "Etli Nohut Yemeği"
+                    },
+                    {
+                        "id": "sebzeli_pirinc_pilavi",
+                        "name": "Sebzeli Pirinç Pilavı"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "etsiz_nohut_yemegi",
+                        "name": "*Etsiz Nohut Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-23",
+            "menuId": "gazi_2026-06-23",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "tarhana_corba",
+                        "name": "Tarhana çorba"
+                    },
+                    {
+                        "id": "tavuk_baget",
+                        "name": "Tavuk baget"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
+                    },
+                    {
+                        "id": "salata",
+                        "name": "Salata"
+                    },
+                    {
+                        "id": "sebze_sote",
+                        "name": "*Sebze Sote"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-24",
+            "menuId": "gazi_2026-06-24",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "Mercimek Çorba"
+                    },
+                    {
+                        "id": "bolu_kebabi",
+                        "name": "Bolu kebabı"
+                    },
+                    {
+                        "id": "gokcesu_pilavi",
+                        "name": "Gökçesu Pilavı"
+                    },
+                    {
+                        "id": "sup",
+                        "name": "Sup"
+                    },
+                    {
+                        "id": "etsiz_patlican",
+                        "name": "*Etsiz patlıcan"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-25",
+            "menuId": "gazi_2026-06-25",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "yarma_corba",
+                        "name": "Yarma  çorba"
+                    },
+                    {
+                        "id": "kuru_kofte",
+                        "name": "Kuru Köfte"
+                    },
+                    {
+                        "id": "cevizli_eriste",
+                        "name": "Cevizli erişte"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    },
+                    {
+                        "id": "etsiz_patates_yemegi",
+                        "name": "*Etsiz Patates Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-26",
+            "menuId": "gazi_2026-06-26",
+            "calories": 1250,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "dugun_corba",
+                        "name": "Düğün Çorba"
+                    },
+                    {
+                        "id": "kiymali_biber_dolma",
+                        "name": "Kıymalı Biber Dolma"
+                    },
+                    {
+                        "id": "pat_kol_boregi",
+                        "name": "Pat. Kol Böreği"
+                    },
+                    {
+                        "id": "komposto",
+                        "name": "Komposto"
+                    },
+                    {
+                        "id": "zyt_biber_dolma",
+                        "name": "* Zyt Biber Dolma"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-29",
+            "menuId": "gazi_2026-06-29",
+            "calories": 1150,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "domates_corba",
+                        "name": "Domates Çorba"
+                    },
+                    {
+                        "id": "etli_bezelye",
+                        "name": "Etli Bezelye"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "dondurma",
+                        "name": "Dondurma"
+                    },
+                    {
+                        "id": "etsiz_bezelye",
+                        "name": "*Etsiz Bezelye"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-30",
+            "menuId": "gazi_2026-06-30",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "abant_corba",
+                        "name": "Abant Çorba"
+                    },
+                    {
+                        "id": "tavuk_pirzola",
+                        "name": "Tavuk Pirzola"
+                    },
+                    {
+                        "id": "melek_pilavi",
+                        "name": "Melek Pilavı"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    },
+                    {
+                        "id": "etsiz_nohut_yemegi",
+                        "name": "*Etsiz Nohut Yemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-01",
+            "menuId": "gazi_2026-07-01",
+            "calories": 1200,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "Ezogelin çorba"
+                    },
+                    {
+                        "id": "diyarbakir_guveci",
+                        "name": "Diyarbakır Güveci"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
+                    },
+                    {
+                        "id": "yogurt",
+                        "name": "Yoğurt"
+                    },
+                    {
+                        "id": "etsiz_patlicanyemegi",
+                        "name": "*Etsiz PatlıcanYemeği"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-02",
+            "menuId": "gazi_2026-07-02",
+            "calories": 1150,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "Mercimek çorba"
+                    },
+                    {
+                        "id": "kiymali_kabak_dolma",
+                        "name": "Kıymalı Kabak Dolma"
+                    },
+                    {
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
                         "id": "meyve",
@@ -131,369 +747,31 @@
             }
         },
         {
-            "date": "2026-05-11",
-            "menuId": "gazi_2026-05-11",
-            "calories": 1050,
+            "date": "2026-07-03",
+            "menuId": "gazi_2026-07-03",
+            "calories": 1250,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corba",
-                        "name": "Tarhana Çorba"
+                        "id": "brokoli_corbasi",
+                        "name": "Brokoli Çorbası"
                     },
                     {
-                        "id": "cokertme_kebabi",
-                        "name": "Çökertme Kebabı"
+                        "id": "kadinbudu_koftesogus_domatesbiber",
+                        "name": "Kadınbudu Köfte/Söğüş Domates-Biber"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "patates_salatasi",
+                        "name": "Patates Salatası"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "keskul",
+                        "name": "Keşkül"
                     },
                     {
-                        "id": "etsiz_taze_fasulye",
-                        "name": "*Etsiz Taze Fasülye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-12",
-            "menuId": "gazi_2026-05-12",
-            "calories": 1200,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin   Çorba"
-                    },
-                    {
-                        "id": "etli_bezelye",
-                        "name": "Etli Bezelye"
-                    },
-                    {
-                        "id": "pat_kol_boregi",
-                        "name": "Pat. Kol Böreği"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
-                    },
-                    {
-                        "id": "etsiz_bezelye",
-                        "name": "*Etsiz Bezelye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-13",
-            "menuId": "gazi_2026-05-13",
-            "calories": 1150,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "yayla_corba",
-                        "name": "Yayla Çorba"
-                    },
-                    {
-                        "id": "begendili_kofte",
-                        "name": "Beğendili Köfte"
-                    },
-                    {
-                        "id": "barbunya_piyazi",
-                        "name": "Barbunya Piyazı"
-                    },
-                    {
-                        "id": "trilece",
-                        "name": "Trileçe"
-                    },
-                    {
-                        "id": "etsiz_karnabahar",
-                        "name": "*Etsiz Karnabahar"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-14",
-            "menuId": "gazi_2026-05-14",
-            "calories": 1200,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sehriye_corba",
-                        "name": "Şehriye Çorba"
-                    },
-                    {
-                        "id": "kiymali_firin_patates",
-                        "name": "Kıymalı Fırın Patates"
-                    },
-                    {
-                        "id": "akdeniz_salata",
-                        "name": "Akdeniz Salata"
-                    },
-                    {
-                        "id": "asure",
-                        "name": "Aşure"
-                    },
-                    {
-                        "id": "etsiz_patates",
-                        "name": "*Etsiz Patates"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-15",
-            "menuId": "gazi_2026-05-15",
-            "calories": 1100,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
-                    },
-                    {
-                        "id": "korili_tavuk",
-                        "name": "Körili Tavuk"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "visne_komposto",
-                        "name": "Vişne Komposto"
-                    },
-                    {
-                        "id": "etsiz_nohut",
-                        "name": "*Etsiz Nohut"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-18",
-            "menuId": "gazi_2026-05-18",
-            "calories": 1150,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sebze_corba",
-                        "name": "Sebze çorba"
-                    },
-                    {
-                        "id": "etli_nohut",
-                        "name": "Etli Nohut"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
-                    },
-                    {
-                        "id": "etsiz_nohut",
-                        "name": "*Etsiz Nohut"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-19",
-            "menuId": "gazi_2026-05-19",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tatil",
-                        "name": "Tatil"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-20",
-            "menuId": "gazi_2026-05-20",
-            "calories": 1150,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
-                    },
-                    {
-                        "id": "sehriyeli_guvec",
-                        "name": "Şehriyeli Güveç"
-                    },
-                    {
-                        "id": "salata",
-                        "name": "Salata"
-                    },
-                    {
-                        "id": "meyve",
-                        "name": "Meyve"
-                    },
-                    {
-                        "id": "etsiz_sehriye_pilavi",
-                        "name": "*Etsiz Şehriye Pilavı"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-21",
-            "menuId": "gazi_2026-05-21",
-            "calories": 1200,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mantar_corba",
-                        "name": "Mantar Çorba"
-                    },
-                    {
-                        "id": "tavuk_baget_patkizartma",
-                        "name": "Tavuk Baget /Pat.Kızartma"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "kemal_pasa_tatlisi",
-                        "name": "Kemal Paşa Tatlısı"
-                    },
-                    {
-                        "id": "etsiz_patlican",
-                        "name": "*Etsiz Patlıcan"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-22",
-            "menuId": "gazi_2026-05-22",
-            "calories": 1200,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin Çorba"
-                    },
-                    {
-                        "id": "etli_taze_fasulye",
-                        "name": "Etli Taze Fasülye"
-                    },
-                    {
-                        "id": "firin_makarna",
-                        "name": "Fırın Makarna"
-                    },
-                    {
-                        "id": "dondurma",
-                        "name": "Dondurma"
-                    },
-                    {
-                        "id": "etsiz_taze_fasulye",
-                        "name": "*Etsiz Taze Fasülye"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-25",
-            "menuId": "gazi_2026-05-25",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tatil",
-                        "name": "Tatil"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-26",
-            "menuId": "gazi_2026-05-26",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "arefe_gunu",
-                        "name": "Arefe günü"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-27",
-            "menuId": "gazi_2026-05-27",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tatil",
-                        "name": "Tatil"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-28",
-            "menuId": "gazi_2026-05-28",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tatil",
-                        "name": "Tatil"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-05-29",
-            "menuId": "gazi_2026-05-29",
-            "calories": 0,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tatil",
-                        "name": "Tatil"
+                        "id": "etsiz_kabak",
+                        "name": "*Etsiz Kabak"
                     }
                 ],
                 "aksam": null
