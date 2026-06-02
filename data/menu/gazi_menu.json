@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-01T08:26:51.438189+00:00",
-    "menuHash": "d1aff6f9b286308ce600ec11513825a589072779f0ec2d01d2cfccad80e1e0f1",
+    "lastUpdated": "2026-06-02T07:18:00.297744+00:00",
+    "menuHash": "d6f170d6f03383decf2d293abbb6d9f550b54ea57b45e6566a92b46b48c8a44a",
     "menu": [
         {
             "date": "2026-06-01",
@@ -14,8 +14,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "arpa_sehriye_corba",
-                        "name": "Arpa Şehriye Çorba"
+                        "id": "arpa_sehriye_corbasi",
+                        "name": "Arpa Şehriye Çorbası"
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
@@ -41,8 +41,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "kmercimek_corba",
-                        "name": "K.Mercimek Çorba"
+                        "id": "kmercimek_corbasi",
+                        "name": "K.Mercimek Çorbası"
                     },
                     {
                         "id": "kiymali_ispanak",
@@ -72,8 +72,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yayla_corba",
-                        "name": "Yayla  Çorba"
+                        "id": "yayla_corbasi",
+                        "name": "Yayla  Çorbası"
                     },
                     {
                         "id": "sebzeli_tavuk_kavurma",
@@ -103,8 +103,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corba",
-                        "name": "Domates Çorba"
+                        "id": "domates_corbasi",
+                        "name": "Domates Çorbası"
                     },
                     {
                         "id": "terbiyeli_kofte",
@@ -139,7 +139,7 @@
                     },
                     {
                         "id": "besamelli_kebap",
-                        "name": "Beşamelli kebap"
+                        "name": "Beşamelli Kebap"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -147,7 +147,7 @@
                     },
                     {
                         "id": "cacik",
-                        "name": "cacık"
+                        "name": "Cacık"
                     },
                     {
                         "id": "etsiz_besamelli_sebze",
@@ -165,8 +165,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corba",
-                        "name": "Domates Çorba"
+                        "id": "domates_corbasi",
+                        "name": "Domates Çorbası"
                     },
                     {
                         "id": "tas_kebabi",
@@ -174,7 +174,7 @@
                     },
                     {
                         "id": "bulgur_pilavi",
-                        "name": "Bulgur pilavı"
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "ayran",
@@ -196,8 +196,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mantar_corba",
-                        "name": "Mantar çorba"
+                        "id": "mantar_corbasi",
+                        "name": "Mantar Çorbası"
                     },
                     {
                         "id": "kiymali_manti_makarna",
@@ -258,8 +258,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sebze_corba",
-                        "name": "Sebze çorba"
+                        "id": "sebze_corbasi",
+                        "name": "Sebze Çorbası"
                     },
                     {
                         "id": "firin_tavuk_but",
@@ -267,7 +267,7 @@
                     },
                     {
                         "id": "pirinc_pilavi",
-                        "name": "Pirinç pilavı"
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "id": "meyve",
@@ -382,8 +382,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "oba_corba",
-                        "name": "Oba  Çorba"
+                        "id": "oba_corbasi",
+                        "name": "Oba  Çorbası"
                     },
                     {
                         "id": "tavuk_sinitzel",
@@ -413,8 +413,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin çorba"
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
                         "id": "alinazik",
@@ -422,7 +422,7 @@
                     },
                     {
                         "id": "nohutlu_pirinc_pilavi",
-                        "name": "Nohutlu pirinç pilavı"
+                        "name": "Nohutlu Pirinç Pilavı"
                     },
                     {
                         "id": "visneli_kup",
@@ -444,16 +444,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "hanimaga_corba",
-                        "name": "Hanımağa çorba"
+                        "id": "hanimaga_corbasi",
+                        "name": "Hanımağa Çorbası"
                     },
                     {
                         "id": "bahar_kofte",
                         "name": "Bahar Köfte"
                     },
                     {
-                        "id": "sbulgur_pilavi",
-                        "name": "ŞBulgur pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "meyve",
@@ -506,12 +506,12 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corba",
-                        "name": "Tarhana çorba"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "tavuk_baget",
-                        "name": "Tavuk baget"
+                        "name": "Tavuk Baget"
                     },
                     {
                         "id": "bulgur_pilavi",
@@ -537,12 +537,12 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
                         "id": "bolu_kebabi",
-                        "name": "Bolu kebabı"
+                        "name": "Bolu Kebabı"
                     },
                     {
                         "id": "gokcesu_pilavi",
@@ -554,7 +554,7 @@
                     },
                     {
                         "id": "etsiz_patlican",
-                        "name": "*Etsiz patlıcan"
+                        "name": "*Etsiz Patlıcan"
                     }
                 ],
                 "aksam": null
@@ -568,8 +568,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yarma_corba",
-                        "name": "Yarma  çorba"
+                        "id": "yarma_corbasi",
+                        "name": "Yarma  Çorbası"
                     },
                     {
                         "id": "kuru_kofte",
@@ -599,8 +599,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "dugun_corba",
-                        "name": "Düğün Çorba"
+                        "id": "dugun_corbasi",
+                        "name": "Düğün Çorbası"
                     },
                     {
                         "id": "kiymali_biber_dolma",
@@ -630,8 +630,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corba",
-                        "name": "Domates Çorba"
+                        "id": "domates_corbasi",
+                        "name": "Domates Çorbası"
                     },
                     {
                         "id": "etli_bezelye",
@@ -661,8 +661,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "abant_corba",
-                        "name": "Abant Çorba"
+                        "id": "abant_corbasi",
+                        "name": "Abant Çorbası"
                     },
                     {
                         "id": "tavuk_pirzola",
@@ -692,8 +692,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin çorba"
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
                         "id": "diyarbakir_guveci",
@@ -708,8 +708,8 @@
                         "name": "Yoğurt"
                     },
                     {
-                        "id": "etsiz_patlicanyemegi",
-                        "name": "*Etsiz PatlıcanYemeği"
+                        "id": "etsiz_patlican_yemegi",
+                        "name": "*Etsiz Patlıcan Yemeği"
                     }
                 ],
                 "aksam": null
@@ -723,8 +723,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek çorba"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
                         "id": "kiymali_kabak_dolma",
@@ -758,8 +758,8 @@
                         "name": "Brokoli Çorbası"
                     },
                     {
-                        "id": "kadinbudu_koftesogus_domatesbiber",
-                        "name": "Kadınbudu Köfte/Söğüş Domates-Biber"
+                        "id": "kadinbudu_koftedomatesbiber",
+                        "name": "Kadınbudu Köfte/Domates-Biber"
                     },
                     {
                         "id": "patates_salatasi",
