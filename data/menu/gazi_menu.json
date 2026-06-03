@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-02T07:18:00.297744+00:00",
-    "menuHash": "d6f170d6f03383decf2d293abbb6d9f550b54ea57b45e6566a92b46b48c8a44a",
+    "lastUpdated": "2026-06-03T08:09:01.376271+00:00",
+    "menuHash": "b894d7dd6ea89f184b1ae28601b9d3dab303890899fdb91a76d5cf6ae257e213",
     "menu": [
         {
             "date": "2026-06-01",
@@ -196,8 +196,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mantar_corbasi",
-                        "name": "Mantar Çorbası"
+                        "id": "sebze_corbasi",
+                        "name": "Sebze Çorbası"
                     },
                     {
                         "id": "kiymali_manti_makarna",
@@ -258,24 +258,24 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sebze_corbasi",
-                        "name": "Sebze Çorbası"
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "firin_tavuk_but",
-                        "name": "Fırın Tavuk but"
+                        "id": "tavuk_baget_sebgarn",
+                        "name": "Tavuk Baget /Seb.Garn."
                     },
                     {
                         "id": "pirinc_pilavi",
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "dondurma",
+                        "name": "Dondurma"
                     },
                     {
-                        "id": "zytbarbunya",
-                        "name": "*Zyt.Barbunya"
+                        "id": "etsiz_nohut",
+                        "name": "*Etsiz Nohut"
                     }
                 ],
                 "aksam": null
@@ -301,8 +301,8 @@
                         "name": "Şakşuka"
                     },
                     {
-                        "id": "dondurma",
-                        "name": "Dondurma"
+                        "id": "meyve",
+                        "name": "Meyve"
                     },
                     {
                         "id": "sehriye_pilavi",
@@ -510,16 +510,16 @@
                         "name": "Tarhana Çorbası"
                     },
                     {
-                        "id": "tavuk_baget",
-                        "name": "Tavuk Baget"
+                        "id": "bolu_kebabi",
+                        "name": "Bolu Kebabı"
                     },
                     {
                         "id": "bulgur_pilavi",
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "baklava",
+                        "name": "Baklava"
                     },
                     {
                         "id": "sebze_sote",
@@ -541,8 +541,8 @@
                         "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "bolu_kebabi",
-                        "name": "Bolu Kebabı"
+                        "id": "firin_tavuk_but",
+                        "name": "Fırın Tavuk But"
                     },
                     {
                         "id": "gokcesu_pilavi",

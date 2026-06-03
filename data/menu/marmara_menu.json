@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-02T07:18:23.680129+00:00",
-    "menuHash": "a38188b74fcdcbc8b5f6de28d990122d8c92084d070deeccf4571ec98b360e97",
+    "lastUpdated": "2026-06-03T08:09:31.151918+00:00",
+    "menuHash": "36aae4ab66991ea84ff73e0643eed9bb87c7e89e974d478ebae0fe45227c77a3",
     "menu": [
         {
             "date": "2026-06-01",
@@ -48,7 +48,7 @@
         {
             "date": "2026-06-02",
             "menuId": "marmara_2026-06-02",
-            "calories": 835,
+            "calories": 833,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -57,16 +57,16 @@
                         "name": "Yayla Çorbası"
                     },
                     {
-                        "id": "nohutlu_mitite_kofte",
-                        "name": "Nohutlu Mitite Köfte"
+                        "id": "sebzeli_mitite_kofte",
+                        "name": "Sebzeli Mitite Köfte"
                     },
                     {
                         "id": "peynirli_su_boregi",
                         "name": "Peynirli Su Böreği"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "yesil_erik",
+                        "name": "Yeşil Erik"
                     },
                     {
                         "id": "soslu_firin_sebze",
