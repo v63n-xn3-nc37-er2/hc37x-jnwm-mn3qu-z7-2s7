@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-08T07:24:34.220989+00:00",
-    "menuHash": "bf7baa327e42d73c642a3ada406c7eca2e076fdaa25450f87851999080965772",
+    "lastUpdated": "2026-06-09T06:42:20.219514+00:00",
+    "menuHash": "371a8e7a106921103f7cd7d41d3f0cfd6c3867cfd925a3e966472cdbd86e868e",
     "menu": [
         {
             "date": "2026-06-08",
@@ -36,6 +36,174 @@
                     {
                         "id": "karnabahar_yemegi",
                         "name": "*Karnabahar Yemeği"
+                    },
+                    {
+                        "id": "makarna",
+                        "name": "*Makarna"
+                    },
+                    {
+                        "id": "meyve_suyu",
+                        "name": "*Meyve Suyu"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-09",
+            "menuId": "marmara_2026-06-09",
+            "calories": 790,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "brokoli_corbasi",
+                        "name": "Brokoli Çorbası"
+                    },
+                    {
+                        "id": "sefin_menusu",
+                        "name": "Şefin Menüsü"
+                    },
+                    {
+                        "id": "soslu_makarna",
+                        "name": "Soslu Makarna"
+                    },
+                    {
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
+                    },
+                    {
+                        "id": "kabak_sandal",
+                        "name": "*Kabak Sandal"
+                    },
+                    {
+                        "id": "brokoli_corbasi_sutsuz",
+                        "name": "*Brokoli Çorbası (sütsüz)"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-10",
+            "menuId": "marmara_2026-06-10",
+            "calories": 665,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "soguk_corba",
+                        "name": "Soğuk Çorba"
+                    },
+                    {
+                        "id": "yaz_turlusu",
+                        "name": "Yaz Türlüsü"
+                    },
+                    {
+                        "id": "keskul",
+                        "name": "Keşkül"
+                    },
+                    {
+                        "id": "borek",
+                        "name": "*Börek"
+                    },
+                    {
+                        "id": "yesil_mercimek_yemegi",
+                        "name": "*Yeşil Mercimek Yemeği"
+                    },
+                    {
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "*Meyve"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-11",
+            "menuId": "marmara_2026-06-11",
+            "calories": 975,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corbasi",
+                        "name": "Ezogelin Çorbası"
+                    },
+                    {
+                        "id": "kiymali_biber_dolmayogurtlu",
+                        "name": "Kıymalı Biber Dolma/Yoğurtlu"
+                    },
+                    {
+                        "id": "kasarli_patates_graten",
+                        "name": "Kaşarlı Patates Graten"
+                    },
+                    {
+                        "id": "brownie",
+                        "name": "Brownie"
+                    },
+                    {
+                        "id": "biber_dolmasi_yogurtlu",
+                        "name": "*Biber Dolması Yoğurtlu"
+                    },
+                    {
+                        "id": "patates_graten",
+                        "name": "*Patates Graten"
+                    },
+                    {
+                        "id": "biber_dolma",
+                        "name": "*Biber Dolma"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "*Bulgur Pilavı"
+                    },
+                    {
+                        "id": "mevsim_salata",
+                        "name": "*Mevsim Salata"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-06-12",
+            "menuId": "marmara_2026-06-12",
+            "calories": 720,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "sehriye_corbasi",
+                        "name": "Şehriye Çorbası"
+                    },
+                    {
+                        "id": "islim_kofte",
+                        "name": "İslim Köfte"
+                    },
+                    {
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
+                    },
+                    {
+                        "id": "cacik",
+                        "name": "Cacık"
+                    },
+                    {
+                        "id": "bezelye_yemegi",
+                        "name": "*Bezelye Yemeği"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "*Meyve"
                     }
                 ],
                 "aksam": null

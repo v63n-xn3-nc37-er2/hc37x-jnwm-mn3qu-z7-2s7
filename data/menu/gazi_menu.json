@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-08T07:24:06.418719+00:00",
-    "menuHash": "b894d7dd6ea89f184b1ae28601b9d3dab303890899fdb91a76d5cf6ae257e213",
+    "lastUpdated": "2026-06-09T06:41:52.111643+00:00",
+    "menuHash": "cc1e9bfb1c4a149bfb30afb5d693c572e9dbe40313f9b3edcd8c0f6ce2ad623b",
     "menu": [
         {
             "date": "2026-06-01",
@@ -204,16 +204,16 @@
                         "name": "Kıymalı Mantı Makarna"
                     },
                     {
-                        "id": "zyagli_taze_fasulye",
-                        "name": "Z.yağlı Taze Fasülye"
+                        "id": "bezelye_salatasi",
+                        "name": "Bezelye Salatası"
                     },
                     {
                         "id": "baklava",
                         "name": "Baklava"
                     },
                     {
-                        "id": "etsiz_mantar_yemegi",
-                        "name": "*Etsiz Mantar Yemeği"
+                        "id": "peynirli_makarna",
+                        "name": "*Peynirli Makarna"
                     }
                 ],
                 "aksam": null
