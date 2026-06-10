@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-09T06:42:20.219514+00:00",
-    "menuHash": "371a8e7a106921103f7cd7d41d3f0cfd6c3867cfd925a3e966472cdbd86e868e",
+    "lastUpdated": "2026-06-10T07:01:10.751442+00:00",
+    "menuHash": "5fb00cd616bd2a012d632ad69cdde5620589b71f5d60559fa6e441735d1ec17c",
     "menu": [
         {
             "date": "2026-06-08",
@@ -52,7 +52,7 @@
         {
             "date": "2026-06-09",
             "menuId": "marmara_2026-06-09",
-            "calories": 790,
+            "calories": 900,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -61,8 +61,8 @@
                         "name": "Brokoli Çorbası"
                     },
                     {
-                        "id": "sefin_menusu",
-                        "name": "Şefin Menüsü"
+                        "id": "tavuk_kavurma",
+                        "name": "Tavuk Kavurma"
                     },
                     {
                         "id": "soslu_makarna",
@@ -87,7 +87,7 @@
         {
             "date": "2026-06-10",
             "menuId": "marmara_2026-06-10",
-            "calories": 665,
+            "calories": 1005,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -100,12 +100,12 @@
                         "name": "Yaz Türlüsü"
                     },
                     {
-                        "id": "keskul",
-                        "name": "Keşkül"
+                        "id": "borek",
+                        "name": "Börek"
                     },
                     {
-                        "id": "borek",
-                        "name": "*Börek"
+                        "id": "keskul",
+                        "name": "Keşkül"
                     },
                     {
                         "id": "yesil_mercimek_yemegi",
