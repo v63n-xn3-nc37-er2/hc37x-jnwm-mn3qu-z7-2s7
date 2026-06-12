@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-11T07:24:15.930715+00:00",
-    "menuHash": "5fb00cd616bd2a012d632ad69cdde5620589b71f5d60559fa6e441735d1ec17c",
+    "lastUpdated": "2026-06-12T07:15:12.890672+00:00",
+    "menuHash": "dca2f1709a9b212c4b7e036566956ba28d7526c5fcad2ca5528f0926b693dbfe",
     "menu": [
         {
             "date": "2026-06-08",
@@ -139,8 +139,8 @@
                         "name": "Ezogelin Çorbası"
                     },
                     {
-                        "id": "kiymali_biber_dolmayogurtlu",
-                        "name": "Kıymalı Biber Dolma/Yoğurtlu"
+                        "id": "tavuk_nugget",
+                        "name": "Tavuk Nugget"
                     },
                     {
                         "id": "kasarli_patates_graten",

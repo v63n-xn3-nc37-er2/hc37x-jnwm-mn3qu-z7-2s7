@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-11T07:23:48.001797+00:00",
-    "menuHash": "cc1e9bfb1c4a149bfb30afb5d693c572e9dbe40313f9b3edcd8c0f6ce2ad623b",
+    "lastUpdated": "2026-06-12T07:14:47.990387+00:00",
+    "menuHash": "3ea6b4a6c99ba6b30c52effeb20870c51496355ef042e4ea69c7d63ae16059a8",
     "menu": [
         {
             "date": "2026-06-01",
@@ -359,16 +359,16 @@
                         "name": "Özbek Pilavı"
                     },
                     {
-                        "id": "barbunya_piyazi",
-                        "name": "Barbunya Piyazı"
+                        "id": "zeytinyagli_fasulye",
+                        "name": "Zeytinyağlı Fasulye"
                     },
                     {
                         "id": "dondurma",
                         "name": "Dondurma"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "pirinc_pilavi",
+                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": null
@@ -386,8 +386,8 @@
                         "name": "Oba  Çorbası"
                     },
                     {
-                        "id": "tavuk_sinitzel",
-                        "name": "Tavuk Şinitzel"
+                        "id": "pureli_tavuk_kavurma",
+                        "name": "Püreli Tavuk Kavurma"
                     },
                     {
                         "id": "tel_sehriye_salatasi",
@@ -398,8 +398,8 @@
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_nohut_yemegi",
-                        "name": "*Etsiz Nohut Yemeği"
+                        "id": "yesil_mercimek_yemegi",
+                        "name": "*Yeşil Mercimek Yemeği"
                     }
                 ],
                 "aksam": null
@@ -448,16 +448,16 @@
                         "name": "Hanımağa Çorbası"
                     },
                     {
-                        "id": "bahar_kofte",
-                        "name": "Bahar Köfte"
+                        "id": "izmir_kofte",
+                        "name": "İzmir Köfte"
                     },
                     {
                         "id": "bulgur_pilavi",
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "kuru_cacik",
+                        "name": "Kuru Cacık"
                     },
                     {
                         "id": "etsiz_turlu",

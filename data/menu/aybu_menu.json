@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-11T07:24:06.065549+00:00",
-    "menuHash": "c1f5add694487f39b017cdf537805bad4896b56e70c3537f4a90a8903943e272",
+    "lastUpdated": "2026-06-12T07:15:05.980934+00:00",
+    "menuHash": "89baf15684c48f99100c39fa0b9d2c4c115f032b7f4528d7113697feb8d8374d",
     "menu": [
         {
             "date": "2026-04-27",
@@ -342,12 +342,12 @@
                         "name": "Anadolu Çorba"
                     },
                     {
-                        "id": "kekikli_firin_tavuk_firin_patates",
-                        "name": "Kekikli Fırın Tavuk / Fırın Patates"
+                        "id": "tavuk_doner",
+                        "name": "Tavuk Döner"
                     },
                     {
-                        "id": "eriste",
-                        "name": "Erişte"
+                        "id": "sehpirinc_pilavi",
+                        "name": "Şeh.Pirinç Pilavı"
                     },
                     {
                         "id": "mevsim_salata",
@@ -360,7 +360,7 @@
         {
             "date": "2026-05-19",
             "menuId": "aybu_2026-05-19",
-            "calories": 1322,
+            "calories": 1213,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -373,8 +373,8 @@
                         "name": "Patlıcan Kebabı"
                     },
                     {
-                        "id": "noh_pirinc_pilavi",
-                        "name": "Noh. Pirinç Pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "islak_kek",
@@ -387,7 +387,7 @@
         {
             "date": "2026-05-20",
             "menuId": "aybu_2026-05-20",
-            "calories": 739,
+            "calories": 818,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -396,12 +396,12 @@
                         "name": "Yayla Çorba"
                     },
                     {
-                        "id": "kori_soslu_tavuk",
-                        "name": "Köri Soslu Tavuk"
+                        "id": "kekikli_firin_tavuk_sebze_garnitur",
+                        "name": "Kekikli Fırın Tavuk/ Sebze Garnitür"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "eriste",
+                        "name": "Erişte"
                     },
                     {
                         "id": "meyve",
