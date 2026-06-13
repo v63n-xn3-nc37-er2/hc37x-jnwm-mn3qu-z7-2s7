@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-12T07:14:47.990387+00:00",
-    "menuHash": "3ea6b4a6c99ba6b30c52effeb20870c51496355ef042e4ea69c7d63ae16059a8",
+    "lastUpdated": "2026-06-13T06:51:40.970642+00:00",
+    "menuHash": "dc9cc3dff15b858a439dbdb00d25024ffd237ccf66f2e115097cfc4c50df7bee",
     "menu": [
         {
             "date": "2026-06-01",
@@ -359,8 +359,8 @@
                         "name": "Özbek Pilavı"
                     },
                     {
-                        "id": "zeytinyagli_fasulye",
-                        "name": "Zeytinyağlı Fasulye"
+                        "id": "zeytinyagli_taze_fasulye",
+                        "name": "Zeytinyağlı Taze Fasulye"
                     },
                     {
                         "id": "dondurma",
@@ -584,8 +584,8 @@
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "etsiz_ispanak_yemegi",
+                        "name": "*Etsiz Ispanak Yemeği"
                     }
                 ],
                 "aksam": null
@@ -634,8 +634,8 @@
                         "name": "Domates Çorbası"
                     },
                     {
-                        "id": "etli_bezelye",
-                        "name": "Etli Bezelye"
+                        "id": "etli_taze_fasulye",
+                        "name": "Etli Taze Fasülye"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -646,8 +646,8 @@
                         "name": "Dondurma"
                     },
                     {
-                        "id": "etsiz_bezelye",
-                        "name": "*Etsiz Bezelye"
+                        "id": "etsiz_taze_fasulye",
+                        "name": "*Etsiz  Taze Fasülye"
                     }
                 ],
                 "aksam": null
@@ -665,8 +665,8 @@
                         "name": "Abant Çorbası"
                     },
                     {
-                        "id": "tavuk_pirzola",
-                        "name": "Tavuk Pirzola"
+                        "id": "tavuk_pirzola_paztates_kiz",
+                        "name": "Tavuk Pirzola /Paztates Kız."
                     },
                     {
                         "id": "melek_pilavi",
@@ -700,12 +700,12 @@
                         "name": "Diyarbakır Güveci"
                     },
                     {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
+                        "id": "tel_sehriyeli_bulgur_pilavi",
+                        "name": "Tel şehriyeli Bulgur Pilavı"
                     },
                     {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
+                        "id": "cacik",
+                        "name": "Cacık"
                     },
                     {
                         "id": "etsiz_patlican_yemegi",
@@ -754,8 +754,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "brokoli_corbasi",
-                        "name": "Brokoli Çorbası"
+                        "id": "mantar_corbasi",
+                        "name": "Mantar Çorbası"
                     },
                     {
                         "id": "kadinbudu_koftedomatesbiber",

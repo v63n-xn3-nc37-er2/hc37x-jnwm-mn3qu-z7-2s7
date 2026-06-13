@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-12T07:15:12.890672+00:00",
-    "menuHash": "dca2f1709a9b212c4b7e036566956ba28d7526c5fcad2ca5528f0926b693dbfe",
+    "lastUpdated": "2026-06-13T06:52:04.544078+00:00",
+    "menuHash": "55a20c2a95f7f43a0614301c09d08ab8498dcd381aafecc8e46bce62607dc36b",
     "menu": [
         {
             "date": "2026-06-08",
@@ -177,7 +177,7 @@
         {
             "date": "2026-06-12",
             "menuId": "marmara_2026-06-12",
-            "calories": 720,
+            "calories": 675,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -186,8 +186,8 @@
                         "name": "Şehriye Çorbası"
                     },
                     {
-                        "id": "islim_kofte",
-                        "name": "İslim Köfte"
+                        "id": "rosto_kofte",
+                        "name": "Rosto Köfte"
                     },
                     {
                         "id": "pirinc_pilavi",
