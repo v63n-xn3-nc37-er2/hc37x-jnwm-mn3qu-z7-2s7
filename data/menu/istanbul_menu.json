@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-14T07:18:30.616177+00:00",
-    "menuHash": "a3ecdfa3292e10e7a9d1a37ccb1fc67ac8dde12b054f050de97939b59581135c",
+    "lastUpdated": "2026-06-15T08:50:24.906202+00:00",
+    "menuHash": "cda4bd62e2a73aa021b6c0ae291df62e379c38a1f3cff8ad05a648d11d68c2b0",
     "menu": [
         {
             "date": "2026-06-01",
@@ -913,8 +913,8 @@
                         "name": "*Patatesli Gül Böreği"
                     },
                     {
-                        "id": "kayisi",
-                        "name": "*Kayısı"
+                        "id": "karpuz",
+                        "name": "*Karpuz"
                     }
                 ],
                 "aksam": [
@@ -947,8 +947,8 @@
                         "name": "*Patatesli Gül Böreği"
                     },
                     {
-                        "id": "kayisi",
-                        "name": "*Kayısı"
+                        "id": "karpuz",
+                        "name": "*Karpuz"
                     }
                 ]
             }
