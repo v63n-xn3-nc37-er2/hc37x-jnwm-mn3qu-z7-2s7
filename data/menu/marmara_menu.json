@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-25T06:41:46.348438+00:00",
-    "menuHash": "1fb65ff0c0c7e4151f7a237ce47f8aaa9bec401eb57848981a2eb7192d4d2e6f",
+    "lastUpdated": "2026-06-26T06:45:18.882817+00:00",
+    "menuHash": "0b26ec4c2676aad37ceb1def0652984656572fafb47825f96abdd4abd2d4f752",
     "menu": [
         {
             "date": "2026-06-22",
@@ -169,7 +169,7 @@
         {
             "date": "2026-06-26",
             "menuId": "marmara_2026-06-26",
-            "calories": 717,
+            "calories": 1005,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -186,12 +186,16 @@
                         "name": "Soslu Makarna"
                     },
                     {
-                        "id": "ayran",
-                        "name": "Ayran"
+                        "id": "asure",
+                        "name": "Aşure"
                     },
                     {
                         "id": "patates_oturtma",
                         "name": "*Patates Oturtma"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "*Ayran"
                     },
                     {
                         "id": "mevsim_salata",
