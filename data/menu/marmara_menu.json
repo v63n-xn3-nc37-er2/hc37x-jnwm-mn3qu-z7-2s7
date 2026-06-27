@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "marmara",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-26T06:45:18.882817+00:00",
-    "menuHash": "0b26ec4c2676aad37ceb1def0652984656572fafb47825f96abdd4abd2d4f752",
+    "lastUpdated": "2026-06-27T06:23:51.583166+00:00",
+    "menuHash": "594a232c669988fcb5630d694bb7be3889c28a28e23ba6a4ca5fcc3326c95708",
     "menu": [
         {
             "date": "2026-06-22",
@@ -192,10 +192,6 @@
                     {
                         "id": "patates_oturtma",
                         "name": "*Patates Oturtma"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "*Ayran"
                     },
                     {
                         "id": "mevsim_salata",
