@@ -3,27 +3,27 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-06-30T06:49:35.158173+00:00",
-    "menuHash": "3d431bad39ab98b362dacc20b3221ab62027b20ae650aaccc8595858698f30e0",
+    "lastUpdated": "2026-07-01T07:05:21.723387+00:00",
+    "menuHash": "92e53eeb8bc8e861e894f069b5155d519efedc1864863078ea9fc90b6895ba7d",
     "menu": [
         {
-            "date": "2026-06-01",
-            "menuId": "hbvu_2026-06-01",
-            "calories": 820,
+            "date": "2026-07-01",
+            "menuId": "hbvu_2026-07-01",
+            "calories": 964,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corbasi",
-                        "name": "Ezogelin Çorbası"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "kuru_fasulye",
-                        "name": "Kuru Fasülye"
+                        "id": "tavuk_sote",
+                        "name": "Tavuk Sote"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
                         "id": "ayran",
@@ -34,90 +34,9 @@
             }
         },
         {
-            "date": "2026-06-02",
-            "menuId": "hbvu_2026-06-02",
-            "calories": 1107,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "dugun_corba",
-                        "name": "Düğün Çorba"
-                    },
-                    {
-                        "id": "misket_kofte",
-                        "name": "Misket Köfte"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "sarisinim",
-                        "name": "Sarışınım"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-03",
-            "menuId": "hbvu_2026-06-03",
-            "calories": 890,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sehriye_corbasi",
-                        "name": "Şehriye Çorbası"
-                    },
-                    {
-                        "id": "mengen_musakka",
-                        "name": "Mengen Musakka"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "cacik",
-                        "name": "Cacık"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-04",
-            "menuId": "hbvu_2026-06-04",
-            "calories": 942,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "suzme_mercimek",
-                        "name": "Süzme Mercimek"
-                    },
-                    {
-                        "id": "kajun_baharatli_tavuk_dip_sos",
-                        "name": "Kajun Baharatlı Tavuk+ Dip Sos"
-                    },
-                    {
-                        "id": "makarna",
-                        "name": "Makarna"
-                    },
-                    {
-                        "id": "mevsim_salata",
-                        "name": "Mevsim Salata"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-05",
-            "menuId": "hbvu_2026-06-05",
-            "calories": 808,
+            "date": "2026-07-02",
+            "menuId": "hbvu_2026-07-02",
+            "calories": 947,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -126,376 +45,25 @@
                         "name": "Yörük Çorbası"
                     },
                     {
-                        "id": "tas_kebabi",
-                        "name": "Tas Kebabı"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "seftali",
-                        "name": "Şeftali"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-08",
-            "menuId": "hbvu_2026-06-08",
-            "calories": 1033,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "id": "icli_kofte_dip_sos",
-                        "name": "İçli Köfte + Dip Sos"
-                    },
-                    {
-                        "id": "makarna",
-                        "name": "Makarna"
-                    },
-                    {
-                        "id": "gazoz",
-                        "name": "Gazoz"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-09",
-            "menuId": "hbvu_2026-06-09",
-            "calories": 1182,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "arabasi_corbasi",
-                        "name": "Arabaşı Çorbası"
-                    },
-                    {
-                        "id": "nohut_yemegi",
-                        "name": "Nohut Yemeği"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "lezzet_topu",
-                        "name": "Lezzet Topu"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-10",
-            "menuId": "hbvu_2026-06-10",
-            "calories": 937,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "domates_corbasi",
-                        "name": "Domates Çorbası"
-                    },
-                    {
-                        "id": "tavuk_kavurma",
-                        "name": "Tavuk Kavurma"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "paket_yogurt",
-                        "name": "Paket Yoğurt"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-11",
-            "menuId": "hbvu_2026-06-11",
-            "calories": 608,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "koylum_corbasi",
-                        "name": "Köylüm Çorbası"
-                    },
-                    {
-                        "id": "taze_fasulye",
-                        "name": "Taze Fasülye"
-                    },
-                    {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
-                    },
-                    {
-                        "id": "kayisi",
-                        "name": "Kayısı"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-12",
-            "menuId": "hbvu_2026-06-12",
-            "calories": 1036,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ayran_asi_corbasi",
-                        "name": "Ayran Aşı Çorbası"
-                    },
-                    {
-                        "id": "ankara_tava",
-                        "name": "Ankara Tava"
+                        "id": "manti",
+                        "name": "Mantı"
                     },
                     {
                         "id": "barbunya",
                         "name": "Barbunya"
                     },
                     {
-                        "id": "mevsim_salata",
-                        "name": "Mevsim Salata"
+                        "id": "kiraz",
+                        "name": "Kiraz"
                     }
                 ],
                 "aksam": null
             }
         },
         {
-            "date": "2026-06-15",
-            "menuId": "hbvu_2026-06-15",
-            "calories": 1002,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "suzme_mercimek_corbasi",
-                        "name": "Süzme Mercimek Çorbası"
-                    },
-                    {
-                        "id": "pilav_ustu_et_doner",
-                        "name": "Pilav Üstü Et Döner"
-                    },
-                    {
-                        "id": "salata",
-                        "name": "Salata"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-16",
-            "menuId": "hbvu_2026-06-16",
-            "calories": 729,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "yayla_corbasi",
-                        "name": "Yayla Çorbası"
-                    },
-                    {
-                        "id": "mevsim_turlu",
-                        "name": "Mevsim Türlü"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "karpuz",
-                        "name": "Karpuz"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-17",
-            "menuId": "hbvu_2026-06-17",
-            "calories": 914,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "alaca_corba",
-                        "name": "Alaca Çorba"
-                    },
-                    {
-                        "id": "kori_soslu_tavuk",
-                        "name": "Köri Soslu Tavuk"
-                    },
-                    {
-                        "id": "makarna",
-                        "name": "Makarna"
-                    },
-                    {
-                        "id": "meyve_nektari",
-                        "name": "Meyve Nektarı"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-18",
-            "menuId": "hbvu_2026-06-18",
-            "calories": 810,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "ezogelin_corbasi",
-                        "name": "Ezogelin Çorbası"
-                    },
-                    {
-                        "id": "manti",
-                        "name": "Mantı"
-                    },
-                    {
-                        "id": "orbit_fasulye",
-                        "name": "Orbit Fasülye"
-                    },
-                    {
-                        "id": "trilice",
-                        "name": "Triliçe"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-19",
-            "menuId": "hbvu_2026-06-19",
-            "calories": 749,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "Mantar Çorbası"
-                    },
-                    {
-                        "id": "ciftlik_kebabi",
-                        "name": "Çiftlik Kebabı"
-                    },
-                    {
-                        "id": "sade_bulgur_pilavi",
-                        "name": "Sade Bulgur Pilavı"
-                    },
-                    {
-                        "id": "salata",
-                        "name": "Salata"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-22",
-            "menuId": "hbvu_2026-06-22",
-            "calories": 812,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
-                    },
-                    {
-                        "id": "pilav_ustu_tavuk_doner",
-                        "name": "Pilav Üstü Tavuk Döner"
-                    },
-                    {
-                        "id": "salata",
-                        "name": "Salata"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-23",
-            "menuId": "hbvu_2026-06-23",
-            "calories": 812,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "brokoli_corbasi",
-                        "name": "Brokoli Çorbası"
-                    },
-                    {
-                        "id": "orman_kebabi",
-                        "name": "Orman Kebabı"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "paket_yogurt",
-                        "name": "Paket Yoğurt"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-24",
-            "menuId": "hbvu_2026-06-24",
-            "calories": 911,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "toyga_corbasi",
-                        "name": "Toyga Çorbası"
-                    },
-                    {
-                        "id": "tavuk_pirzola_garnitur",
-                        "name": "Tavuk Pirzola+ Garnitür"
-                    },
-                    {
-                        "id": "makarna",
-                        "name": "Makarna"
-                    },
-                    {
-                        "id": "kavun",
-                        "name": "Kavun"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-25",
-            "menuId": "hbvu_2026-06-25",
-            "calories": 975,
+            "date": "2026-07-03",
+            "menuId": "hbvu_2026-07-03",
+            "calories": 801,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -504,97 +72,16 @@
                         "name": "Tavuk Suyu Çorbası"
                     },
                     {
-                        "id": "mevsim_turlu",
-                        "name": "Mevsim Türlü"
+                        "id": "taze_fasulye",
+                        "name": "Taze Fasülye"
                     },
                     {
-                        "id": "eristeli_bulgur_pilavi",
-                        "name": "Erişteli Bulgur Pilavı"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
-                        "id": "sutlac",
-                        "name": "Sütlaç"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-26",
-            "menuId": "hbvu_2026-06-26",
-            "calories": 972,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "tarhana_corbasi",
-                        "name": "Tarhana Çorbası"
-                    },
-                    {
-                        "id": "karniyarik",
-                        "name": "Karnıyarık"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
-                    },
-                    {
-                        "id": "cacik",
-                        "name": "Cacık"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-29",
-            "menuId": "hbvu_2026-06-29",
-            "calories": 1084,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "sehriye_corbasi",
-                        "name": "Şehriye Çorbası"
-                    },
-                    {
-                        "id": "cokertme_kebabi",
-                        "name": "Çökertme Kebabı"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "salata",
-                        "name": "Salata"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-30",
-            "menuId": "hbvu_2026-06-30",
-            "calories": 678,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "dugun_corba",
-                        "name": "Düğün Çorba"
-                    },
-                    {
-                        "id": "kiymali_bezelye_yemegi",
-                        "name": "Kıymalı Bezelye Yemeği"
-                    },
-                    {
-                        "id": "ispanakli_gul_boregi",
-                        "name": "Ispanaklı Gül Böreği"
-                    },
-                    {
-                        "id": "karpuz",
-                        "name": "Karpuz"
+                        "id": "trilice",
+                        "name": "Triliçe"
                     }
                 ],
                 "aksam": null
