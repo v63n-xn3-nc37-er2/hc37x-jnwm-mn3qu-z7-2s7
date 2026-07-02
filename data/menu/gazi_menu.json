@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-01T07:05:05.509371+00:00",
-    "menuHash": "7cd5542fac657ec7f0fe535a4afb3ce5d7d2efc83b5818b3c142b92aeed7b831",
+    "lastUpdated": "2026-07-02T06:32:26.428287+00:00",
+    "menuHash": "07d9487a58d17dfbb40bf4a8e4e699b5c7e2808fca5797cb8884779433b26a89",
     "menu": [
         {
             "date": "2026-06-01",
@@ -770,8 +770,8 @@
                         "name": "Keşkül"
                     },
                     {
-                        "id": "etsiz_kabak",
-                        "name": "*Etsiz Kabak"
+                        "id": "sebzeli_yesil_mercimek_yemegi",
+                        "name": "*Sebzeli Yeşil Mercimek Yemeği"
                     }
                 ],
                 "aksam": null

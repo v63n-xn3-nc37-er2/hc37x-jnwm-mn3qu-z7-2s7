@@ -3,13 +3,13 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-07-01T07:05:12.738249+00:00",
-    "menuHash": "40736b943184cdb3387f2d663b473c075756a463a8a4abc437b602d9434d3694",
+    "lastUpdated": "2026-07-02T06:32:35.003710+00:00",
+    "menuHash": "65858663ff0ef9638aec973f1b0d4ccd0b148c054df0bb52c9b91951363a59b0",
     "menu": [
         {
             "date": "2026-07-01",
             "menuId": "hacettepe_2026-07-01",
-            "calories": 1065,
+            "calories": 1097,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -18,8 +18,8 @@
                         "id": "tarhana_corbasi"
                     },
                     {
-                        "name": "Etli Türlü",
-                        "id": "etli_turlu"
+                        "name": "Etli Taze Fasulye",
+                        "id": "etli_taze_fasulye"
                     },
                     {
                         "name": "Şeh. Bulgur Pilavı",
@@ -30,12 +30,12 @@
                         "id": "hosaf"
                     },
                     {
-                        "name": "* Etsiz Türlü",
-                        "id": "etsiz_turlu"
-                    },
-                    {
                         "name": "* Şeh. Bulgur Pilavı",
                         "id": "seh_bulgur_pilavi"
+                    },
+                    {
+                        "name": "* Etsiz Taze Fasulye",
+                        "id": "etsiz_taze_fasulye"
                     },
                     {
                         "name": "* Hoşaf",
@@ -52,41 +52,41 @@
         {
             "date": "2026-07-02",
             "menuId": "hacettepe_2026-07-02",
-            "calories": 1004,
+            "calories": 1333,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Rumeli Çorbası",
-                        "id": "rumeli_corbasi"
+                        "name": "Çerkez Çorbası",
+                        "id": "cerkez_corbasi"
                     },
                     {
-                        "name": "Tavuk Izgara (P.patates)",
-                        "id": "tavuk_izgara_ppatates"
-                    },
-                    {
-                        "name": "Zyt. Biber Dolma",
-                        "id": "zyt_biber_dolma"
+                        "name": "Etli Pilav",
+                        "id": "etli_pilav"
                     },
                     {
                         "name": "Meyve",
                         "id": "meyve"
                     },
                     {
-                        "name": "* Etsiz Taze Fasulye",
-                        "id": "etsiz_taze_fasulye"
+                        "name": "Şakşuka",
+                        "id": "saksuka"
                     },
                     {
-                        "name": "* Zyt. Biber Dolma",
-                        "id": "zyt_biber_dolma"
+                        "name": "* Etsiz Patates",
+                        "id": "etsiz_patates"
                     },
                     {
-                        "name": "* Meyve",
-                        "id": "meyve"
+                        "name": "* Pirinç Pilavı",
+                        "id": "pirinc_pilavi"
                     },
                     {
                         "name": "* Turşu",
                         "id": "tursu"
+                    },
+                    {
+                        "name": "* Meyve",
+                        "id": "meyve"
                     }
                 ],
                 "aksam": null
@@ -181,17 +181,17 @@
         {
             "date": "2026-07-05",
             "menuId": "hacettepe_2026-07-05",
-            "calories": 1282,
+            "calories": 724,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "name": "Çerkez Çorbası",
-                        "id": "cerkez_corbasi"
+                        "name": "Rumeli Çorbası",
+                        "id": "rumeli_corbasi"
                     },
                     {
-                        "name": "Kıy. Kabak Musakka",
-                        "id": "kiy_kabak_musakka"
+                        "name": "Yumurtalı Ispanak",
+                        "id": "yumurtali_ispanak"
                     },
                     {
                         "name": "Soslu Makarna",
@@ -202,20 +202,182 @@
                         "id": "meyve"
                     },
                     {
-                        "name": "* Etsiz Kabak Musakka",
-                        "id": "etsiz_kabak_musakka"
+                        "name": "* Etsiz Ispanak",
+                        "id": "etsiz_ispanak"
                     },
                     {
                         "name": "* Soslu Makarna",
                         "id": "soslu_makarna"
                     },
                     {
+                        "name": "* Turşu",
+                        "id": "tursu"
+                    },
+                    {
                         "name": "* Meyve",
+                        "id": "meyve"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-06",
+            "menuId": "hacettepe_2026-07-06",
+            "calories": 1121,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Bal veya Reçel",
+                        "id": "bal_veya_recel"
+                    },
+                    {
+                        "name": "Kons Ton Balık+ Limon",
+                        "id": "kons_ton_balik_limon"
+                    },
+                    {
+                        "name": "Meyve +Tahin Helvası +Ekmek",
+                        "id": "meyve_tahin_helvasi_ekmek"
+                    },
+                    {
+                        "name": "Poşet Beyaz Peynir(2 adet)",
+                        "id": "poset_beyaz_peynir2_adet"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-07",
+            "menuId": "hacettepe_2026-07-07",
+            "calories": 1051,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Kon.Barbunya Pilaki +Limon",
+                        "id": "konbarbunya_pilaki_limon"
+                    },
+                    {
+                        "name": "Meyve+ Ekmek",
+                        "id": "meyve_ekmek"
+                    },
+                    {
+                        "name": "Reçel veya Bal+Fındık Ezmesi",
+                        "id": "recel_veya_balfindik_ezmesi"
+                    },
+                    {
+                        "name": "Üçgen Peynir(2 adet) +Tahin Pekmez",
+                        "id": "ucgen_peynir2_adet_tahin_pekmez"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-08",
+            "menuId": "hacettepe_2026-07-08",
+            "calories": 1043,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Fındık Ezmesi +Tahin Helvası",
+                        "id": "findik_ezmesi_tahin_helvasi"
+                    },
+                    {
+                        "name": "Kons Ton Balık+ Limon",
+                        "id": "kons_ton_balik_limon"
+                    },
+                    {
+                        "name": "Meyve",
                         "id": "meyve"
                     },
                     {
-                        "name": "* Turşu",
-                        "id": "tursu"
+                        "name": "Üçgen Peynir(2adet) +Ekmek",
+                        "id": "ucgen_peynir2adet_ekmek"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-09",
+            "menuId": "hacettepe_2026-07-09",
+            "calories": 971,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Bal veya Reçel +Ekmek",
+                        "id": "bal_veya_recel_ekmek"
+                    },
+                    {
+                        "name": "Fındık Ezmesi +Meyve",
+                        "id": "findik_ezmesi_meyve"
+                    },
+                    {
+                        "name": "Kon.Barbunya Pilaki +Limon",
+                        "id": "konbarbunya_pilaki_limon"
+                    },
+                    {
+                        "name": "Poşet Peyaz Peynir(2adet)Tahin Pekmez",
+                        "id": "poset_peyaz_peynir2adettahin_pekmez"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-10",
+            "menuId": "hacettepe_2026-07-10",
+            "calories": 1117,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Bal veya Reçel +Ekmek",
+                        "id": "bal_veya_recel_ekmek"
+                    },
+                    {
+                        "name": "Kons Ton Balık+ Limon",
+                        "id": "kons_ton_balik_limon"
+                    },
+                    {
+                        "name": "Meyve",
+                        "id": "meyve"
+                    },
+                    {
+                        "name": "Üçgen Peynir(2 adet)+Tahin Helvası",
+                        "id": "ucgen_peynir2_adettahin_helvasi"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-11",
+            "menuId": "hacettepe_2026-07-11",
+            "calories": 1171,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Bal veya Reçel+Fındık Ezmesi",
+                        "id": "bal_veya_recelfindik_ezmesi"
+                    },
+                    {
+                        "name": "Kon.Barbunya Pilaki +Limon",
+                        "id": "konbarbunya_pilaki_limon"
+                    },
+                    {
+                        "name": "Meyve+ Ekmek",
+                        "id": "meyve_ekmek"
+                    },
+                    {
+                        "name": "Poşet Peyaz Peynir(2adet)Tahin Pekmez",
+                        "id": "poset_peyaz_peynir2adettahin_pekmez"
                     }
                 ],
                 "aksam": null
