@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-02T06:33:31.392033+00:00",
-    "menuHash": "6411d777dfeb525576d44819c728a79ed052e3a760bf400c1232c01464ebd370",
+    "lastUpdated": "2026-07-03T06:23:59.567167+00:00",
+    "menuHash": "c8633ec9afe582c5460c86ca527d22829e6e1e94bb449ed3b20b130e74c95f1a",
     "menu": [
         {
             "date": "2026-07-01",
@@ -308,18 +308,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "patlican_yemegi",
-                        "name": "*Patlıcan Yemeği"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": [
@@ -338,18 +326,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "patlican_yemegi",
-                        "name": "*Patlıcan Yemeği"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ]
             }
@@ -397,22 +373,6 @@
                     {
                         "id": "yogurt",
                         "name": "Yoğurt"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
-                    },
-                    {
-                        "id": "nektarin",
-                        "name": "*Nektarin"
                     }
                 ],
                 "aksam": [
@@ -431,22 +391,6 @@
                     {
                         "id": "yogurt",
                         "name": "Yoğurt"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
-                    },
-                    {
-                        "id": "nektarin",
-                        "name": "*Nektarin"
                     }
                 ]
             }
@@ -494,14 +438,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "etsiz_taze_fasulye",
-                        "name": "*Etsiz Taze Fasulye"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": [
@@ -520,14 +456,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "etsiz_taze_fasulye",
-                        "name": "*Etsiz Taze Fasulye"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ]
             }
@@ -575,14 +503,6 @@
                     {
                         "id": "soguk_baklava",
                         "name": "Soğuk Baklava"
-                    },
-                    {
-                        "id": "biber_dolmasi",
-                        "name": "*Biber Dolması"
-                    },
-                    {
-                        "id": "visne_kompostosu",
-                        "name": "*Vişne Kompostosu"
                     }
                 ],
                 "aksam": [
@@ -601,14 +521,6 @@
                     {
                         "id": "soguk_baklava",
                         "name": "Soğuk Baklava"
-                    },
-                    {
-                        "id": "biber_dolmasi",
-                        "name": "*Biber Dolması"
-                    },
-                    {
-                        "id": "visne_kompostosu",
-                        "name": "*Vişne Kompostosu"
                     }
                 ]
             }
@@ -656,14 +568,6 @@
                     {
                         "id": "ayran",
                         "name": "Ayran"
-                    },
-                    {
-                        "id": "ispanakli_kol_boregi",
-                        "name": "*Ispanaklı Kol Böreği"
-                    },
-                    {
-                        "id": "limonata",
-                        "name": "*Limonata"
                     }
                 ],
                 "aksam": [
@@ -682,14 +586,6 @@
                     {
                         "id": "ayran",
                         "name": "Ayran"
-                    },
-                    {
-                        "id": "ispanakli_kol_boregi",
-                        "name": "*Ispanaklı Kol Böreği"
-                    },
-                    {
-                        "id": "limonata",
-                        "name": "*Limonata"
                     }
                 ]
             }
@@ -737,14 +633,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": [
@@ -763,14 +651,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ]
             }
@@ -818,14 +698,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "etsiz_bamya_yemegi",
-                        "name": "*Etsiz Bamya Yemeği"
-                    },
-                    {
-                        "id": "cevizli_eriste",
-                        "name": "*Cevizli Erişte"
                     }
                 ],
                 "aksam": [
@@ -844,14 +716,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "etsiz_bamya_yemegi",
-                        "name": "*Etsiz Bamya Yemeği"
-                    },
-                    {
-                        "id": "cevizli_eriste",
-                        "name": "*Cevizli Erişte"
                     }
                 ]
             }
@@ -899,18 +763,6 @@
                     {
                         "id": "nektarin",
                         "name": "Nektarin"
-                    },
-                    {
-                        "id": "ezogelin_corbasi",
-                        "name": "*Ezogelin Çorbası"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
                     }
                 ],
                 "aksam": [
@@ -929,18 +781,6 @@
                     {
                         "id": "nektarin",
                         "name": "Nektarin"
-                    },
-                    {
-                        "id": "ezogelin_corbasi",
-                        "name": "*Ezogelin Çorbası"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
                     }
                 ]
             }
@@ -988,14 +828,6 @@
                     {
                         "id": "kavun",
                         "name": "Kavun"
-                    },
-                    {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
-                    },
-                    {
-                        "id": "coban_salatasi",
-                        "name": "*Çoban Salatası"
                     }
                 ],
                 "aksam": [
@@ -1014,14 +846,6 @@
                     {
                         "id": "kavun",
                         "name": "Kavun"
-                    },
-                    {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
-                    },
-                    {
-                        "id": "coban_salatasi",
-                        "name": "*Çoban Salatası"
                     }
                 ]
             }
@@ -1069,14 +893,6 @@
                     {
                         "id": "cacik",
                         "name": "Cacık"
-                    },
-                    {
-                        "id": "sebze_corbasi",
-                        "name": "*Sebze Çorbası"
-                    },
-                    {
-                        "id": "kiraz",
-                        "name": "*Kiraz"
                     }
                 ],
                 "aksam": [
@@ -1095,14 +911,6 @@
                     {
                         "id": "cacik",
                         "name": "Cacık"
-                    },
-                    {
-                        "id": "sebze_corbasi",
-                        "name": "*Sebze Çorbası"
-                    },
-                    {
-                        "id": "kiraz",
-                        "name": "*Kiraz"
                     }
                 ]
             }
@@ -1150,18 +958,6 @@
                     {
                         "id": "dondurma",
                         "name": "Dondurma"
-                    },
-                    {
-                        "id": "kabak_yemegi",
-                        "name": "*Kabak Yemeği"
-                    },
-                    {
-                        "id": "soslu_makarna",
-                        "name": "*Soslu Makarna"
-                    },
-                    {
-                        "id": "visne_kompostosu",
-                        "name": "*Vişne Kompostosu"
                     }
                 ],
                 "aksam": [
@@ -1180,18 +976,6 @@
                     {
                         "id": "dondurma",
                         "name": "Dondurma"
-                    },
-                    {
-                        "id": "kabak_yemegi",
-                        "name": "*Kabak Yemeği"
-                    },
-                    {
-                        "id": "soslu_makarna",
-                        "name": "*Soslu Makarna"
-                    },
-                    {
-                        "id": "visne_kompostosu",
-                        "name": "*Vişne Kompostosu"
                     }
                 ]
             }
@@ -1239,18 +1023,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "etsiz_barbunya",
-                        "name": "*Etsiz Barbunya"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": [
@@ -1269,18 +1041,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_corbasi",
-                        "name": "*Mantar Çorbası"
-                    },
-                    {
-                        "id": "etsiz_barbunya",
-                        "name": "*Etsiz Barbunya"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ]
             }
@@ -1328,14 +1088,6 @@
                     {
                         "id": "seftali",
                         "name": "Şeftali"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "kabak_dolmasi",
-                        "name": "*Kabak Dolması"
                     }
                 ],
                 "aksam": [
@@ -1354,14 +1106,6 @@
                     {
                         "id": "seftali",
                         "name": "Şeftali"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "kabak_dolmasi",
-                        "name": "*Kabak Dolması"
                     }
                 ]
             }
@@ -1409,18 +1153,6 @@
                     {
                         "id": "kibris_tatlisi",
                         "name": "Kıbrıs Tatlısı"
-                    },
-                    {
-                        "id": "brokoli_corbasi",
-                        "name": "*Brokoli Çorbası"
-                    },
-                    {
-                        "id": "yesil_mercimek_yemegi",
-                        "name": "*Yeşil Mercimek Yemeği"
-                    },
-                    {
-                        "id": "un_helvasi",
-                        "name": "*Un Helvası"
                     }
                 ],
                 "aksam": [
@@ -1439,18 +1171,6 @@
                     {
                         "id": "kibris_tatlisi",
                         "name": "Kıbrıs Tatlısı"
-                    },
-                    {
-                        "id": "brokoli_corbasi",
-                        "name": "*Brokoli Çorbası"
-                    },
-                    {
-                        "id": "yesil_mercimek_yemegi",
-                        "name": "*Yeşil Mercimek Yemeği"
-                    },
-                    {
-                        "id": "un_helvasi",
-                        "name": "*Un Helvası"
                     }
                 ]
             }
@@ -1563,14 +1283,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
-                    },
-                    {
-                        "id": "zeytinyagli_ispanak",
-                        "name": "*Zeytinyağlı Ispanak"
                     }
                 ],
                 "aksam": [
@@ -1589,14 +1301,6 @@
                     {
                         "id": "kiraz",
                         "name": "Kiraz"
-                    },
-                    {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
-                    },
-                    {
-                        "id": "zeytinyagli_ispanak",
-                        "name": "*Zeytinyağlı Ispanak"
                     }
                 ]
             }
@@ -1644,22 +1348,6 @@
                     {
                         "id": "dondurma",
                         "name": "Dondurma"
-                    },
-                    {
-                        "id": "patates_ezme_corbasi",
-                        "name": "*Patates Ezme Çorbası"
-                    },
-                    {
-                        "id": "semizotu_yemegi",
-                        "name": "*Semizotu Yemeği"
-                    },
-                    {
-                        "id": "patates_salatasi",
-                        "name": "*Patates Salatası"
-                    },
-                    {
-                        "id": "limonata",
-                        "name": "*Limonata"
                     }
                 ],
                 "aksam": [
@@ -1678,22 +1366,6 @@
                     {
                         "id": "dondurma",
                         "name": "Dondurma"
-                    },
-                    {
-                        "id": "patates_ezme_corbasi",
-                        "name": "*Patates Ezme Çorbası"
-                    },
-                    {
-                        "id": "semizotu_yemegi",
-                        "name": "*Semizotu Yemeği"
-                    },
-                    {
-                        "id": "patates_salatasi",
-                        "name": "*Patates Salatası"
-                    },
-                    {
-                        "id": "limonata",
-                        "name": "*Limonata"
                     }
                 ]
             }
@@ -1741,14 +1413,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
                     }
                 ],
                 "aksam": [
@@ -1767,14 +1431,6 @@
                     {
                         "id": "karpuz",
                         "name": "Karpuz"
-                    },
-                    {
-                        "id": "mantar_sote",
-                        "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "zeytinyagli_enginar",
-                        "name": "*Zeytinyağlı Enginar"
                     }
                 ]
             }
@@ -1822,18 +1478,6 @@
                     {
                         "id": "uzum",
                         "name": "Üzüm"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "patlican_yemegi",
-                        "name": "*Patlıcan Yemeği"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ],
                 "aksam": [
@@ -1852,18 +1496,6 @@
                     {
                         "id": "uzum",
                         "name": "Üzüm"
-                    },
-                    {
-                        "id": "domates_corbasi",
-                        "name": "*Domates Çorbası"
-                    },
-                    {
-                        "id": "patlican_yemegi",
-                        "name": "*Patlıcan Yemeği"
-                    },
-                    {
-                        "id": "pirinc_pilavi",
-                        "name": "*Pirinç Pilavı"
                     }
                 ]
             }
