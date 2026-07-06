@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-07-05T06:32:17.490818+00:00",
-    "menuHash": "65858663ff0ef9638aec973f1b0d4ccd0b148c054df0bb52c9b91951363a59b0",
+    "lastUpdated": "2026-07-06T07:03:47.297369+00:00",
+    "menuHash": "a2f7232c81d29b8e7565f6c35e43c9be6900684322978c6419d82c7dace73ccd",
     "menu": [
         {
             "date": "2026-07-01",
@@ -73,8 +73,8 @@
                         "id": "saksuka"
                     },
                     {
-                        "name": "* Etsiz Patates",
-                        "id": "etsiz_patates"
+                        "name": "* Etsiz Patates Yemeği",
+                        "id": "etsiz_patates_yemegi"
                     },
                     {
                         "name": "* Pirinç Pilavı",
