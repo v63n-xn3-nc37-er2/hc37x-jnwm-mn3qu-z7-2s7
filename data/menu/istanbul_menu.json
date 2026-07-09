@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-08T05:44:08.962288+00:00",
-    "menuHash": "c8633ec9afe582c5460c86ca527d22829e6e1e94bb449ed3b20b130e74c95f1a",
+    "lastUpdated": "2026-07-09T06:37:35.558429+00:00",
+    "menuHash": "29c7cd2be5c2b8e5aa732074567f2f605445dfdf7ac531831db87a45d0069284",
     "menu": [
         {
             "date": "2026-07-01",
@@ -501,8 +501,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "soguk_baklava",
-                        "name": "Soğuk Baklava"
+                        "id": "baklava",
+                        "name": "Baklava"
                     }
                 ],
                 "aksam": [
@@ -519,8 +519,8 @@
                         "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "soguk_baklava",
-                        "name": "Soğuk Baklava"
+                        "id": "baklava",
+                        "name": "Baklava"
                     }
                 ]
             }
