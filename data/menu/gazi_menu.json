@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-13T05:59:25.144385+00:00",
-    "menuHash": "822ec3533f031568e3cf05de769eef57cfc4ceb7b2eb8eb6898548e0ee6270f6",
+    "lastUpdated": "2026-07-14T05:22:03.148628+00:00",
+    "menuHash": "b7de2dabd57c82078fb2013d9f8e7bfb04d3f3e820365523143a1d55a799ec73",
     "menu": [
         {
             "date": "2026-07-06",
@@ -138,7 +138,7 @@
                     },
                     {
                         "id": "izmir_kofte",
-                        "name": "İzmir köfte"
+                        "name": "İzmir Köfte"
                     },
                     {
                         "id": "bulgur_pilavi",
@@ -181,7 +181,7 @@
                     },
                     {
                         "id": "etsiz_bezelye_yemegi",
-                        "name": "*Etsiz Bezelye yemeği"
+                        "name": "*Etsiz Bezelye Yemeği"
                     }
                 ],
                 "aksam": null
@@ -266,7 +266,7 @@
                     },
                     {
                         "id": "imam_bayildi",
-                        "name": "imam bayıldı"
+                        "name": "İmam Bayıldı"
                     },
                     {
                         "id": "dondurma",
