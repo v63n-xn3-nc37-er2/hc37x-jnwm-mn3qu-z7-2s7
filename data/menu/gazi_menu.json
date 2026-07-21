@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-20T06:07:43.041301+00:00",
-    "menuHash": "e2af4047edad4b53915bc182a70a5309997428020fa723079ebd4c99c16da7cd",
+    "lastUpdated": "2026-07-21T05:41:33.533026+00:00",
+    "menuHash": "c6eb967648d4d259fbbc955ec7dfe26ad5ae366907d8badd87458a04b9d68202",
     "menu": [
         {
             "date": "2026-07-06",
@@ -195,8 +195,12 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mantar_corbasi",
-                        "name": "Mantar Çorbası"
+                        "id": "sehriye",
+                        "name": "Şehriye"
+                    },
+                    {
+                        "id": "corbasi",
+                        "name": "Çorbası"
                     },
                     {
                         "id": "firin_tavuk",
@@ -257,8 +261,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sehriye_corba",
-                        "name": "Şehriye Çorba"
+                        "id": "mantar_corba",
+                        "name": "Mantar Çorba"
                     },
                     {
                         "id": "yogurtlu_tire_kofte",
