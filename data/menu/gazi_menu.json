@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-21T05:41:33.533026+00:00",
-    "menuHash": "c6eb967648d4d259fbbc955ec7dfe26ad5ae366907d8badd87458a04b9d68202",
+    "lastUpdated": "2026-07-22T05:40:28.696878+00:00",
+    "menuHash": "1416c53f024af98596a603c4835eb99551745b91ce7c9231724cd31e7c03d821",
     "menu": [
         {
             "date": "2026-07-06",
@@ -57,7 +57,7 @@
                 "oglen": [
                     {
                         "id": "ezogelin_corba",
-                        "name": "Ezogelin çorba"
+                        "name": "Ezogelin Çorba"
                     },
                     {
                         "id": "tavuk_sinitzel",
@@ -181,7 +181,7 @@
                     },
                     {
                         "id": "etsiz_bezelye_yemegi",
-                        "name": "*Etsiz Bezelye Yemeği"
+                        "name": "*Etsiz Bezelye yemeği"
                     }
                 ],
                 "aksam": null
@@ -247,7 +247,7 @@
                     },
                     {
                         "id": "etsiz_t_fasulye_yemegi",
-                        "name": "*Etsiz T. Fasülye Yemeği"
+                        "name": "*Etsiz T. Fasülye yemeği"
                     }
                 ],
                 "aksam": null
@@ -277,8 +277,8 @@
                         "name": "Dondurma"
                     },
                     {
-                        "id": "peynirli_makarna",
-                        "name": "*Peynirli Makarna"
+                        "id": "etsiz_nohut_yemegi",
+                        "name": "*Etsiz Nohut Yemeği"
                     }
                 ],
                 "aksam": null
@@ -300,16 +300,16 @@
                         "name": "Etli Biber Dolma"
                     },
                     {
-                        "id": "etsiz_nohut_yemegi",
-                        "name": "Etsiz Nohut Yemeği"
-                    },
-                    {
                         "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "name": "Su böreği"
                     },
                     {
                         "id": "meyve",
                         "name": "Meyve"
+                    },
+                    {
+                        "id": "mantar_kavurma",
+                        "name": "*Mantar Kavurma"
                     }
                 ],
                 "aksam": null
@@ -389,16 +389,16 @@
                         "name": "Köylü Çorba"
                     },
                     {
-                        "id": "tavuk_baget",
-                        "name": "Tavuk Baget"
+                        "id": "tavuk_pirzola",
+                        "name": "Tavuk Pirzola"
                     },
                     {
                         "id": "bulgur_pilavi",
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "yogutlu_semizotu",
-                        "name": "Yoğutlu Semizotu"
+                        "id": "yogurtlu_semizotu",
+                        "name": "Yoğurtlu Semizotu"
                     },
                     {
                         "id": "etsiz_patates_yemegi",
@@ -416,20 +416,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sebze_corba",
-                        "name": "Sebze Çorba"
+                        "id": "domates_corba",
+                        "name": "Domates Çorba"
                     },
                     {
                         "id": "kabak_dolma_yogurt",
                         "name": "Kabak Dolma -Yoğurt"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "peynirli_makarna",
+                        "name": "Peynirli Makarna"
                     },
                     {
-                        "id": "salata",
-                        "name": "Salata"
+                        "id": "coban_salata",
+                        "name": "Çoban Salata"
                     },
                     {
                         "id": "etsiz_kabak_yemegi",
@@ -447,8 +447,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "domates_corba",
-                        "name": "Domates Çorba"
+                        "id": "sebze_corba",
+                        "name": "Sebze Çorba"
                     },
                     {
                         "id": "kadinbudu_kofte",
@@ -463,8 +463,8 @@
                         "name": "Keşkül"
                     },
                     {
-                        "id": "etsiz_mevsim_turlu",
-                        "name": "*Etsiz Mevsim Türlü"
+                        "id": "etsiz_ispanak",
+                        "name": "*Etsiz Ispanak"
                     }
                 ],
                 "aksam": null
