@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-22T05:40:28.696878+00:00",
-    "menuHash": "1416c53f024af98596a603c4835eb99551745b91ce7c9231724cd31e7c03d821",
+    "lastUpdated": "2026-07-23T05:45:43.784676+00:00",
+    "menuHash": "aff1be5cd29eb76a23122b14ab0529ac59cabaaed6d7104b17628f8b07ae5e25",
     "menu": [
         {
             "date": "2026-07-06",
@@ -428,8 +428,8 @@
                         "name": "Peynirli Makarna"
                     },
                     {
-                        "id": "coban_salata",
-                        "name": "Çoban Salata"
+                        "id": "meyve",
+                        "name": "Meyve"
                     },
                     {
                         "id": "etsiz_kabak_yemegi",

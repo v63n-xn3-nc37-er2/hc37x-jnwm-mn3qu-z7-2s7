@@ -3,144 +3,9 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-07-22T05:40:43.027953+00:00",
-    "menuHash": "ef68e716160f848a7a781250d8dacd07ea49820da7bd58cc7809a637d859703f",
+    "lastUpdated": "2026-07-23T05:45:58.085245+00:00",
+    "menuHash": "0b5a3107c158ee3fdba10c66374b9204af364729d60d3c96b408688a77d74b1c",
     "menu": [
-        {
-            "date": "2026-06-22",
-            "menuId": "aybu_2026-06-22",
-            "calories": 761,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
-                    },
-                    {
-                        "id": "kofteli_avci_kebabi",
-                        "name": "Köfteli Avcı Kebabı"
-                    },
-                    {
-                        "id": "bulgur_pilavi",
-                        "name": "Bulgur Pilavı"
-                    },
-                    {
-                        "id": "mevsim_salata",
-                        "name": "Mevsim Salata"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-23",
-            "menuId": "aybu_2026-06-23",
-            "calories": 1131,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "anadolu_corba",
-                        "name": "Anadolu Çorba"
-                    },
-                    {
-                        "id": "sebze_graten",
-                        "name": "Sebze Graten"
-                    },
-                    {
-                        "id": "seh_pirinc_pilavi",
-                        "name": "Şeh. Pirinç Pilavı"
-                    },
-                    {
-                        "id": "trilece",
-                        "name": "Trileçe"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-24",
-            "menuId": "aybu_2026-06-24",
-            "calories": 753,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "mahluta_corba",
-                        "name": "Mahluta Çorba"
-                    },
-                    {
-                        "id": "ankara_tava",
-                        "name": "Ankara Tava"
-                    },
-                    {
-                        "id": "ayran",
-                        "name": "Ayran"
-                    },
-                    {
-                        "id": "karisik_salata",
-                        "name": "Karışık Salata"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-25",
-            "menuId": "aybu_2026-06-25",
-            "calories": 1027,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "arabasi_corba",
-                        "name": "Arabaşı Çorba"
-                    },
-                    {
-                        "id": "kabak_dolma_yogurt",
-                        "name": "Kabak Dolma / Yoğurt"
-                    },
-                    {
-                        "id": "kol_boregi",
-                        "name": "Kol Böreği"
-                    },
-                    {
-                        "id": "visne_komposto",
-                        "name": "Vişne Komposto"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-06-26",
-            "menuId": "aybu_2026-06-26",
-            "calories": 944,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "yayla_corba",
-                        "name": "Yayla Çorba"
-                    },
-                    {
-                        "id": "pilic_topkapi",
-                        "name": "Piliç Topkapı"
-                    },
-                    {
-                        "id": "barbunya_pilaki",
-                        "name": "Barbunya Pilaki"
-                    },
-                    {
-                        "id": "karpuz",
-                        "name": "Karpuz"
-                    }
-                ],
-                "aksam": null
-            }
-        },
         {
             "date": "2026-07-01",
             "menuId": "aybu_2026-07-01",
@@ -415,6 +280,141 @@
                     {
                         "id": "cacik",
                         "name": "Cacık"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-20",
+            "menuId": "aybu_2026-07-20",
+            "calories": 761,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "Mercimek Çorba"
+                    },
+                    {
+                        "id": "kofteli_avci_kebabi",
+                        "name": "Köfteli Avcı Kebabı"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
+                    },
+                    {
+                        "id": "mevsim_salata",
+                        "name": "Mevsim Salata"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-21",
+            "menuId": "aybu_2026-07-21",
+            "calories": 1131,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "anadolu_corba",
+                        "name": "Anadolu Çorba"
+                    },
+                    {
+                        "id": "sebze_graten",
+                        "name": "Sebze Graten"
+                    },
+                    {
+                        "id": "seh_pirinc_pilavi",
+                        "name": "Şeh. Pirinç Pilavı"
+                    },
+                    {
+                        "id": "trilece",
+                        "name": "Trileçe"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-22",
+            "menuId": "aybu_2026-07-22",
+            "calories": 753,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mahluta_corba",
+                        "name": "Mahluta Çorba"
+                    },
+                    {
+                        "id": "ankara_tava",
+                        "name": "Ankara Tava"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
+                    },
+                    {
+                        "id": "karisik_salata",
+                        "name": "Karışık Salata"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-23",
+            "menuId": "aybu_2026-07-23",
+            "calories": 1027,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "arabasi_corba",
+                        "name": "Arabaşı Çorba"
+                    },
+                    {
+                        "id": "kabak_dolma_yogurt",
+                        "name": "Kabak Dolma / Yoğurt"
+                    },
+                    {
+                        "id": "kol_boregi",
+                        "name": "Kol Böreği"
+                    },
+                    {
+                        "id": "visne_komposto",
+                        "name": "Vişne Komposto"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-07-24",
+            "menuId": "aybu_2026-07-24",
+            "calories": 944,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "yayla_corba",
+                        "name": "Yayla Çorba"
+                    },
+                    {
+                        "id": "pilic_topkapi",
+                        "name": "Piliç Topkapı"
+                    },
+                    {
+                        "id": "barbunya_pilaki",
+                        "name": "Barbunya Pilaki"
+                    },
+                    {
+                        "id": "karpuz",
+                        "name": "Karpuz"
                     }
                 ],
                 "aksam": null
