@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-08-02T05:47:50.326381+00:00",
-    "menuHash": "b31769f4b89564a5bdcba9bcc3c7f3da1fdc6d22a690f2fdff9b79a7b6f21a7d",
+    "lastUpdated": "2026-08-03T06:11:23.324244+00:00",
+    "menuHash": "dc0be0eaae48d78b9bf1ff589d17730c24b77ac64675e670f6d5c0122e61ec5f",
     "menu": [
         {
             "date": "2026-08-01",
@@ -52,7 +52,7 @@
         {
             "date": "2026-08-02",
             "menuId": "hacettepe_2026-08-02",
-            "calories": 1684,
+            "calories": 1973,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -65,8 +65,8 @@
                         "id": "rosto_kofte_parmak_patates"
                     },
                     {
-                        "name": "Çoban Salatası",
-                        "id": "coban_salatasi"
+                        "name": "Spagetti Napoliten",
+                        "id": "spagetti_napoliten"
                     },
                     {
                         "name": "Şekerpare",
@@ -77,8 +77,8 @@
                         "id": "etsiz_turlu"
                     },
                     {
-                        "name": "* Çoban Salatası",
-                        "id": "coban_salatasi"
+                        "name": "* Spagetti Napoliten",
+                        "id": "spagetti_napoliten"
                     },
                     {
                         "name": "* Tahin Helvası",
@@ -95,7 +95,7 @@
         {
             "date": "2026-08-03",
             "menuId": "hacettepe_2026-08-03",
-            "calories": 1248,
+            "calories": 1290,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -112,8 +112,8 @@
                         "id": "pirinc_pilavi"
                     },
                     {
-                        "name": "Meyve",
-                        "id": "meyve"
+                        "name": "Çoban Salatası",
+                        "id": "coban_salatasi"
                     },
                     {
                         "name": "* Etsiz Nohut",
