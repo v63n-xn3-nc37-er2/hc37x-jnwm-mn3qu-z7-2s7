@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-08-03T06:11:23.324244+00:00",
-    "menuHash": "dc0be0eaae48d78b9bf1ff589d17730c24b77ac64675e670f6d5c0122e61ec5f",
+    "lastUpdated": "2026-08-04T05:41:02.190224+00:00",
+    "menuHash": "fdb5bfbd27a634bdc8ebe77b859f18a93ee9f55fceda114d40677fdbe4052d60",
     "menu": [
         {
             "date": "2026-08-01",
@@ -124,8 +124,8 @@
                         "id": "pirinc_pilavi"
                     },
                     {
-                        "name": "* Turşu",
-                        "id": "tursu"
+                        "name": "* Çoban Salatası",
+                        "id": "coban_salatasi"
                     },
                     {
                         "name": "* Meyve",
@@ -138,7 +138,7 @@
         {
             "date": "2026-08-04",
             "menuId": "hacettepe_2026-08-04",
-            "calories": 937,
+            "calories": 1254,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -151,8 +151,8 @@
                         "id": "yog_kiy_kabak_dolma"
                     },
                     {
-                        "name": "Fesleğen Soslu Makarna",
-                        "id": "feslegen_soslu_makarna"
+                        "name": "Peynirli Makarna",
+                        "id": "peynirli_makarna"
                     },
                     {
                         "name": "Hoşaf",
@@ -194,8 +194,8 @@
                         "id": "terbiyeli_kofte"
                     },
                     {
-                        "name": "Zyt. Taze Fasülye",
-                        "id": "zyt_taze_fasulye"
+                        "name": "Zy.Taze Fasulye",
+                        "id": "zytaze_fasulye"
                     },
                     {
                         "name": "Brownie",
@@ -210,8 +210,8 @@
                         "id": "etsiz_patates_yemegi"
                     },
                     {
-                        "name": "* Zyt. Taze Fasülye",
-                        "id": "zyt_taze_fasulye"
+                        "name": "* Zy.Taze Fasulye",
+                        "id": "zytaze_fasulye"
                     },
                     {
                         "name": "* Meyve",
@@ -267,7 +267,7 @@
         {
             "date": "2026-08-07",
             "menuId": "hacettepe_2026-08-07",
-            "calories": 1574,
+            "calories": 1493,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -280,8 +280,8 @@
                         "id": "tavuk_sinitzel_karnabahar_graten"
                     },
                     {
-                        "name": "Gavurdağı Salatası",
-                        "id": "gavurdagi_salatasi"
+                        "name": "Ege Salata",
+                        "id": "ege_salata"
                     },
                     {
                         "name": "Supangle",
@@ -296,8 +296,8 @@
                         "id": "etsiz_karnabahar"
                     },
                     {
-                        "name": "* Gavurdağı Salatası",
-                        "id": "gavurdagi_salatasi"
+                        "name": "* Ege Salata Peynirsiz",
+                        "id": "ege_salata_peynirsiz"
                     },
                     {
                         "name": "* Tahin Helvası",
@@ -366,8 +366,8 @@
                         "id": "coban_kavurma"
                     },
                     {
-                        "name": "Şehriyeli Pirinç Pilav",
-                        "id": "sehriyeli_pirinc_pilav"
+                        "name": "Şehriyeli Pirinç Pilavı",
+                        "id": "sehriyeli_pirinc_pilavi"
                     },
                     {
                         "name": "Yoğurt",
@@ -382,12 +382,98 @@
                         "id": "etsiz_taze_fasulye"
                     },
                     {
-                        "name": "* Şehriyeli Pirinç Pilav",
-                        "id": "sehriyeli_pirinc_pilav"
+                        "name": "* Şehriyeli Pirinç Pilavı",
+                        "id": "sehriyeli_pirinc_pilavi"
                     },
                     {
                         "name": "* Ayran",
                         "id": "ayran"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-08-10",
+            "menuId": "hacettepe_2026-08-10",
+            "calories": 907,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Tandır Çorbası",
+                        "id": "tandir_corbasi"
+                    },
+                    {
+                        "name": "Etli Kuru Fasulye",
+                        "id": "etli_kuru_fasulye"
+                    },
+                    {
+                        "name": "İstanbul Pilavı",
+                        "id": "istanbul_pilavi"
+                    },
+                    {
+                        "name": "Turşu",
+                        "id": "tursu"
+                    },
+                    {
+                        "name": "* Etsiz Kuru Fasulye",
+                        "id": "etsiz_kuru_fasulye"
+                    },
+                    {
+                        "name": "* İstanbul Pilavı",
+                        "id": "istanbul_pilavi"
+                    },
+                    {
+                        "name": "* Turşu",
+                        "id": "tursu"
+                    },
+                    {
+                        "name": "* Meyve",
+                        "id": "meyve"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-08-11",
+            "menuId": "hacettepe_2026-08-11",
+            "calories": 1088,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "name": "Ayranaşı Çorba",
+                        "id": "ayranasi_corba"
+                    },
+                    {
+                        "name": "Tavuk Baget",
+                        "id": "tavuk_baget"
+                    },
+                    {
+                        "name": "Domatesli Pirinç Pilavı",
+                        "id": "domatesli_pirinc_pilavi"
+                    },
+                    {
+                        "name": "Meyve",
+                        "id": "meyve"
+                    },
+                    {
+                        "name": "* Etsiz Ispanak",
+                        "id": "etsiz_ispanak"
+                    },
+                    {
+                        "name": "* Domatesli Pirinç Pilavı",
+                        "id": "domatesli_pirinc_pilavi"
+                    },
+                    {
+                        "name": "* Tahin Helvası",
+                        "id": "tahin_helvasi"
+                    },
+                    {
+                        "name": "* Meyve",
+                        "id": "meyve"
                     }
                 ],
                 "aksam": null
