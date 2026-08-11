@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-10T04:23:35.901402+00:00",
-    "menuHash": "5a1528a4d8f8fb5b890aae0303bd95b7d9dbbef54774550c4ed2bd8b45a24f07",
+    "lastUpdated": "2026-08-11T04:12:37.212014+00:00",
+    "menuHash": "ff89e261b93f5310bc172678fda59ce5ec4af19a7ff2429d0be5badab59f2d30",
     "menu": [
         {
             "date": "2026-08-03",
@@ -181,8 +181,8 @@
                         "name": "Salata"
                     },
                     {
-                        "id": "dondurma",
-                        "name": "Dondurma"
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
                     },
                     {
                         "id": "etsiz_bezelye",
