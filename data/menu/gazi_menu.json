@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-11T04:12:37.212014+00:00",
-    "menuHash": "ff89e261b93f5310bc172678fda59ce5ec4af19a7ff2429d0be5badab59f2d30",
+    "lastUpdated": "2026-08-12T04:42:03.106287+00:00",
+    "menuHash": "c4326397f0569862ab58c65877d190b90fdc726b0290cee87aa805fd95591e0c",
     "menu": [
         {
             "date": "2026-08-03",
@@ -208,8 +208,8 @@
                         "name": "Kuru Köfte-Söğüş. Dom.Biber"
                     },
                     {
-                        "id": "kisir",
-                        "name": "Kısır"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
                         "id": "meyve",
