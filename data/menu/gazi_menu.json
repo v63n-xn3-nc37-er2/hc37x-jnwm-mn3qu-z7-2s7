@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-12T04:42:03.106287+00:00",
-    "menuHash": "c4326397f0569862ab58c65877d190b90fdc726b0290cee87aa805fd95591e0c",
+    "lastUpdated": "2026-08-13T04:45:09.789939+00:00",
+    "menuHash": "13ab2ef6a8236ab1e520b3854be288ee780799a3012da4d54c40a5e89c37badf",
     "menu": [
         {
             "date": "2026-08-03",
@@ -262,8 +262,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin Çorba"
+                        "id": "kirmizi_mercimekcorba",
+                        "name": "Kırmızı MercimekÇorba"
                     },
                     {
                         "id": "hunkar_begendi",
@@ -274,8 +274,8 @@
                         "name": "Mercimekli Bulgur Pilavı"
                     },
                     {
-                        "id": "yogurt",
-                        "name": "Yoğurt"
+                        "id": "karpuz",
+                        "name": "Karpuz"
                     },
                     {
                         "id": "mantar_kavurma",
@@ -340,8 +340,8 @@
                         "name": "Ayran"
                     },
                     {
-                        "id": "etsiz_nohut_yemegi",
-                        "name": "*Etsiz Nohut Yemeği"
+                        "id": "etsiz_patates_yemegi",
+                        "name": "*Etsiz Patates Yemeği"
                     }
                 ],
                 "aksam": null
@@ -363,16 +363,16 @@
                         "name": "Tavuk Şinitzel"
                     },
                     {
+                        "id": "etsiz_bezelye",
+                        "name": "Etsiz Bezelye"
+                    },
+                    {
                         "id": "patates_salata",
                         "name": "Patates Salata"
                     },
                     {
                         "id": "komposto",
                         "name": "Komposto"
-                    },
-                    {
-                        "id": "sebze_sote",
-                        "name": "*Sebze Sote"
                     }
                 ],
                 "aksam": null
@@ -402,8 +402,8 @@
                         "name": "Sup"
                     },
                     {
-                        "id": "etsiz_kabak_kalye",
-                        "name": "*Etsiz Kabak Kalye"
+                        "id": "etsiz_kabak_yemegi",
+                        "name": "*Etsiz Kabak Yemeği"
                     }
                 ],
                 "aksam": null
@@ -433,8 +433,8 @@
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "etsiz_mevsim_turlu",
+                        "name": "*Etsiz Mevsim Türlü"
                     }
                 ],
                 "aksam": null
@@ -495,8 +495,8 @@
                         "name": "Yoğurt"
                     },
                     {
-                        "id": "etsiz_bezelye",
-                        "name": "*Etsiz Bezelye"
+                        "id": "nohutlu_pilav",
+                        "name": "*Nohutlu Pilav"
                     }
                 ],
                 "aksam": null
@@ -557,8 +557,8 @@
                         "name": "Meyve"
                     },
                     {
-                        "id": "etsiz_patlican_yemegi",
-                        "name": "*Etsiz Patlıcan Yemeği"
+                        "id": "patates_salatasi",
+                        "name": "*Patates Salatası"
                     }
                 ],
                 "aksam": null

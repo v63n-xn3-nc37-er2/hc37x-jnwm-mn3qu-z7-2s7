@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-12T04:42:28.954443+00:00",
-    "menuHash": "197db52c3a51157d0e3964bbce072fa78dbf155038a24dc0b1c496ff204e2b4f",
+    "lastUpdated": "2026-08-13T04:45:35.766416+00:00",
+    "menuHash": "69ae18fad87d915a0c323cf6e240b62468b04b6b21ac804df9bdbeb0b6591d2d",
     "menu": [
         {
             "date": "2026-08-03",
@@ -215,8 +215,8 @@
                         "name": "Makarna"
                     },
                     {
-                        "id": "gazoz",
-                        "name": "Gazoz"
+                        "id": "ayran",
+                        "name": "Ayran"
                     }
                 ],
                 "aksam": null
