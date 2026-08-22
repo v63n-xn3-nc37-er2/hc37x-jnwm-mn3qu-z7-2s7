@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-21T03:43:22.692055+00:00",
-    "menuHash": "69ae18fad87d915a0c323cf6e240b62468b04b6b21ac804df9bdbeb0b6591d2d",
+    "lastUpdated": "2026-08-22T03:35:11.477220+00:00",
+    "menuHash": "2d9fd14c29aa0692b01c4ade1d1b0ac4906fcc6da69cc52dd50cf9de20d52fe1",
     "menu": [
         {
             "date": "2026-08-03",
@@ -419,20 +419,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corbasi",
-                        "name": "Mercimek Çorbası"
+                        "id": "tel_sehriye_corbasi",
+                        "name": "Tel Şehriye Çorbası"
                     },
                     {
                         "id": "orman_kebabi",
                         "name": "Orman Kebabı"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "bulgur_pilavi",
+                        "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "meyve",
-                        "name": "Meyve"
+                        "id": "kibris_tatlisi",
+                        "name": "Kıbrıs Tatlısı"
                     }
                 ],
                 "aksam": null
@@ -446,20 +446,20 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "sebze_corbasi",
-                        "name": "Sebze Çorbası"
+                        "id": "mantar_corbasi",
+                        "name": "Mantar Çorbası"
                     },
                     {
-                        "id": "izmir_kofte",
-                        "name": "İzmir Köfte"
+                        "id": "etli_kuru_fasulye",
+                        "name": "Etli Kuru Fasülye"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "sehriyeli_pirinc_pilavi",
+                        "name": "Şehriyeli Pirinç Pilavı"
                     },
                     {
-                        "id": "ayran",
-                        "name": "Ayran"
+                        "id": "karisik_tursu",
+                        "name": "Karışık Turşu"
                     }
                 ],
                 "aksam": null
