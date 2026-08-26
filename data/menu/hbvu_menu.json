@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-25T03:41:05.176814+00:00",
-    "menuHash": "2d9fd14c29aa0692b01c4ade1d1b0ac4906fcc6da69cc52dd50cf9de20d52fe1",
+    "lastUpdated": "2026-08-26T03:45:30.369966+00:00",
+    "menuHash": "c4e6f4e013fb13e23e4ab6c5cf80662526d50b23c86fe638041feb274996dd2c",
     "menu": [
         {
             "date": "2026-08-03",
@@ -508,12 +508,12 @@
                         "name": "Piliç Topkapı"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "salata",
+                        "name": "Salata"
                     },
                     {
-                        "id": "gazoz_salata",
-                        "name": "Gazoz +Salata"
+                        "id": "gazoz",
+                        "name": "Gazoz"
                     }
                 ],
                 "aksam": null
