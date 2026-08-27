@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-26T03:45:14.922793+00:00",
-    "menuHash": "13ab2ef6a8236ab1e520b3854be288ee780799a3012da4d54c40a5e89c37badf",
+    "lastUpdated": "2026-08-27T13:23:51.027173+00:00",
+    "menuHash": "cae9b80c451550db073c9e6277562b63fcdbed9973ae46a84b7fee3ab41ee7d8",
     "menu": [
         {
             "date": "2026-08-03",
@@ -638,8 +638,8 @@
                         "name": "Mercimek Çorba"
                     },
                     {
-                        "id": "et_kizartma",
-                        "name": "Et Kızartma"
+                        "id": "tas_kebabi",
+                        "name": "Tas Kebabı"
                     },
                     {
                         "id": "pirinc_pilavi",
