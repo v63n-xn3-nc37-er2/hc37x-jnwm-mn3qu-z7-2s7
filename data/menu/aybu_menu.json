@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-08-30T08:44:17.027049+00:00",
-    "menuHash": "cb81894533b95c6037ae4093dd31d10d20c5dc5733c034c9e481c9626011db71",
+    "lastUpdated": "2026-08-31T09:06:43.050659+00:00",
+    "menuHash": "2af897cf80073d4f043133dc1a0b0bfeb3c483cccead60439ace6bf962d4df3a",
     "menu": [
         {
             "date": "2026-08-03",
@@ -562,8 +562,8 @@
                         "name": "Sebzeli Tavuk Sote"
                     },
                     {
-                        "id": "kremali_mantarli_makarna",
-                        "name": "Kremalı Mantarlı Makarna"
+                        "id": "napoliten_soslu_makarna",
+                        "name": "Napoliten Soslu Makarna"
                     },
                     {
                         "id": "kavun",
