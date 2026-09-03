@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-02T07:28:00.100608+00:00",
-    "menuHash": "cae9b80c451550db073c9e6277562b63fcdbed9973ae46a84b7fee3ab41ee7d8",
+    "lastUpdated": "2026-09-03T07:33:36.063495+00:00",
+    "menuHash": "9ea07b03ca8c4ed0e7cece23527eecc0012ce12550f8707620abd813df42c39e",
     "menu": [
         {
             "date": "2026-08-03",
@@ -735,8 +735,8 @@
                         "name": "Etli Mevsim Türlü"
                     },
                     {
-                        "id": "su_boregi",
-                        "name": "Su Böreği"
+                        "id": "makarna",
+                        "name": "Makarna"
                     },
                     {
                         "id": "komposto",
