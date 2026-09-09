@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-08T07:36:32.930918+00:00",
-    "menuHash": "c39d8ac0fd338dfa51aca41b97329cb85c637db43ec62d9e4f9cc21779155221",
+    "lastUpdated": "2026-09-09T07:42:49.661549+00:00",
+    "menuHash": "14cb98505b42117670295d14972a5b3af1a8702705b93a5dc005ac5d50924c0c",
     "menu": [
         {
             "date": "2026-09-01",
@@ -176,16 +176,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "toyga_corba",
-                        "name": "Toyga Çorba"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "kofteli_alinazik",
                         "name": "Köfteli Alinazik"
                     },
                     {
-                        "id": "pirinc_pilavi",
-                        "name": "Pirinç Pilavı"
+                        "id": "tel_sehriyeli_bulgur_pilavi",
+                        "name": "Tel Şehriyeli Bulgur Pilavı"
                     },
                     {
                         "id": "coban_salata",
@@ -203,16 +203,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "yoruk_corba",
-                        "name": "Yörük Çorba"
+                        "id": "domates_corbasi",
+                        "name": "Domates Çorbası"
                     },
                     {
                         "id": "sebzeli_tavuk_sarma",
                         "name": "Sebzeli Tavuk Sarma"
                     },
                     {
-                        "id": "spagetti",
-                        "name": "Spagetti"
+                        "id": "eriste_kavurma",
+                        "name": "Erişte Kavurma"
                     },
                     {
                         "id": "ayran",
@@ -230,16 +230,16 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "anadolu_corbasi",
-                        "name": "Anadolu Çorbası"
+                        "id": "arabasi_corbasi",
+                        "name": "Arabaşı Çorbası"
                     },
                     {
-                        "id": "arnavut_ciger",
-                        "name": "Arnavut Ciğer"
+                        "id": "biber_dolma",
+                        "name": "Biber Dolma"
                     },
                     {
-                        "id": "arpa_sehriyeli_pirinc_pilavi",
-                        "name": "Arpa Şehriyeli Pirinç Pilavı"
+                        "id": "kalem_boregi",
+                        "name": "Kalem Böreği"
                     },
                     {
                         "id": "kadayif",

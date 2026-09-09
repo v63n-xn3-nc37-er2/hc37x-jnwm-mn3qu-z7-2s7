@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-08T07:36:15.088403+00:00",
-    "menuHash": "9de67f174edc7da0385f3a895a485b46dc2ee89fd48ad9db65f302ffaed9a3f3",
+    "lastUpdated": "2026-09-09T07:42:28.070013+00:00",
+    "menuHash": "c8bab0410eafa10dd4be290cfd3f6a22a7cf3e115b8b272f441d88be027625b4",
     "menu": [
         {
             "date": "2026-09-07",
@@ -45,8 +45,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "merimek_corba",
-                        "name": "Merimek Çorba"
+                        "id": "mercimek_corba",
+                        "name": "Mercimek Çorba"
                     },
                     {
                         "id": "ozbek_pilavi",
@@ -263,7 +263,7 @@
                 "oglen": [
                     {
                         "id": "mercimek_corba",
-                        "name": "Mercimek çorba"
+                        "name": "Mercimek Çorba"
                     },
                     {
                         "id": "kiymali_kabak_dolma",
@@ -297,8 +297,8 @@
                         "name": "Şehriye Çorba"
                     },
                     {
-                        "id": "kadinbudu_koftepat_pure",
-                        "name": "Kadınbudu Köfte-Pat. Püre"
+                        "id": "kadinbudu_koftepatpure",
+                        "name": "Kadınbudu Köfte-Pat.Püre"
                     },
                     {
                         "id": "kisir",
@@ -310,7 +310,7 @@
                     },
                     {
                         "id": "yesil_mercimek_yemegi",
-                        "name": "* Yeşil Mercimek yemeği"
+                        "name": "* Yeşil Mercimek Yemeği"
                     }
                 ],
                 "aksam": null
@@ -341,7 +341,7 @@
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
-                        "name": "*Etsiz Kuru fasülye"
+                        "name": "*Etsiz Kuru Fasülye"
                     }
                 ],
                 "aksam": null
@@ -465,7 +465,7 @@
                     },
                     {
                         "id": "etsiz_patlican_yemegi",
-                        "name": "* Etsiz Patlıcan yemeği"
+                        "name": "* Etsiz Patlıcan Yemeği"
                     }
                 ],
                 "aksam": null
@@ -514,8 +514,8 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
-                        "id": "etli_kurufasulye",
-                        "name": "Etli Kurufasülye"
+                        "id": "etli_kuru_fasulye",
+                        "name": "Etli Kuru Fasülye"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -526,8 +526,8 @@
                         "name": "Salata"
                     },
                     {
-                        "id": "etsiz_kurufasulye_yemegi",
-                        "name": "*Etsiz Kurufasülye yemeği"
+                        "id": "etsiz_kuru_fasulye_yemegi",
+                        "name": "*Etsiz Kuru Fasülye Yemeği"
                     }
                 ],
                 "aksam": null
@@ -589,7 +589,7 @@
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
-                        "name": "*Etsiz Kuru fasülye"
+                        "name": "*Etsiz Kuru Fasülye"
                     }
                 ],
                 "aksam": null
@@ -620,7 +620,7 @@
                     },
                     {
                         "id": "etsiz_patlican_yemegi",
-                        "name": "*Etsiz Patlıcan yemeği"
+                        "name": "*Etsiz Patlıcan Yemeği"
                     }
                 ],
                 "aksam": null
