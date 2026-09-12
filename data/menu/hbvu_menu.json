@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-11T07:38:03.270509+00:00",
-    "menuHash": "14cb98505b42117670295d14972a5b3af1a8702705b93a5dc005ac5d50924c0c",
+    "lastUpdated": "2026-09-12T07:29:37.533527+00:00",
+    "menuHash": "aec75a54b9902c118beb8f70902f33b2c41349ccd8519d59209a347e69497da9",
     "menu": [
         {
             "date": "2026-09-01",
@@ -238,8 +238,8 @@
                         "name": "Biber Dolma"
                     },
                     {
-                        "id": "kalem_boregi",
-                        "name": "Kalem Böreği"
+                        "id": "borek",
+                        "name": "Börek"
                     },
                     {
                         "id": "kadayif",
