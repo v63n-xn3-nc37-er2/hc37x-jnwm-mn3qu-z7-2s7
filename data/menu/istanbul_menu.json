@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-14T08:22:08.402808+00:00",
-    "menuHash": "c58741b1923445d8967270b841fc8a706ac8688e16d9acc04aec26ff4fcfdc09",
+    "lastUpdated": "2026-09-15T08:14:23.225514+00:00",
+    "menuHash": "e193e453ed502c6ca810f3fddb96781daca6ca1a584c70e5ad3917d0c172622a",
     "menu": [
         {
             "date": "2026-09-01",
@@ -905,8 +905,8 @@
                         "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "mantarli_tavuk_sote",
-                        "name": "Mantarlı Tavuk Sote"
+                        "id": "firin_tavuk_but",
+                        "name": "Fırın Tavuk But"
                     },
                     {
                         "id": "arpa_sehriye_pilavi",
@@ -931,8 +931,8 @@
                         "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "mantarli_tavuk_sote",
-                        "name": "Mantarlı Tavuk Sote"
+                        "id": "firin_tavuk_but",
+                        "name": "Fırın Tavuk But"
                     },
                     {
                         "id": "arpa_sehriye_pilavi",
