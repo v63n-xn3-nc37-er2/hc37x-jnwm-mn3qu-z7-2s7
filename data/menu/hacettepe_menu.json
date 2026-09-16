@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-09-15T08:13:34.061115+00:00",
-    "menuHash": "48be21c352e098032fb72a9533ad78a22472e9a6f9f1b0f446be430f78ba37b5",
+    "lastUpdated": "2026-09-16T08:07:20.919232+00:00",
+    "menuHash": "c10af35f249c5df5d3f8afba5117af080d83ecaac5bd1bd8339f92420e341902",
     "menu": [
         {
             "date": "2026-09-01",
@@ -560,49 +560,6 @@
                     {
                         "name": "* Meyve",
                         "id": "meyve"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-09-14",
-            "menuId": "hacettepe_2026-09-14",
-            "calories": 1563,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Ezogelin Çorbası",
-                        "id": "ezogelin_corbasi"
-                    },
-                    {
-                        "name": "Julyen Kebap (p.patates)",
-                        "id": "julyen_kebap_ppatates"
-                    },
-                    {
-                        "name": "Sarı Sultan Salatası",
-                        "id": "sari_sultan_salatasi"
-                    },
-                    {
-                        "name": "Lokma Tatlısı",
-                        "id": "lokma_tatlisi"
-                    },
-                    {
-                        "name": "* Ezogelin Çorbası",
-                        "id": "ezogelin_corbasi"
-                    },
-                    {
-                        "name": "* Etsiz Bezelye",
-                        "id": "etsiz_bezelye"
-                    },
-                    {
-                        "name": "* Soslu Makarna",
-                        "id": "soslu_makarna"
-                    },
-                    {
-                        "name": "* Lokma Tatlısı",
-                        "id": "lokma_tatlisi"
                     }
                 ],
                 "aksam": null
