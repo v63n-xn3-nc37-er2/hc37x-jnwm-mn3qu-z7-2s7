@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-09-16T08:07:20.919232+00:00",
-    "menuHash": "c10af35f249c5df5d3f8afba5117af080d83ecaac5bd1bd8339f92420e341902",
+    "lastUpdated": "2026-09-17T08:13:05.480912+00:00",
+    "menuHash": "657c3e30f21562b9ac2c5ed8ed21e5b041f202098c4833e7522f359c6cb6dc45",
     "menu": [
         {
             "date": "2026-09-01",
@@ -470,92 +470,6 @@
                     {
                         "name": "* Pirinç Pilavı",
                         "id": "pirinc_pilavi"
-                    },
-                    {
-                        "name": "* Meyve",
-                        "id": "meyve"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-09-12",
-            "menuId": "hacettepe_2026-09-12",
-            "calories": 1220,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Kr. Sebze Çorbası",
-                        "id": "kr_sebze_corbasi"
-                    },
-                    {
-                        "name": "Bahçevan Kebap",
-                        "id": "bahcevan_kebap"
-                    },
-                    {
-                        "name": "Yeşil Mer. Bulgur Pilavı",
-                        "id": "yesil_mer_bulgur_pilavi"
-                    },
-                    {
-                        "name": "Meyve",
-                        "id": "meyve"
-                    },
-                    {
-                        "name": "* Yeşil Mer. Bulgur Pilavı",
-                        "id": "yesil_mer_bulgur_pilavi"
-                    },
-                    {
-                        "name": "* Etsiz Nohut",
-                        "id": "etsiz_nohut"
-                    },
-                    {
-                        "name": "* Turşu",
-                        "id": "tursu"
-                    },
-                    {
-                        "name": "* Meyve",
-                        "id": "meyve"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-09-13",
-            "menuId": "hacettepe_2026-09-13",
-            "calories": 1095,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "name": "Toyga Çorbası",
-                        "id": "toyga_corbasi"
-                    },
-                    {
-                        "name": "Etli Türlü",
-                        "id": "etli_turlu"
-                    },
-                    {
-                        "name": "Cevizli Erişte",
-                        "id": "cevizli_eriste"
-                    },
-                    {
-                        "name": "Çoban Salatası",
-                        "id": "coban_salatasi"
-                    },
-                    {
-                        "name": "* Etsiz Türlü",
-                        "id": "etsiz_turlu"
-                    },
-                    {
-                        "name": "* Cevizli Erişte",
-                        "id": "cevizli_eriste"
-                    },
-                    {
-                        "name": "* Çoban Salatası",
-                        "id": "coban_salatasi"
                     },
                     {
                         "name": "* Meyve",
