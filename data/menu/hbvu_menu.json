@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-17T08:13:15.251460+00:00",
-    "menuHash": "015f508b9f686e2d8aa1c87075215d48cb8d95b67f65d55f59de367479f74883",
+    "lastUpdated": "2026-09-18T07:47:40.634738+00:00",
+    "menuHash": "451db3d4097a18d4445e7954069508a96f3dc6c1e4833c6fe0e0c14f45ffb015",
     "menu": [
         {
             "date": "2026-09-01",
@@ -342,8 +342,8 @@
                         "name": "Çeşminigar Çorba"
                     },
                     {
-                        "id": "pureli_hamburger_kofte",
-                        "name": "Püreli Hamburger Köfte"
+                        "id": "pureli_hasanpasa_kofte",
+                        "name": "Püreli Hasanpaşa Köfte"
                     },
                     {
                         "id": "bolonez_soslu_makarna",
