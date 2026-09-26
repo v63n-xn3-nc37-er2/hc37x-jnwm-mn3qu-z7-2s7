@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-25T08:22:41.849851+00:00",
-    "menuHash": "934156bb896312bd9c176d91936835921dcc797e8a204d014471daff48b589f3",
+    "lastUpdated": "2026-09-26T08:09:22.189693+00:00",
+    "menuHash": "a5282d6f2105069255e8243b14874097e1774f000adcc1e306140a78ee18c311",
     "menu": [
         {
             "date": "2026-09-01",
@@ -527,12 +527,12 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "ezogelin_corba",
-                        "name": "Ezogelin Çorba"
+                        "id": "yayla_corba",
+                        "name": "Yayla Çorba"
                     },
                     {
-                        "id": "sebze_graten",
-                        "name": "Sebze Graten"
+                        "id": "etli_turlu",
+                        "name": "Etli Türlü"
                     },
                     {
                         "id": "bulgur_pilavi",
