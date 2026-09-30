@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-09-29T09:20:38.591398+00:00",
-    "menuHash": "6735857132c17f3e161bc993f5d94d124fe5e41c5a3b08eab1437ac7fdc0a31c",
+    "lastUpdated": "2026-09-30T09:11:46.727455+00:00",
+    "menuHash": "2b92d30fd2d0ffd92bbddff105e5f23e79387f50c380b818faaab2b1efa2b269",
     "menu": [
         {
             "date": "2026-09-01",
@@ -1836,28 +1836,24 @@
                         "name": "Kaşarlı Domates Çorbası"
                     },
                     {
-                        "id": "pilic_kroket",
-                        "name": "Piliç Kroket"
+                        "id": "tavuk_sote",
+                        "name": "Tavuk Sote"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "arpa_sehriye_pilavi",
+                        "name": "Arpa Şehriye Pilavı"
                     },
                     {
                         "id": "yogurt",
                         "name": "Yoğurt"
                     },
                     {
-                        "id": "sebze_corbasi",
-                        "name": "*Sebze Çorbası"
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
                     },
                     {
                         "id": "mantar_sote",
                         "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "kisir",
-                        "name": "*Kısır"
                     },
                     {
                         "id": "murdum_erigi",
@@ -1870,28 +1866,24 @@
                         "name": "Kaşarlı Domates Çorbası"
                     },
                     {
-                        "id": "pilic_kroket",
-                        "name": "Piliç Kroket"
+                        "id": "tavuk_sote",
+                        "name": "Tavuk Sote"
                     },
                     {
-                        "id": "makarna",
-                        "name": "Makarna"
+                        "id": "arpa_sehriye_pilavi",
+                        "name": "Arpa Şehriye Pilavı"
                     },
                     {
                         "id": "yogurt",
                         "name": "Yoğurt"
                     },
                     {
-                        "id": "sebze_corbasi",
-                        "name": "*Sebze Çorbası"
+                        "id": "domates_corbasi",
+                        "name": "*Domates Çorbası"
                     },
                     {
                         "id": "mantar_sote",
                         "name": "*Mantar Sote"
-                    },
-                    {
-                        "id": "kisir",
-                        "name": "*Kısır"
                     },
                     {
                         "id": "murdum_erigi",
