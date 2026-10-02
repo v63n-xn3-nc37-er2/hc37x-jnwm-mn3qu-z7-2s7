@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-01T09:40:01.847111+00:00",
-    "menuHash": "ec3959210bcbb79b1fac0f7529335e4b9d85fa651b0b00175dda576344e63203",
+    "lastUpdated": "2026-10-02T09:12:50.577992+00:00",
+    "menuHash": "cba5c2ba72401789fb5607fb7c2a26ef5325749dbe5657ca3bd4b1e6c390a405",
     "menu": [
         {
             "date": "2026-10-01",
@@ -128,8 +128,8 @@
                         "name": "*Ispanak Yemeği"
                     },
                     {
-                        "id": "patatesli_sigara_boregi",
-                        "name": "*Patatesli Sigara Böreği"
+                        "id": "makarna",
+                        "name": "*Makarna"
                     }
                 ],
                 "aksam": [
@@ -154,8 +154,8 @@
                         "name": "*Ispanak Yemeği"
                     },
                     {
-                        "id": "patatesli_sigara_boregi",
-                        "name": "*Patatesli Sigara Böreği"
+                        "id": "makarna",
+                        "name": "*Makarna"
                     }
                 ]
             }
