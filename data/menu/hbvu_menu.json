@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-06T09:38:56.055855+00:00",
-    "menuHash": "7f1e7bc1e16c0717c0715c2ff2b49c8902b5bbc4b4a0d22e520034b4d28454d3",
+    "lastUpdated": "2026-10-07T09:34:42.596795+00:00",
+    "menuHash": "8604abac2bea60420b506fb4baf0ad2bb9a11f3ccf26af6392c544fee03136e3",
     "menu": [
         {
             "date": "2026-10-01",
@@ -163,6 +163,168 @@
                     {
                         "id": "mevsim_salata",
                         "name": "Mevsim Salata"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-09",
+            "menuId": "hbvu_2026-10-09",
+            "calories": 960,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "EZOGELİN ÇORBA"
+                    },
+                    {
+                        "id": "et_kavurmakoz_domates",
+                        "name": "ET KAVURMA/KÖZ DOMATES"
+                    },
+                    {
+                        "id": "nohutlu_pirinc_pilavi",
+                        "name": "NOHUTLU PİRİNÇ PİLAVI"
+                    },
+                    {
+                        "id": "supangle",
+                        "name": "SUPANGLE"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-12",
+            "menuId": "hbvu_2026-10-12",
+            "calories": 1122,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "arabasi_corba",
+                        "name": "ARABAŞI ÇORBA"
+                    },
+                    {
+                        "id": "nohut_yemegi",
+                        "name": "NOHUT YEMEĞİ"
+                    },
+                    {
+                        "id": "arpa_sehriyeli_pirinc_pilavi",
+                        "name": "ARPA ŞEHRİYELİ PİRİNÇ PİLAVI"
+                    },
+                    {
+                        "id": "sobiyet",
+                        "name": "ŞÖBİYET"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-13",
+            "menuId": "hbvu_2026-10-13",
+            "calories": 821,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corbasi",
+                        "name": "MERCİMEK ÇORBASI"
+                    },
+                    {
+                        "id": "et_donerelma_dilim_patates",
+                        "name": "ET DÖNER/ELMA DİLİM PATATES"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "BULGUR PİLAVI"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "AYRAN"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-14",
+            "menuId": "hbvu_2026-10-14",
+            "calories": 887,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "kasarli_domates_corba",
+                        "name": "KAŞARLI DOMATES ÇORBA"
+                    },
+                    {
+                        "id": "pideli_kofte",
+                        "name": "PİDELİ KÖFTE"
+                    },
+                    {
+                        "id": "soslu_makarna",
+                        "name": "SOSLU MAKARNA"
+                    },
+                    {
+                        "id": "paket_yogurt",
+                        "name": "PAKET YOĞURT"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-15",
+            "menuId": "hbvu_2026-10-15",
+            "calories": 882,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "EZOGELİN ÇORBA"
+                    },
+                    {
+                        "id": "tavuk_izgarakoz_domates_biber",
+                        "name": "TAVUK IZGARA/KÖZ DOMATES BİBER"
+                    },
+                    {
+                        "id": "bulgur_pilavi",
+                        "name": "BULGUR PİLAVI"
+                    },
+                    {
+                        "id": "muz",
+                        "name": "MUZ"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-16",
+            "menuId": "hbvu_2026-10-16",
+            "calories": 1107,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "MERCİMEK ÇORBA"
+                    },
+                    {
+                        "id": "manti",
+                        "name": "MANTI"
+                    },
+                    {
+                        "id": "barbunya",
+                        "name": "BARBUNYA"
+                    },
+                    {
+                        "id": "gazoz",
+                        "name": "GAZOZ"
                     }
                 ],
                 "aksam": null
