@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-07T09:34:42.596795+00:00",
-    "menuHash": "8604abac2bea60420b506fb4baf0ad2bb9a11f3ccf26af6392c544fee03136e3",
+    "lastUpdated": "2026-10-08T09:46:38.252956+00:00",
+    "menuHash": "027ab884a84c57d52774af5bc5fedec0cdcf9d2b13d7c7ea656027a0e8f086ef",
     "menu": [
         {
             "date": "2026-10-01",
@@ -325,6 +325,60 @@
                     {
                         "id": "gazoz",
                         "name": "GAZOZ"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-19",
+            "menuId": "hbvu_2026-10-19",
+            "calories": 920,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "yayla_corba",
+                        "name": "YAYLA ÇORBA"
+                    },
+                    {
+                        "id": "kiymali_ispanak",
+                        "name": "KIYMALI ISPANAK"
+                    },
+                    {
+                        "id": "su_boregi",
+                        "name": "SU BÖREĞİ"
+                    },
+                    {
+                        "id": "magnolia",
+                        "name": "MAGNOLİA"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-20",
+            "menuId": "hbvu_2026-10-20",
+            "calories": 903,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "ezogelin_corba",
+                        "name": "EZOGELİN ÇORBA"
+                    },
+                    {
+                        "id": "marmaris_kofte",
+                        "name": "MARMARİS KÖFTE"
+                    },
+                    {
+                        "id": "tel_sehpirinc_pilavi",
+                        "name": "TEL ŞEH.PİRİNÇ PİLAVI"
+                    },
+                    {
+                        "id": "elma",
+                        "name": "ELMA"
                     }
                 ],
                 "aksam": null
