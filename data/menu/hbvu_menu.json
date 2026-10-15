@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-14T08:14:22.815534+00:00",
-    "menuHash": "027ab884a84c57d52774af5bc5fedec0cdcf9d2b13d7c7ea656027a0e8f086ef",
+    "lastUpdated": "2026-10-15T07:52:33.084975+00:00",
+    "menuHash": "2873f5856758382e78eeef6c5eceee5821be11e83a18a2bf35750383d441a8bf",
     "menu": [
         {
             "date": "2026-10-01",
@@ -379,6 +379,33 @@
                     {
                         "id": "elma",
                         "name": "ELMA"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-10-21",
+            "menuId": "hbvu_2026-10-21",
+            "calories": 813,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "domates_corba",
+                        "name": "Domates Çorba"
+                    },
+                    {
+                        "id": "tavuk_pirzolaelma_dilim_patates",
+                        "name": "Tavuk Pirzola/Elma Dilim Patates"
+                    },
+                    {
+                        "id": "eriste_pilavi",
+                        "name": "Erişte Pilavı"
+                    },
+                    {
+                        "id": "ayran",
+                        "name": "Ayran"
                     }
                 ],
                 "aksam": null
