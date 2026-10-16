@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-15T07:52:14.405040+00:00",
-    "menuHash": "e6e69e3bde58b7f9aa32eb06b1d2d7fd89421ad241c06ee1690e1b52002296e9",
+    "lastUpdated": "2026-10-16T07:43:24.333231+00:00",
+    "menuHash": "1a0133c46bd35e1f12bb8d35f8f591d635710c8b90670c729e3ea51f296249a6",
     "menu": [
         {
             "date": "2026-10-05",
@@ -371,8 +371,8 @@
                         "name": "Mercimekli Bulgur Pilavı"
                     },
                     {
-                        "id": "tahin_helvasi",
-                        "name": "Tahin Helvası"
+                        "id": "yogurt",
+                        "name": "Yoğurt"
                     },
                     {
                         "id": "etsiz_karnabahar",
