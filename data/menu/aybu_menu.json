@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-22T08:09:28.938372+00:00",
-    "menuHash": "be9ed2a1d82c3f8887ba575dceb315d9918064c9eb27c058aa14c277ac6d855d",
+    "lastUpdated": "2026-10-23T08:07:46.247551+00:00",
+    "menuHash": "2a5ddce3b211596552e174feec491304e336d418d973036a0a5e020f310df903",
     "menu": [
         {
             "date": "2026-09-03",
@@ -468,17 +468,17 @@
         {
             "date": "2026-09-28",
             "menuId": "aybu_2026-09-28",
-            "calories": 1279,
+            "calories": 1160,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "kremali_sebze_corba",
-                        "name": "Kremalı Sebze Çorba"
+                        "id": "kretavuk_corba",
+                        "name": "Kre.Tavuk Çorba"
                     },
                     {
-                        "id": "sahan_kofte",
-                        "name": "Sahan Köfte"
+                        "id": "taze_fasulye",
+                        "name": "Taze Fasülye"
                     },
                     {
                         "id": "seh_pirinc_pilavi",
@@ -522,7 +522,7 @@
         {
             "date": "2026-10-02",
             "menuId": "aybu_2026-10-02",
-            "calories": 844,
+            "calories": 624,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -531,8 +531,8 @@
                         "name": "Köylüm Çorba"
                     },
                     {
-                        "id": "taze_fasulye",
-                        "name": "Taze Fasulye"
+                        "id": "sahan_kofte_378_kal",
+                        "name": "Sahan köfte 378 kal"
                     },
                     {
                         "id": "pirinc_pilavi",
