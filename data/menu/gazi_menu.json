@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-10-26T08:23:17.893258+00:00",
-    "menuHash": "b0537356c3ee9a4c5deb217380f0feac604252d9cbeaca96b344b23b05c8e81b",
+    "lastUpdated": "2026-10-27T08:34:09.972188+00:00",
+    "menuHash": "f3c0cd6dd08e0dcfd0a431bd0f0e05cef1639b9424677ff173db989c388ec69f",
     "menu": [
         {
             "date": "2026-10-05",
@@ -16,6 +16,10 @@
                     {
                         "id": "ezogelin_corba",
                         "name": "Ezogelin Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "yumurtali_ispanak",
@@ -49,6 +53,10 @@
                         "name": "Mantar Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "tavuklu_cokertme_kebabi",
                         "name": "Tavuklu Çökertme Kebabı"
                     },
@@ -78,6 +86,10 @@
                     {
                         "id": "mercimek_corba",
                         "name": "Mercimek Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "etli_pilav",
@@ -111,6 +123,10 @@
                         "name": "Sebze Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "etli_nohut",
                         "name": "Etli Nohut"
                     },
@@ -140,6 +156,10 @@
                     {
                         "id": "yayla_corba",
                         "name": "Yayla Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "pureli_dalyan_kofte",
@@ -173,6 +193,10 @@
                         "name": "Ezogelin Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "tas_kebabi",
                         "name": "Tas Kebabı"
                     },
@@ -202,6 +226,10 @@
                     {
                         "id": "kirmizi_mercimek_corba",
                         "name": "Kırmızı Mercimek  Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "tavuk_buryani",
@@ -239,6 +267,10 @@
                         "name": "Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "begendili_kofte",
                         "name": "Beğendili Köfte"
                     },
@@ -268,6 +300,10 @@
                     {
                         "id": "tarhana_corba",
                         "name": "Tarhana Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "etli_kuru_fasulye",
@@ -301,6 +337,10 @@
                         "name": "Domates Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "kiymali_firin_patates",
                         "name": "Kıymalı Fırın Patates"
                     },
@@ -330,6 +370,10 @@
                     {
                         "id": "yayla_corba",
                         "name": "Yayla Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "kiymali_bezelye",
@@ -363,6 +407,10 @@
                         "name": "Şehriye Çorba"
                     },
                     {
+                        "id": "si",
+                        "name": "sı"
+                    },
+                    {
                         "id": "tavuk_bagetpatkizartma",
                         "name": "Tavuk Baget/Pat.Kızartma"
                     },
@@ -392,6 +440,10 @@
                     {
                         "id": "ezogelin_corba",
                         "name": "Ezogelin Çorba"
+                    },
+                    {
+                        "id": "si",
+                        "name": "sı"
                     },
                     {
                         "id": "mantar_soslu_sahan_kofte",
@@ -452,8 +504,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek  Çorba"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek  Çorbası"
                     },
                     {
                         "id": "kiymali_karnabahar",
@@ -483,8 +535,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
                         "id": "sehriyeli_guvec",
@@ -514,8 +566,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "tarhana_corba",
-                        "name": "Tarhana Çorba"
+                        "id": "tarhana_corbasi",
+                        "name": "Tarhana Çorbası"
                     },
                     {
                         "id": "firin_tavuk_but",
@@ -575,8 +627,8 @@
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "peskutan_corba",
-                        "name": "Peskütan Çorba"
+                        "id": "peskutan_corbasi",
+                        "name": "Peskütan Çorbası"
                     },
                     {
                         "id": "etsiz_nohut",
