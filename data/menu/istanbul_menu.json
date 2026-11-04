@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-03T10:20:11.004746+00:00",
-    "menuHash": "5dca8b18166220b0997457e41def31f9f9ddb7aecaae223bf3b2730f3bd6737b",
+    "lastUpdated": "2026-11-04T10:12:40.019675+00:00",
+    "menuHash": "69cb0c79298c1078b9ff1ba57dcc8b11548c2fbc300da2d9868cdf65c183c87e",
     "menu": [
         {
             "date": "2026-11-02",
@@ -217,8 +217,8 @@
                         "name": "Yoğurtlu Havuç Tarator"
                     },
                     {
-                        "id": "cevizli_baklava",
-                        "name": "Cevizli Baklava"
+                        "id": "tel_kadayif",
+                        "name": "Tel Kadayıf"
                     },
                     {
                         "id": "patlican_yemegi",
@@ -247,8 +247,8 @@
                         "name": "Yoğurtlu Havuç Tarator"
                     },
                     {
-                        "id": "cevizli_baklava",
-                        "name": "Cevizli Baklava"
+                        "id": "tel_kadayif",
+                        "name": "Tel Kadayıf"
                     },
                     {
                         "id": "patlican_yemegi",

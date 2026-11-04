@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-03T10:19:19.291015+00:00",
-    "menuHash": "a54d994080289a4a6845e3430d18b4545ea8c4eb330e6b8522ef573b852f852a",
+    "lastUpdated": "2026-11-04T10:11:41.654055+00:00",
+    "menuHash": "5cdfb3682698a823fa113e99b89537d23d5ff1bf2f130e35c564363093194683",
     "menu": [
         {
             "date": "2026-11-02",
@@ -181,8 +181,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "baklava",
-                        "name": "Baklava"
+                        "id": "soguk_baklava",
+                        "name": "Soğuk Baklava"
                     },
                     {
                         "id": "etsiz_kuru_fasulye",
@@ -274,8 +274,8 @@
                         "name": "Pirinç Pilavı"
                     },
                     {
-                        "id": "yoglu_pancar_salatasi",
-                        "name": "Yoğ.lu Pancar Salatası"
+                        "id": "yogurtlu_pancar_salatasi",
+                        "name": "Yoğurtlu Pancar Salatası"
                     },
                     {
                         "id": "etsiz_nohut",
