@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-08T09:44:35.783324+00:00",
-    "menuHash": "6c164ed5374179aa86f424445c8427a55bc8026bb118e16d77df515dc3266f05",
+    "lastUpdated": "2026-11-09T10:40:58.327367+00:00",
+    "menuHash": "58084e8141725b2de556d9d20732ba0d58097f57a9d72feadad2bc0606e02643",
     "menu": [
         {
             "date": "2026-11-02",
@@ -171,7 +171,7 @@
         {
             "date": "2026-11-10",
             "menuId": "aybu_2026-11-10",
-            "calories": 1224,
+            "calories": 1018,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -188,8 +188,8 @@
                         "name": "Şeh. Pirinç Pilavı"
                     },
                     {
-                        "id": "krem_santili_ekmek_kadayifi",
-                        "name": "Krem Şantili Ekmek Kadayıfı"
+                        "id": "kazandibi",
+                        "name": "Kazandibi"
                     }
                 ],
                 "aksam": null
