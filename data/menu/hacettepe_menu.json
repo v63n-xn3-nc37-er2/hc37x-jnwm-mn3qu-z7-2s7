@@ -3,8 +3,8 @@
     "faculty": "Beytepe Yemekhane",
     "uniId": "hacettepe",
     "facultyId": "beytepe",
-    "lastUpdated": "2026-11-09T10:40:49.692318+00:00",
-    "menuHash": "2f004067188207c213cc96e8c3287ff764af5b340f6b97dc6c10588c9fd92ea4",
+    "lastUpdated": "2026-11-10T10:38:22.808064+00:00",
+    "menuHash": "ac17e6b763cb47b35ee7d31e0aa4a9acadf292dcdf7244ea9f12aae91da56754",
     "menu": [
         {
             "date": "2026-11-01",
@@ -396,7 +396,7 @@
         {
             "date": "2026-11-10",
             "menuId": "hacettepe_2026-11-10",
-            "calories": 1058,
+            "calories": 983,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
@@ -409,8 +409,8 @@
                         "id": "tavuklu_pirinc_dilimi"
                     },
                     {
-                        "name": "Gavurdağ Salata",
-                        "id": "gavurdag_salata"
+                        "name": "Kış Salatası",
+                        "id": "kis_salatasi"
                     },
                     {
                         "name": "Sakızlı Muhallebi",
@@ -425,8 +425,8 @@
                         "id": "pirinc_pilavi"
                     },
                     {
-                        "name": "* Gavurdağ Salata",
-                        "id": "gavurdag_salata"
+                        "name": "* Kış Salatası",
+                        "id": "kis_salatasi"
                     },
                     {
                         "name": "* Tahin Helvası",
