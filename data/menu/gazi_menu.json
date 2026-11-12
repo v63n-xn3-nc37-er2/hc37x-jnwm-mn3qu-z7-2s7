@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-11T10:03:49.178651+00:00",
-    "menuHash": "5cdfb3682698a823fa113e99b89537d23d5ff1bf2f130e35c564363093194683",
+    "lastUpdated": "2026-11-12T10:29:29.737952+00:00",
+    "menuHash": "396d3c1f0db559744da9a6d409bca193c5a0eb1c6bbc5842b0c3b613ee59b844",
     "menu": [
         {
             "date": "2026-11-02",
@@ -452,8 +452,8 @@
                         "name": "Brokoli Çorbası"
                     },
                     {
-                        "id": "hasan_pasa_kofte",
-                        "name": "Hasan Paşa Köfte"
+                        "id": "pureli_dalyan_kofte",
+                        "name": "Püreli Dalyan Köfte"
                     },
                     {
                         "id": "pirinc_pilavi",
