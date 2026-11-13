@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "aybu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-12T10:29:46.899364+00:00",
-    "menuHash": "58084e8141725b2de556d9d20732ba0d58097f57a9d72feadad2bc0606e02643",
+    "lastUpdated": "2026-11-13T10:23:13.021585+00:00",
+    "menuHash": "615309b8bea55ee4a30a4bb7c860e22dce65cbe4822a5f1a6475a03deeb17d5b",
     "menu": [
         {
             "date": "2026-11-02",
@@ -279,6 +279,33 @@
         {
             "date": "2026-11-16",
             "menuId": "aybu_2026-11-16",
+            "calories": 782,
+            "meals": {
+                "kahvalti": [],
+                "oglen": [
+                    {
+                        "id": "mercimek_corba",
+                        "name": "Mercimek Çorba"
+                    },
+                    {
+                        "id": "ciftlik_kebabi",
+                        "name": "Çiftlik Kebabı"
+                    },
+                    {
+                        "id": "seh_bulgur_pilavi",
+                        "name": "Şeh. Bulgur Pilavı"
+                    },
+                    {
+                        "id": "meyve",
+                        "name": "Meyve"
+                    }
+                ],
+                "aksam": null
+            }
+        },
+        {
+            "date": "2026-11-17",
+            "menuId": "aybu_2026-11-17",
             "calories": 936,
             "meals": {
                 "kahvalti": [],
@@ -298,33 +325,6 @@
                     {
                         "id": "yogurt",
                         "name": "Yoğurt"
-                    }
-                ],
-                "aksam": null
-            }
-        },
-        {
-            "date": "2026-11-17",
-            "menuId": "aybu_2026-11-17",
-            "calories": 1139,
-            "meals": {
-                "kahvalti": [],
-                "oglen": [
-                    {
-                        "id": "arabasi_corba",
-                        "name": "Arabaşı Çorba"
-                    },
-                    {
-                        "id": "karnabahar_graten",
-                        "name": "Karnabahar Graten"
-                    },
-                    {
-                        "id": "eriste",
-                        "name": "Erişte"
-                    },
-                    {
-                        "id": "tiramisu",
-                        "name": "Tiramisu"
                     }
                 ],
                 "aksam": null
@@ -387,25 +387,25 @@
         {
             "date": "2026-11-20",
             "menuId": "aybu_2026-11-20",
-            "calories": 782,
+            "calories": 1139,
             "meals": {
                 "kahvalti": [],
                 "oglen": [
                     {
-                        "id": "mercimek_corba",
-                        "name": "Mercimek Çorba"
+                        "id": "arabasi_corba",
+                        "name": "Arabaşı Çorba"
                     },
                     {
-                        "id": "ciftlik_kebabi",
-                        "name": "Çiftlik Kebabı"
+                        "id": "karnabahar_graten",
+                        "name": "Karnabahar Graten"
                     },
                     {
-                        "id": "seh_bulgur_pilavi",
-                        "name": "Şeh. Bulgur Pilavı"
+                        "id": "eriste",
+                        "name": "Erişte"
                     },
                     {
-                        "id": "meyve_elma",
-                        "name": "Meyve (Elma)"
+                        "id": "tiramisu",
+                        "name": "Tiramisu"
                     }
                 ],
                 "aksam": null

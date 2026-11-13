@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-12T10:29:47.783331+00:00",
-    "menuHash": "384e3277cd3802ba78a72f3ca68680eceaf0b1ddd2c7ad4d23775c3f09effd56",
+    "lastUpdated": "2026-11-13T10:23:13.992824+00:00",
+    "menuHash": "e2c199dad21d72e3966ec69713a04df94e4db407d10f755e318e9cbee1737427",
     "menu": [
         {
             "date": "2026-11-02",
@@ -288,8 +288,8 @@
                         "name": "Kremalı Mantar Çorba"
                     },
                     {
-                        "id": "marmaris_kofte",
-                        "name": "Marmaris Köfte"
+                        "id": "kiymali_ali_nazik",
+                        "name": "Kıymalı Ali Nazik"
                     },
                     {
                         "id": "sehriyeli_pirinc_pilavi",
@@ -450,8 +450,8 @@
                         "name": "Brokoli Çorba"
                     },
                     {
-                        "id": "firinda_sebzeli_kofte",
-                        "name": "Fırında Sebzeli Köfte"
+                        "id": "tavuk_doner",
+                        "name": "Tavuk Döner"
                     },
                     {
                         "id": "bulgur_pilavi",
@@ -531,8 +531,8 @@
                         "name": "Mercimek Çorba"
                     },
                     {
-                        "id": "hamburger",
-                        "name": "Hamburger"
+                        "id": "hamburgerfirin_guvec",
+                        "name": "Hamburger/Fırın Güveç"
                     },
                     {
                         "id": "elma_dilim_patates",
