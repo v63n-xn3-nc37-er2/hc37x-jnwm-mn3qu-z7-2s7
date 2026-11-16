@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-15T10:12:37.406535+00:00",
-    "menuHash": "69cb0c79298c1078b9ff1ba57dcc8b11548c2fbc300da2d9868cdf65c183c87e",
+    "lastUpdated": "2026-11-16T10:24:41.309920+00:00",
+    "menuHash": "c337ecce09b70fc3d3ecf26d9db89717cabb6d4687691a937dc48d22e7829bf7",
     "menu": [
         {
             "date": "2026-11-02",
@@ -909,8 +909,8 @@
                         "name": "Ayran"
                     },
                     {
-                        "id": "kayisi_kompostosu",
-                        "name": "*Kayısı Kompostosu"
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
                     }
                 ],
                 "aksam": [
@@ -931,8 +931,8 @@
                         "name": "Ayran"
                     },
                     {
-                        "id": "kayisi_kompostosu",
-                        "name": "*Kayısı Kompostosu"
+                        "id": "visne_kompostosu",
+                        "name": "*Vişne Kompostosu"
                     }
                 ]
             }
