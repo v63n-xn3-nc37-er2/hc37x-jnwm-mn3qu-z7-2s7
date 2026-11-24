@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "gazi",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-23T11:34:20.367430+00:00",
-    "menuHash": "396d3c1f0db559744da9a6d409bca193c5a0eb1c6bbc5842b0c3b613ee59b844",
+    "lastUpdated": "2026-11-24T13:06:33.113176+00:00",
+    "menuHash": "cc135da1fd5fb71e6d23574d6f529d592431ba1f88d667596035ac02c986af8d",
     "menu": [
         {
             "date": "2026-11-02",
@@ -576,8 +576,8 @@
                         "name": "Şehriye Çorbası"
                     },
                     {
-                        "id": "tavuk_sinitzel_sebze_garnili",
-                        "name": "Tavuk Şinitzel- sebze garnili"
+                        "id": "tavuk_kulbasti_sebze_garn",
+                        "name": "Tavuk Külbastı - Sebze Garn"
                     },
                     {
                         "id": "pirinc_pilavi",
@@ -589,7 +589,7 @@
                     },
                     {
                         "id": "etsiz_kabak_yemegi",
-                        "name": "*Etsiz Kabak yemeği"
+                        "name": "*Etsiz Kabak Yemeği"
                     }
                 ],
                 "aksam": null
@@ -705,7 +705,7 @@
                     },
                     {
                         "id": "soslu_makarna",
-                        "name": "soslu makarna"
+                        "name": "Soslu Makarna"
                     },
                     {
                         "id": "yogurt",
@@ -731,8 +731,8 @@
                         "name": "Mantar Çorbası"
                     },
                     {
-                        "id": "pilav_ustu_et_kavurmasi",
-                        "name": "Pilav üstü Et Kavurması"
+                        "id": "pilavustu_et_kavurmasi",
+                        "name": "Pilavüstü Et Kavurması"
                     },
                     {
                         "id": "zeytinyagli_pirasa",

@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-23T11:35:08.098043+00:00",
-    "menuHash": "4188a9cb3dc7d688f123d994fee94f5e7623b8b47db6a1db1d930ccab8a87551",
+    "lastUpdated": "2026-11-24T13:07:33.887777+00:00",
+    "menuHash": "f5ba8f13b4a17ad0094ed2818af52cde1ef5ddc6e99b6da35bee75b4d6d9487f",
     "menu": [
         {
             "date": "2026-11-02",
@@ -1431,12 +1431,12 @@
                         "name": "*Brokoli Çorbası"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "ispanak_yemegi",
+                        "name": "*Ispanak Yemeği"
                     },
                     {
-                        "id": "zeytinyagli_ispanak",
-                        "name": "*Zeytinyağlı Ispanak"
+                        "id": "makarna",
+                        "name": "*Makarna"
                     }
                 ],
                 "aksam": [
@@ -1461,12 +1461,12 @@
                         "name": "*Brokoli Çorbası"
                     },
                     {
-                        "id": "etsiz_patates_yemegi",
-                        "name": "*Etsiz Patates Yemeği"
+                        "id": "ispanak_yemegi",
+                        "name": "*Ispanak Yemeği"
                     },
                     {
-                        "id": "zeytinyagli_ispanak",
-                        "name": "*Zeytinyağlı Ispanak"
+                        "id": "makarna",
+                        "name": "*Makarna"
                     }
                 ]
             }

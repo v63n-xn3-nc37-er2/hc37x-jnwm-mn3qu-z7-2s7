@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-23T11:34:35.391917+00:00",
-    "menuHash": "00933a962fe2e0294181b115b0401d36adb386fdae2a8ae87659d7436e20963d",
+    "lastUpdated": "2026-11-24T13:06:54.294567+00:00",
+    "menuHash": "f9539232857f540d06b678b52c0d7c3558653bc56563b4ec4db1d50471ab127e",
     "menu": [
         {
             "date": "2026-11-02",
@@ -458,8 +458,8 @@
                         "name": "Bulgur Pilavı"
                     },
                     {
-                        "id": "sup",
-                        "name": "Sup"
+                        "id": "supangleayran",
+                        "name": "Supangle+Ayran"
                     }
                 ],
                 "aksam": null
