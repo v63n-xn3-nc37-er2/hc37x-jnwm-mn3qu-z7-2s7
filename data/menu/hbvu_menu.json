@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "hbvu",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-24T13:06:54.294567+00:00",
-    "menuHash": "f9539232857f540d06b678b52c0d7c3558653bc56563b4ec4db1d50471ab127e",
+    "lastUpdated": "2026-11-25T11:55:10.908127+00:00",
+    "menuHash": "74d2ea4af17bdc40125e4cb436df3a3ba350cc945cab5416aae33fe57b27e4ac",
     "menu": [
         {
             "date": "2026-11-02",
@@ -481,8 +481,8 @@
                         "name": "Gemici usulu Kuru Fasulye"
                     },
                     {
-                        "id": "pirinc_fasulye",
-                        "name": "Pirinç Fasulye"
+                        "id": "pirinc_pilavi",
+                        "name": "Pirinç Pilavı"
                     },
                     {
                         "id": "mevsim_salata",
