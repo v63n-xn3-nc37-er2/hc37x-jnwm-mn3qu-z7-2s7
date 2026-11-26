@@ -3,8 +3,8 @@
     "faculty": "Merkez Yemekhane",
     "uniId": "istanbul",
     "facultyId": "merkez",
-    "lastUpdated": "2026-11-25T11:55:49.698815+00:00",
-    "menuHash": "f5ba8f13b4a17ad0094ed2818af52cde1ef5ddc6e99b6da35bee75b4d6d9487f",
+    "lastUpdated": "2026-11-26T11:45:01.634924+00:00",
+    "menuHash": "ae958170fa85be454190c4a0a0f6c8494fd4a8255778b3d3a6269a2123d2c67c",
     "menu": [
         {
             "date": "2026-11-02",
@@ -1601,8 +1601,8 @@
                         "name": "Soslu Makarna"
                     },
                     {
-                        "id": "mandalina",
-                        "name": "Mandalina"
+                        "id": "elma",
+                        "name": "Elma"
                     },
                     {
                         "id": "domates_corbasi",
@@ -1615,6 +1615,10 @@
                     {
                         "id": "makarna",
                         "name": "*Makarna"
+                    },
+                    {
+                        "id": "mandalina",
+                        "name": "*Mandalina"
                     }
                 ],
                 "aksam": [
@@ -1631,8 +1635,8 @@
                         "name": "Soslu Makarna"
                     },
                     {
-                        "id": "mandalina",
-                        "name": "Mandalina"
+                        "id": "elma",
+                        "name": "Elma"
                     },
                     {
                         "id": "domates_corbasi",
@@ -1645,6 +1649,10 @@
                     {
                         "id": "makarna",
                         "name": "*Makarna"
+                    },
+                    {
+                        "id": "mandalina",
+                        "name": "*Mandalina"
                     }
                 ]
             }
@@ -1678,20 +1686,20 @@
                 ],
                 "oglen": [
                     {
-                        "id": "yayla_corbasi",
-                        "name": "Yayla Çorbası"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "pilic_sinitzel_sebze_garnili",
-                        "name": "Piliç Şinitzel (Sebze Garnili)"
+                        "id": "balik_palamut",
+                        "name": "Balık (Palamut)"
                     },
                     {
-                        "id": "yogurtlu_havuc_tarator",
-                        "name": "Yoğurtlu Havuç Tarator"
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "tulumba",
-                        "name": "Tulumba"
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
                     },
                     {
                         "id": "ezogelin_corbasi",
@@ -1712,20 +1720,20 @@
                 ],
                 "aksam": [
                     {
-                        "id": "yayla_corbasi",
-                        "name": "Yayla Çorbası"
+                        "id": "mercimek_corbasi",
+                        "name": "Mercimek Çorbası"
                     },
                     {
-                        "id": "pilic_sinitzel_sebze_garnili",
-                        "name": "Piliç Şinitzel (Sebze Garnili)"
+                        "id": "balik_palamut",
+                        "name": "Balık (Palamut)"
                     },
                     {
-                        "id": "yogurtlu_havuc_tarator",
-                        "name": "Yoğurtlu Havuç Tarator"
+                        "id": "mevsim_salatasi",
+                        "name": "Mevsim Salatası"
                     },
                     {
-                        "id": "tulumba",
-                        "name": "Tulumba"
+                        "id": "tahin_helvasi",
+                        "name": "Tahin Helvası"
                     },
                     {
                         "id": "ezogelin_corbasi",
